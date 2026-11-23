@@ -1,0 +1,1558 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: a0BqVCDrmo8b+fNztU1RWlx8Ex2XPhP3HxiUdsPqYB8=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: KuMJikDkgNvMrlMFRa4llWZREWN0jvFy7vx5QBqV4oo=
+
+Name: DebugProbesKt.bin
+SHA-256-Digest: f1VLL3ND49UIB8KI6Qz30xG64Fz+tJnIVlR2zwEcJAM=
+
+Name: assets/.godot/exported/133200997/export-bcb0d2eb5949c52b6a65bfe9
+ de3e985b-Main.scn
+SHA-256-Digest: qNo9z7s0y4rh3mgqtl3M3IYTVvM44MY1zDSB7Ou5uTk=
+
+Name: assets/.godot/global_script_class_cache.cfg
+SHA-256-Digest: +WKttuCaEgAee2b7OwPraqD50KcOnIPrG7sJFy9ZRLE=
+
+Name: assets/.godot/imported/EBGaramond.ttf-c755b3774b341c0e9bb6b895fc
+ 6ee6f0.fontdata
+SHA-256-Digest: NdHUzNioeareg/zg2bvIHzNg5zgavkMJLJz1IiEF5TA=
+
+Name: assets/.godot/imported/ancient_seal.wav-c5f04211ff5bdadd21fba765
+ c3b5b4ac.sample
+SHA-256-Digest: FWT3exah449/ZGbXpL4+BZeee2GLmDhegnIxzRt1KlE=
+
+Name: assets/.godot/imported/app_icon.png-2b785d2d78d7ecf55fe040819d1c
+ 5f7a.ctex
+SHA-256-Digest: XjWeVSDuUHpIr0h5jtZ58+zC9hBrHxN8udjCjiV/qLo=
+
+Name: assets/.godot/imported/bar_bg.png-f8200ccdfba4961f02072ccf4e10d4
+ 42.ctex
+SHA-256-Digest: 2IWvnACLO5mpiIdnNVRZPCno4+0iADPyz4IkF3YFISk=
+
+Name: assets/.godot/imported/bar_health.png-069d7ffc7d20cc17b4e73a57df
+ 5e6ee5.ctex
+SHA-256-Digest: QlqwzEK71xHKLOGJJNXdbrm11TN/AtWdMs7Iaj7uVpQ=
+
+Name: assets/.godot/imported/bar_qi.png-f767e09977f2d5d9421f34752d623f
+ fb.ctex
+SHA-256-Digest: zIK5Z6JLn4bhWyIMtPNhAGhiDYCWT5OHYnuYdlQ+4mk=
+
+Name: assets/.godot/imported/bg_mountains.png-12ebfe081520ab892081e54e
+ 25952726.ctex
+SHA-256-Digest: gcckCfAOsIhLQiCNJeZja11Z8MQ957g5gcsqhJl0NT4=
+
+Name: assets/.godot/imported/blade_wind.wav-972572a15b571fedf66699c90c
+ d6c90d.sample
+SHA-256-Digest: 15j1fzuaFPGg4W7S6rVdqrcgwxE7UwZ0r2JK/plSmhE=
+
+Name: assets/.godot/imported/button.png-1f68e7b78177d0565448e8f1f83f31
+ 85.ctex
+SHA-256-Digest: uA/JIDZpVIIya+Ih+UeTJK+xGvmpOXIVbvU1Q1zT/kI=
+
+Name: assets/.godot/imported/button_disabled.png-7e95d396a52b5bdf09670
+ ab6f5616530.ctex
+SHA-256-Digest: F0C3slvEPGpiCbHTDa0MnQ6Ajgl9JL7KIkyvBnFndqI=
+
+Name: assets/.godot/imported/button_hover.png-01e5543f90496ad9ecd5939a
+ c96f717e.ctex
+SHA-256-Digest: j/1nS4ptNbjI84Pct/QH+8HUN9YIcmwdmndT0ebO82Y=
+
+Name: assets/.godot/imported/button_pressed.png-1c8228997e398b6a3fef70
+ 3b962524be.ctex
+SHA-256-Digest: NvfhPcrVenOCK258RhMJ+SHsB2W3yqSEwFj4QonBAg8=
+
+Name: assets/.godot/imported/click.wav-3dd6a35a4ee1d0d03c5cd8217dbf9d5
+ d.sample
+SHA-256-Digest: 7UKLv8JMUiQPpiJvTq4bevZq/8MbDxfqzZUQ4ENaRxg=
+
+Name: assets/.godot/imported/coin.wav-5b4ac6f94c17da9cce3726cce99d30c9
+ .sample
+SHA-256-Digest: VhFiD+zgfOBslZ/W/5xpsT8aj1ptBWYYMQsy5wGY7NI=
+
+Name: assets/.godot/imported/craft.wav-d6efe2adb1293578251e81a91e7a7eb
+ 4.sample
+SHA-256-Digest: iXWB5PCbgnpN6XAAlQVnusTWDn0eW9TGMAr2sQ04CM0=
+
+Name: assets/.godot/imported/death.wav-e27d9665c2a7d1f0d76b30b812de4d3
+ 1.sample
+SHA-256-Digest: iRUqZEnKc9B2j95M9wm+vBFl+pDdmwuNxNWQrF7BC+w=
+
+Name: assets/.godot/imported/divider.png-87b637271512815b6a8d1fe7634ec
+ f07.ctex
+SHA-256-Digest: jb+Z9OMQSPXEOumPrkS5mkCw0ScYAw5+nvWBfm933Z0=
+
+Name: assets/.godot/imported/element_earth.png-99bfcb047e237cc64d68fa9
+ b0a8c7553.ctex
+SHA-256-Digest: U5DQ8HNpmUxm8JyW8ZUoiIHaPDIl3OGW5BtSnD9Xwjk=
+
+Name: assets/.godot/imported/element_fire.png-2df8637a47ff3940905c2125
+ e67069b4.ctex
+SHA-256-Digest: K9ksgZ8XFwiAPksAyrzMFbiCNH/gJDeeaWE3NJFHHKA=
+
+Name: assets/.godot/imported/element_ice.png-0c637d2425b7079823caad7c9
+ ef1d8cc.ctex
+SHA-256-Digest: kopV19e1RNVNgC3wpvqxSp67FxIIiolBnCqsZvuY8fw=
+
+Name: assets/.godot/imported/element_lightning.png-235b9274853b540f312
+ 268b147d33c4d.ctex
+SHA-256-Digest: HnNKqep2yhJImu69fDQyQhe9b5/6C6SjXd5Mqjguik8=
+
+Name: assets/.godot/imported/element_metal.png-201f82404067f642a5c11b5
+ 402f6a5ba.ctex
+SHA-256-Digest: a/MNdsb4E2lbfSvP9WZLQA3s/W+xgjcZza/bEn/9jOg=
+
+Name: assets/.godot/imported/element_water.png-5cfd4f645e02bd9d267cb31
+ c99f2a038.ctex
+SHA-256-Digest: ETqtJqYAB1/hWaiMDJDTMTha7UouXwUMvu8a2h5bKpo=
+
+Name: assets/.godot/imported/element_wind.png-d2c05d01356260fda3b44401
+ c26a3522.ctex
+SHA-256-Digest: SLIPXMJ6Qq2dhkda2xkBwO1shKHbxy0XOOFEKCEk1Q0=
+
+Name: assets/.godot/imported/element_wood.png-7e3eca76825b3c6c3daae473
+ 4adeb00f.ctex
+SHA-256-Digest: 6hjbVeK11lKat19tD77m3C2GvR8nMKm9dMFihaHAigo=
+
+Name: assets/.godot/imported/event.wav-8612d6b43fb81ecf4e72cd5daf5841c
+ 5.sample
+SHA-256-Digest: iuqCurgHCGZB1BqG41W7Vlt7X4wp232r5Lq0RCB1XJU=
+
+Name: assets/.godot/imported/fail.wav-9a9bb667c31e29c182254ac287753ffb
+ .sample
+SHA-256-Digest: iTlYjM3HIj6kGx9u+dA8/wStVfBFKF2FjY4xANXFfqQ=
+
+Name: assets/.godot/imported/heavens_wrath.wav-fbdc19e374cd57a47716170
+ d15ba7168.sample
+SHA-256-Digest: iMRrVSs6+GSC4b3vdjAsOH7GnfXUw2IXaseHCoENEM0=
+
+Name: assets/.godot/imported/heavy.wav-cbe0621bdced44f0a14b760fb8b6050
+ 8.sample
+SHA-256-Digest: w2oRYT6uo/Uigybf1FmQif5FuVJ9h/v6GmCslmS0GkU=
+
+Name: assets/.godot/imported/hit.wav-c4e45b57fbe9fe41b04c129f1f721831.
+ sample
+SHA-256-Digest: NtakxMXZog2ttc3wEiuYto9XYW5uLpGNnyC4WRmCWIk=
+
+Name: assets/.godot/imported/icon.png-c3d958876317c5b9ff9d73fef1b6123f
+ .ctex
+SHA-256-Digest: Cug6s2FoAtPydGjXN6s4jKdFnNfDzcoAdVpCXW9nnnU=
+
+Name: assets/.godot/imported/jade_market.wav-8a9cd0b913f44e607422671fc
+ 857fb82.sample
+SHA-256-Digest: Rz01BhBY4t6+jg9XwHMn3rBiFuWH22tMUhQjMnstwsk=
+
+Name: assets/.godot/imported/miss.wav-f195f8881a4c904fbe21bcc0ce2a4cf3
+ .sample
+SHA-256-Digest: I4Pr+RBNRTm5sx0OINMCNU8iKDmhW4112zyRzJBbduc=
+
+Name: assets/.godot/imported/mountain_mist.wav-578dd97d0be326b616f8155
+ 084b7b6ca.sample
+SHA-256-Digest: AjD+ukqzXm8XmWCkSk+8A61ijM6++NJ1UiIJeeYpw5k=
+
+Name: assets/.godot/imported/page.wav-2d61d60690f4361bd05fdd2635c1d647
+ .sample
+SHA-256-Digest: WWs8QpxKsIkA8x112WEInqBQknk7skC7c6IptawMiqo=
+
+Name: assets/.godot/imported/panel.png-44ce4ba3ab3a7afd0b84e28fc7225e9
+ d.ctex
+SHA-256-Digest: 17dUM8ozudYdccwEb4CO6f7YimY562en/AhyTa/JqOw=
+
+Name: assets/.godot/imported/realm_deity_transformation.png-e0ac5be975
+ 65b56b20a938c7093d0310.ctex
+SHA-256-Digest: X23R0xBKKGwMz3C9AOD1SYbKiJb7i86Cs8Q1YamCPA8=
+
+Name: assets/.godot/imported/realm_foundation_building.png-2f09d5c1fdd
+ e870640b539d2618b3456.ctex
+SHA-256-Digest: RFj4RGGSl9e5+Wa/cmhTmTN5bz1R8FCAXq9M8tCmaoE=
+
+Name: assets/.godot/imported/realm_golden_core.png-40dcb9d5cdc346535fd
+ 9b9deb71922d6.ctex
+SHA-256-Digest: 0aGnX0OPL/TJIbnPzDTAXNy7ir9eknrzKhg5GaA1vD0=
+
+Name: assets/.godot/imported/realm_golden_immortal.png-fa70a47bbe92fd5
+ ef154d3aed9a38522.ctex
+SHA-256-Digest: t82tFS6FgwGdBNJ/qGYran9vA3cvHKx0L8hgUwzL82A=
+
+Name: assets/.godot/imported/realm_mortal.png-34a82df1c11f531d107cdafe
+ 9581f276.ctex
+SHA-256-Digest: N/dGi25weskfN9vNIh/bZEaoCf3Qup4Fh433ijYZ8PQ=
+
+Name: assets/.godot/imported/realm_nascent_soul.png-66c28d642867eba817
+ 2745742df9d0d5.ctex
+SHA-256-Digest: ZbZcvlECeU7rkm7BSpN8b8ED6DeOAczAANN0s2M8xH8=
+
+Name: assets/.godot/imported/realm_qi_condensation.png-c02ae22534544ca
+ 8475be625caf40744.ctex
+SHA-256-Digest: dslH6VNuOvDxonTDWXoJ57xLt9f8ke/Ffj+E7JRI1qA=
+
+Name: assets/.godot/imported/realm_true_immortal.png-5b227f1bef4a99b4f
+ 6bab3d341cf8cc1.ctex
+SHA-256-Digest: AiyqtOzyV5lbMQL0Q2dreOmNhbp3nzFA9r9b/I14FXw=
+
+Name: assets/.godot/imported/sever.wav-70d87187d8b851a0643c935a1f625e6
+ f.sample
+SHA-256-Digest: EWGcW0OR50BV3ID56SPD8wrunu/mcQw5/uUN3EhmBA8=
+
+Name: assets/.godot/imported/still_lotus.wav-3a7a91b5e0a04980485de87cf
+ 314ff75.sample
+SHA-256-Digest: SYJfUI6tMyDcjVj0jmd4N3zLNgPPYjhfF0qAyjSaLf8=
+
+Name: assets/.godot/imported/success.wav-41c418220099026dee94da7f96ef9
+ 62e.sample
+SHA-256-Digest: XgQDXc7y++GPt0HzPwPiRvWQnvJmCtRVQhRjdTRYaGA=
+
+Name: assets/.godot/imported/thunder.wav-64a6a47323003b4f1c8633baa586b
+ 964.sample
+SHA-256-Digest: atXT3RrsPvcG4Wei5zN4WYlq5jweHlRSyKI3lBR614g=
+
+Name: assets/.godot/mono/publish/arm64/.dotnet-publish-manifest
+SHA-256-Digest: a+FFvS3iZXP8XWWd+jr1SqSR2rpIPz485dW7JDMnYHY=
+
+Name: assets/.godot/mono/publish/arm64/Cultivation.Sim.dll
+SHA-256-Digest: 5LmkT4mjvkNy/ErEcZYiNQTjwmUxEka7aWUMgLO8hXc=
+
+Name: assets/.godot/mono/publish/arm64/GodotSharp.dll
+SHA-256-Digest: TEpaMXCwn3hmHDvN9h5NsbmCz4UDVUrsdEmUy8IH8lA=
+
+Name: assets/.godot/mono/publish/arm64/Microsoft.CSharp.dll
+SHA-256-Digest: 7iqgjEaKDNPxubNXzsC+1fuasohRUgX0YSKK2vHH7Kc=
+
+Name: assets/.godot/mono/publish/arm64/Microsoft.VisualBasic.Core.dll
+SHA-256-Digest: o15BN7YgTSCJtcLvhpmqSZivw7GOOCDQ0foXs0JRyww=
+
+Name: assets/.godot/mono/publish/arm64/Microsoft.VisualBasic.dll
+SHA-256-Digest: 3UYXhz/eRwrrbi3RqErsR6q7uawmXpzDb0nn6ULbkQQ=
+
+Name: assets/.godot/mono/publish/arm64/Microsoft.Win32.Primitives.dll
+SHA-256-Digest: F2gaLKV9LjLeN1mCBz1zNPGTtQ1262AfsyKW9zvlNHc=
+
+Name: assets/.godot/mono/publish/arm64/Microsoft.Win32.Registry.dll
+SHA-256-Digest: M7q70IVStsp9YaKjUxGGmcjnYRRvLNF+IfvB5Z66/zM=
+
+Name: assets/.godot/mono/publish/arm64/SandboxCultivation.deps.json
+SHA-256-Digest: wjrdxFjnrUoYtXEz2/1xH9R2KKTjJEDx/EOuGaet3jQ=
+
+Name: assets/.godot/mono/publish/arm64/SandboxCultivation.dll
+SHA-256-Digest: dceBWX2LD3qhdzLpjTMv0cLQjmSaGwtgsMUcOW8/SrY=
+
+Name: assets/.godot/mono/publish/arm64/SandboxCultivation.runtimeconfi
+ g.json
+SHA-256-Digest: hxORNq4ft8nXjzySEC3Rz43tsVTSflDYPmF6kR2U9Ho=
+
+Name: assets/.godot/mono/publish/arm64/System.AppContext.dll
+SHA-256-Digest: eZqRFEOGQ3Y39Ujmorkv7r41nQhodwP0v5y9vM7bVqY=
+
+Name: assets/.godot/mono/publish/arm64/System.Buffers.dll
+SHA-256-Digest: KmttS+IrBo7MbVoXWgfsnV+DTApjJnLskxR6NS52F5E=
+
+Name: assets/.godot/mono/publish/arm64/System.Collections.Concurrent.d
+ ll
+SHA-256-Digest: ZSKvQPqDWk762Vhq1sZ1wcRXk0kjxENIVVKd4u9FJrA=
+
+Name: assets/.godot/mono/publish/arm64/System.Collections.Immutable.dl
+ l
+SHA-256-Digest: 96e9zAwGSixpDX6rL0a4kY8AdDqTibAyFCS7OnIqH6E=
+
+Name: assets/.godot/mono/publish/arm64/System.Collections.NonGeneric.d
+ ll
+SHA-256-Digest: jVyU5vJqz5NYVq4L6IadgRAR/PmXgio36zPDiGnA0KI=
+
+Name: assets/.godot/mono/publish/arm64/System.Collections.Specialized.
+ dll
+SHA-256-Digest: ke0nWlRXfLWy3czZxSEsKcZLS57HTAREq8uVNLyxB54=
+
+Name: assets/.godot/mono/publish/arm64/System.Collections.dll
+SHA-256-Digest: oLD2EeaOgcJq8E9/U/nFbQ+aCOSbVEhQarJPJsLvLts=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.Annotatio
+ ns.dll
+SHA-256-Digest: 2QWymQyNMmkva5Htsnzgmb8hbMzz/wECSXGBWdDsnpw=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.DataAnnot
+ ations.dll
+SHA-256-Digest: K228tMnxlOBhl3BCFWuzkndFr1/8xz0JD+N3LJiuBwQ=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.EventBase
+ dAsync.dll
+SHA-256-Digest: EE0H4p3ivwXI9YbJ8drXVJHHqKlSZgbPYGRhu3YnhLo=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.Primitive
+ s.dll
+SHA-256-Digest: J5gPQ45Vyw9zw8ZuAmK8JFqzZOpZvK59knaZeV0o/sY=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.TypeConve
+ rter.dll
+SHA-256-Digest: +Z39MjM3fC3OzXKxYkRi6SNJMk+CSSectRwJvjKGxJ8=
+
+Name: assets/.godot/mono/publish/arm64/System.ComponentModel.dll
+SHA-256-Digest: NAKab4aBfalQZcZ2fNMngN8yISLB9SXWgT1sc1lvito=
+
+Name: assets/.godot/mono/publish/arm64/System.Configuration.dll
+SHA-256-Digest: MT2Nxj2wcwJjhxfYqbJn3eZuUJ2RJzHjVurQLg/MlMQ=
+
+Name: assets/.godot/mono/publish/arm64/System.Console.dll
+SHA-256-Digest: oeouFWtaKVu2LDFBzD1CqdE2hFW3z5VKGxDPBw6gzck=
+
+Name: assets/.godot/mono/publish/arm64/System.Core.dll
+SHA-256-Digest: NyJwZg3KiHB49Nqrp+rDvpHLPNbaO5WIGLOFt01atsM=
+
+Name: assets/.godot/mono/publish/arm64/System.Data.Common.dll
+SHA-256-Digest: 5xZBlJ4QB01l1vZdBWwiAqj7f7cIBQ21NAL9NG7JFqM=
+
+Name: assets/.godot/mono/publish/arm64/System.Data.DataSetExtensions.d
+ ll
+SHA-256-Digest: xykM/ThqdHUDUp3NTrbADJS5y+xbHJXx4KniWNaGfUg=
+
+Name: assets/.godot/mono/publish/arm64/System.Data.dll
+SHA-256-Digest: X4y70C4lZ/lHSPPAQhD2f22DCmRqsgKwESsh5GVZ5Ss=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.Contracts.dl
+ l
+SHA-256-Digest: EmD8JdKRJz4oDu6/jwq3LWlSdLtrroIZ3nfhApML6uU=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.Debug.dll
+SHA-256-Digest: FvUiseGoJrHiFboVipCmIrJOAwARQ8cOwYfA/2j0E38=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.DiagnosticSo
+ urce.dll
+SHA-256-Digest: 87i2LYdN3up5QYehXcLR0IavVdxuliMLEx0XSgsAYvs=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.FileVersionI
+ nfo.dll
+SHA-256-Digest: tXChF/lrAfJqG1jkke60+QlaIA8jhb9NpfCMQcT6umg=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.Process.dll
+SHA-256-Digest: 5triU15KLHHEf8yEDkBvJ6Y/Uy11B9jQvqaWEz9BVGs=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.StackTrace.d
+ ll
+SHA-256-Digest: NScfBKfjpSNj3L1YlDwv22gfO18hcLDMpt+B109hCP4=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.TextWriterTr
+ aceListener.dll
+SHA-256-Digest: WGbO8H3kYBnbXecXOyLqmKw4PmuL2B2iC3u+oCtGi4s=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.Tools.dll
+SHA-256-Digest: fgvELwl7Dg2R0ZkexnyQIhjIYiskaPRknJ3evTlgZjY=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.TraceSource.
+ dll
+SHA-256-Digest: k1e+myNwa2OXMOztqUpbEaQ3rCcPO2PUgmDm750LPjM=
+
+Name: assets/.godot/mono/publish/arm64/System.Diagnostics.Tracing.dll
+SHA-256-Digest: 4OVVJflP6bbYqTukSafKhvxw+YG1havk8mZZ29VSh2o=
+
+Name: assets/.godot/mono/publish/arm64/System.Drawing.Primitives.dll
+SHA-256-Digest: WUSUz4t8Kpo2X6pjD0nYh0hRPFLNDWUUo7JET5bziI8=
+
+Name: assets/.godot/mono/publish/arm64/System.Drawing.dll
+SHA-256-Digest: dM+R7cvZ7SflJETiQY1uiOTs47DRtPy28sxQLRe7fZQ=
+
+Name: assets/.godot/mono/publish/arm64/System.Dynamic.Runtime.dll
+SHA-256-Digest: DxDwGcpmpPnUUhLgqnic5GHP/1DTIvOa3+Zm+8+ql+k=
+
+Name: assets/.godot/mono/publish/arm64/System.Formats.Asn1.dll
+SHA-256-Digest: s6HbdqinpFPIS/QNv/4AfzVUXmJNwtOd7epCnsZYDe4=
+
+Name: assets/.godot/mono/publish/arm64/System.Formats.Tar.dll
+SHA-256-Digest: B1XCNmfxWSTV7NCMwAC42ie4yXbskdXH8n5CVWhEpKY=
+
+Name: assets/.godot/mono/publish/arm64/System.Globalization.Calendars.
+ dll
+SHA-256-Digest: Jo3QLHOdd+XuNTgv0Vz1PW1h4zULtWTu9bOgqxkFnUA=
+
+Name: assets/.godot/mono/publish/arm64/System.Globalization.Extensions
+ .dll
+SHA-256-Digest: H3pvwBsth6fOqPSNmyv6+42xccXIJWpUdcKJEls0y6g=
+
+Name: assets/.godot/mono/publish/arm64/System.Globalization.dll
+SHA-256-Digest: W1IZaSDtV6b9vyyNK7ys/ssb4XAeHu1ne06vxujJN3s=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Compression.Brotli.dl
+ l
+SHA-256-Digest: suePje4tfRvKaFqH2EaNtm9asusElaWr8h3dStwgv34=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Compression.FileSyste
+ m.dll
+SHA-256-Digest: q5TZiiVhDeevAvRm8RaCVIO/5fmSzhHae9jTQkdlp9Q=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Compression.ZipFile.d
+ ll
+SHA-256-Digest: lHhIZjzoQKP3OiO9Ct27CIYIY61lbWEsNGFZNGyiv7k=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Compression.dll
+SHA-256-Digest: xxK+2v68mrEvMULoQhRe9CMeSFWKRtHwFfqRIiV/E7w=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.FileSystem.AccessCont
+ rol.dll
+SHA-256-Digest: Q7t/fCZ0qZxCCGZpVMTiBS0Op/NzHxO12EtmFlU0xKU=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.FileSystem.DriveInfo.
+ dll
+SHA-256-Digest: Qj67SOCVmLRhed04n8uQMuAL33W06K0cRUOx0RY4Ncs=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.FileSystem.Primitives
+ .dll
+SHA-256-Digest: CC+9vXtjJTLhcVHu3jkZgsLfBbHlZEJkn8PAg+8NbZo=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.FileSystem.Watcher.dl
+ l
+SHA-256-Digest: wCGMgDsqzy+NjF1VCYcAfPpq9wpPjDH9xyXNlKd3zBU=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.FileSystem.dll
+SHA-256-Digest: Sxrp7yCNwfEhyjjjStWHythy3EYwU58650zUMrvhiGg=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.IsolatedStorage.dll
+SHA-256-Digest: WPKga6YSV9akmVqeM6kUvqkl0wzoXSNZLFsGDJaU/DM=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.MemoryMappedFiles.dll
+SHA-256-Digest: yxSx73dsEHf3ZIB3+6LeW16kPMmcR3S9I5PmjbGB+Kk=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Pipelines.dll
+SHA-256-Digest: TzdNOluNWRUfnbAdLocyYMd/ll5hOksl6GwEtA7JxnQ=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Pipes.AccessControl.d
+ ll
+SHA-256-Digest: x9ggNjvF4tgYxWkadQ4KSVlUjXFlb6KALW++9ChtCus=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.Pipes.dll
+SHA-256-Digest: LrgytfIze7XOJUGggkfETOoghz2prygvX4nFjrdpyf4=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.UnmanagedMemoryStream
+ .dll
+SHA-256-Digest: Kcnno46VOc0t4FTKCIJGXZ6Czm6REYeMJ/bFfb0Y7BE=
+
+Name: assets/.godot/mono/publish/arm64/System.IO.dll
+SHA-256-Digest: Z2ZdHzL0LlDkzyimC4u48hdcH5rp1F2tU4EfwOKYaxY=
+
+Name: assets/.godot/mono/publish/arm64/System.Linq.Expressions.dll
+SHA-256-Digest: sMk9bqbFlTWlzOD0b6EJu7JAGAJBYjsxcb8tCKEz9uI=
+
+Name: assets/.godot/mono/publish/arm64/System.Linq.Parallel.dll
+SHA-256-Digest: YH/eo442VTm+n1mLwTGjYB13OaH3uXsXGNSUyH+8T2I=
+
+Name: assets/.godot/mono/publish/arm64/System.Linq.Queryable.dll
+SHA-256-Digest: UA9XUrWq6AAUQ+OAQVCABGUZAn4qahIp1rSydq3xG7s=
+
+Name: assets/.godot/mono/publish/arm64/System.Linq.dll
+SHA-256-Digest: fAQGJTjcc1tg07re0I/CiztFf5CSjBKIc6bTXkV3gc4=
+
+Name: assets/.godot/mono/publish/arm64/System.Memory.dll
+SHA-256-Digest: fNwDnNiYkFFjHjGSeCU3f/kIBlBDQeDX/towI62Rkgw=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Http.Json.dll
+SHA-256-Digest: I/DFDAYL862kjTpceBOQUMpfACpU9O5+132v4/03RaY=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Http.dll
+SHA-256-Digest: 01/+ttgqfxOHKTxt3JuVfKXo+DHEgrlRYkQcP5GtKeQ=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.HttpListener.dll
+SHA-256-Digest: d7Pjmudv2jjB/CgXI+eBWIfLzb6EGosIPvlW5pAkkcw=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Mail.dll
+SHA-256-Digest: udzWh07kNltNRjcG4Dma+yISpSmpbiDfkq5srDHi+jM=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.NameResolution.dll
+SHA-256-Digest: rTS7TwKJVDFUsCAXNjRSJmgRoTYdz+5jk2ujyW5RMD4=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.NetworkInformation.d
+ ll
+SHA-256-Digest: U6Yts63PZj3T1y28o7zwbTm83pvhaVcYVVm/YhjHz9w=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Ping.dll
+SHA-256-Digest: jTxwN6tMppHVGsQUsSUWFmup+9TAq3LIaDXNvpOsCD8=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Primitives.dll
+SHA-256-Digest: iDJr4/H3pELRxUFWPHyz56MM82X1WMW6E7389t4vQZY=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Quic.dll
+SHA-256-Digest: xzgDT6YufOTTUsFC907Ut2wjn+F3WbriceOYhlwzPw0=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Requests.dll
+SHA-256-Digest: /sPyJHeYE6sTGfldX8zLGgXPUHpw9ZCvg1UX5uez7H4=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Security.dll
+SHA-256-Digest: kmqY9HtcwDMMyp4V7oleNfn8jpj6dzdTPxGv5r2s7Bc=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.ServicePoint.dll
+SHA-256-Digest: x5jdW5k0url0Upb9+dTq0CxgN0vhmSeOAaMZZbUYfNU=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.Sockets.dll
+SHA-256-Digest: hYbDwv+/W357swteBt+WIcUuuGv8G/nmdNU/JgRpEJ8=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.WebClient.dll
+SHA-256-Digest: uy2gL8wq10cxQ/oZEiAa4wW7aj9dUclnaNGjXQjwceU=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.WebHeaderCollection.
+ dll
+SHA-256-Digest: KSDgm/VgXbbZU5OofawPFnt0d0L+mSFZ0zyvmOHETZ4=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.WebProxy.dll
+SHA-256-Digest: N5rBMfMs4/Gn06h7ndsJWum1LasZbc96mozwND1o5PE=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.WebSockets.Client.dl
+ l
+SHA-256-Digest: II+C3ZuK0Mqp6DyhHPL7rBpbQBbekYZqTVKpsxz0hoM=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.WebSockets.dll
+SHA-256-Digest: fXBjvMi3j7yfpwIaUNbGvzPqg592PmG6SqXytQXdGAM=
+
+Name: assets/.godot/mono/publish/arm64/System.Net.dll
+SHA-256-Digest: opgyCfwAe2rcGTU6jfkz+PRG26DbAKRZgTFozdlNRvc=
+
+Name: assets/.godot/mono/publish/arm64/System.Numerics.Vectors.dll
+SHA-256-Digest: alGFvo28BiujVEOpJSkSWur+m/Ob2oS0vfVfcEtJBnY=
+
+Name: assets/.godot/mono/publish/arm64/System.Numerics.dll
+SHA-256-Digest: 8NIYl1Gn2/KzUk4e78Ctkq0YYyRsDq0I+txVClnDYjg=
+
+Name: assets/.godot/mono/publish/arm64/System.ObjectModel.dll
+SHA-256-Digest: IsQFixWuv5znwHAZ+jFtwfdbvmscC4RJT8hvTxYgQBw=
+
+Name: assets/.godot/mono/publish/arm64/System.Private.CoreLib.dll
+SHA-256-Digest: wNDxOBKp+1gyWiLLPHxUz6Qv3EdeQpygE9vJRfXdT8k=
+
+Name: assets/.godot/mono/publish/arm64/System.Private.DataContractSeri
+ alization.dll
+SHA-256-Digest: oxlsGJ4KZi0c7R9mxj3uZNTtJHSoiOfTj9kbPGxrjRk=
+
+Name: assets/.godot/mono/publish/arm64/System.Private.Uri.dll
+SHA-256-Digest: DRjjyX9Omlu6v8g+RHxHjMd5nT6xBZu/iFSe5YswCkI=
+
+Name: assets/.godot/mono/publish/arm64/System.Private.Xml.Linq.dll
+SHA-256-Digest: 0Bwc6cxFQJHaYoaCNUU04MvKYcL1kOjnn48yFhMpKXk=
+
+Name: assets/.godot/mono/publish/arm64/System.Private.Xml.dll
+SHA-256-Digest: EnQOonRwHCZbY1j7rqJNvavHEd3V5lEGNrx7iCOen4Q=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.DispatchProxy
+ .dll
+SHA-256-Digest: WlO5rfVn2N9CYfCmyA20xzMkuk67TsPcrcvXpUTlcdY=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Emit.ILGenera
+ tion.dll
+SHA-256-Digest: Fa7/UCGjilLa2uIXVxru087aB7Fc9SBI3PIsUmn3OhA=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Emit.Lightwei
+ ght.dll
+SHA-256-Digest: R2dlLRSVNJerCiyOHTDZUzHgKZCkn3acTg0Ahzs9rDo=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Emit.dll
+SHA-256-Digest: 50QwGEjcCTixc6SqIWkyQknKrG0CTKSOpdMaqc9bOZQ=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Extensions.dl
+ l
+SHA-256-Digest: Y/YcOOJRQANkxClDkUgbTSX6jI/uIK/4H9rpANNISvM=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Metadata.dll
+SHA-256-Digest: yj0s+tF+xbjJ0DsFHxXixdYPOoKfMDZOO0NAK+Bhc1E=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.Primitives.dl
+ l
+SHA-256-Digest: Ca+N9tadxO2rGnAuSg4DTFKsIt2vhFmLh7hu591eclI=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.TypeExtension
+ s.dll
+SHA-256-Digest: WCs4LjpXmJCkzAZDSeya82DleG8K7pWJ/OjwiuBCwaM=
+
+Name: assets/.godot/mono/publish/arm64/System.Reflection.dll
+SHA-256-Digest: 5CnKssixRIPTSQubgafpH3sl49ZW8VsYeRgvpXT9+98=
+
+Name: assets/.godot/mono/publish/arm64/System.Resources.Reader.dll
+SHA-256-Digest: flJLgBlEtRwYTbR6uEMp8wy0YMULG9sNwQXORNoLTCY=
+
+Name: assets/.godot/mono/publish/arm64/System.Resources.ResourceManage
+ r.dll
+SHA-256-Digest: 1LtR/IpTrqfYo5RxMZWVNZA40W+G5zv+jMmqI9nXWx4=
+
+Name: assets/.godot/mono/publish/arm64/System.Resources.Writer.dll
+SHA-256-Digest: sqgWF8uNk5JbQyFe4nPXEiU+H+EobSD+gG3KwRdUXXQ=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.CompilerServices
+ .Unsafe.dll
+SHA-256-Digest: 8tlRB3+nXGwzx34/1qBcCNhki/9NBtHuC9n2JxVxEqg=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.CompilerServices
+ .VisualC.dll
+SHA-256-Digest: tsQQhHY9gaRLrDtZyghKv8oMrrKAueR2WL0KE4yBfJY=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Extensions.dll
+SHA-256-Digest: GVh2k++zehhkY8sgPSMHDWrcN2QGzVsxNSqgBFlwhsE=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Handles.dll
+SHA-256-Digest: 0Oe7eEgJpKG54ucx0l8vWCvhpkyliOgN1syQwCUU1og=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.InteropServices.
+ JavaScript.dll
+SHA-256-Digest: vlJvsXBs4bmp08HJjBzOQL1FFzK8rjaGwbz3IDH208Q=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.InteropServices.
+ RuntimeInformation.dll
+SHA-256-Digest: ULAqLSPr3ZXTfnUqnsQGLnlbd1PtMmI8hQVIz0vcWb8=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.InteropServices.
+ dll
+SHA-256-Digest: Mm0DYULuMlk3SsmyQnKMkRjukfPQsncxyBHlLhJICfE=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Intrinsics.dll
+SHA-256-Digest: K5d5lq4RjWo1iAYQHxBGa3HE6Da9w3EhBLWi6WRcQjg=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Loader.dll
+SHA-256-Digest: RvOmkH+ihHus/Gf2RZRJsfPy5wQI3KvFFc1ilIPODIw=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Numerics.dll
+SHA-256-Digest: lNh87tNMKYX26O7zVkkLmtwDUJyuSdhwZJu9bR5Fkic=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Serialization.Fo
+ rmatters.dll
+SHA-256-Digest: b7aKHcEeaAuDPcsAT8F7q48fPl2d614j014zHeNLFWg=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Serialization.Js
+ on.dll
+SHA-256-Digest: v160E5rRf+raJdMklOBPX+xzeulhzpHSBWyu9iYLXR4=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Serialization.Pr
+ imitives.dll
+SHA-256-Digest: wHNchb980Lpx5V2SahPQRfF88Y5DgacTYU6Gb9zZeYw=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Serialization.Xm
+ l.dll
+SHA-256-Digest: BUpuzXoFFYK9UfyYRQdv0SEJYNZZMLWY8xewOwVaMeg=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.Serialization.dl
+ l
+SHA-256-Digest: SfOdb/XvNt68+Ekema8AY/TaJzpgO70BA/9SBnN5OtE=
+
+Name: assets/.godot/mono/publish/arm64/System.Runtime.dll
+SHA-256-Digest: 7jjxzLSaOzp3503lqGE4lkbJtgMoOc8spQuxEfdBLbU=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.AccessControl.d
+ ll
+SHA-256-Digest: hlc4I1zH+J8uQns1f63f5chdtFzsHvWP84E1hlTHO7E=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Claims.dll
+SHA-256-Digest: oySPhh/9hf2FrNM0VmcOkij7goSRi4LHjaXHnuS6LWA=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.Al
+ gorithms.dll
+SHA-256-Digest: QC5Fy0bGX5GijgQhR2SCt995Z6bw7DlWCW9tt6HL89I=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.Cn
+ g.dll
+SHA-256-Digest: fjC7YRHCcxXJ/WCA2LAITRCSeUUJ4kEaEC6rL6bzvRc=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.Cs
+ p.dll
+SHA-256-Digest: 7K1WRKkefhBBBfzO/9Q0GKae9nizuOpLOQhagtvHtrM=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.En
+ coding.dll
+SHA-256-Digest: WPddvJoHF42q+DNlcCL/cu9TftKwU54GllhtTIeTDLM=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.Op
+ enSsl.dll
+SHA-256-Digest: xkHJAkCgdURz5QFujIPY6EEabWhaGnnxVqaAXo4zQMc=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.Pr
+ imitives.dll
+SHA-256-Digest: CmQTbXKfj344vumWQ6zx/OZ7PGZ0DaAf7kQ3pGGWFmo=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.X5
+ 09Certificates.dll
+SHA-256-Digest: WbhSkNBQ4NoeWTQHgE3AHLiR+6oG7hrQuPWpxLrpGtA=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Cryptography.dl
+ l
+SHA-256-Digest: qTz93meoqUjBKoY7N/T9qCjXHJEtdn4gZ3nSmkAJWL4=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Principal.Windo
+ ws.dll
+SHA-256-Digest: V8YXjRPur0id8J2Ks/eIDjnWCaTP+0xAHfYWF+F/Haw=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.Principal.dll
+SHA-256-Digest: mRek3pmhizi9LfUOip44hLgMSetIIa7iVo0qvwhB0cI=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.SecureString.dl
+ l
+SHA-256-Digest: Cytoxli8PTz1pQijb8/FQBuVbkPFhK70s3IJaQ+3afU=
+
+Name: assets/.godot/mono/publish/arm64/System.Security.dll
+SHA-256-Digest: kEeL7TYcRP/mwvn5GAkPlzyThbGm+eG7Uv9PSxeA1Dg=
+
+Name: assets/.godot/mono/publish/arm64/System.ServiceModel.Web.dll
+SHA-256-Digest: Xq5MnqEFSVmunAAB/9J79PtTpv9NRe7rbFpxZsUQ+84=
+
+Name: assets/.godot/mono/publish/arm64/System.ServiceProcess.dll
+SHA-256-Digest: YIjtW3sHp365LMQjLlVyBLdnkXZr9KEQrbM8VNT+1/U=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.Encoding.CodePages.
+ dll
+SHA-256-Digest: kADX50RlmFpc55OM3QSAcwAcTaoiXw9ot9AJ5VVZ5Bg=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.Encoding.Extensions
+ .dll
+SHA-256-Digest: dnXrAp9EKvwcr1sPpz1O4HMbNEsufk0CDMT3ERCAY9U=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.Encoding.dll
+SHA-256-Digest: cpudCxfMFNFe1t6yAAzVRpDQvrr7F/RjrywyS4xFDKo=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.Encodings.Web.dll
+SHA-256-Digest: vQ4m0jYyyiT4AIe4O0zAt4KA5suai3NSa6q7M71DGcY=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.Json.dll
+SHA-256-Digest: tDUbdwuuCUcKCqHhdMFl1bHL4aHMYIBrbYWKqF77fbU=
+
+Name: assets/.godot/mono/publish/arm64/System.Text.RegularExpressions.
+ dll
+SHA-256-Digest: z3TiX+XwOrnV61He1CCWIgz08NoaoCFtz4L3GgXOLqI=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Channels.dll
+SHA-256-Digest: MkYseDMip1jOlQG0DQWLMZ9ObF3fGi1NGjthw2Fv6N8=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Overlapped.dll
+SHA-256-Digest: 01V4HdRY2cIhGs7Ua7bxOsXXHtTfzo4OLR3eDWa/vdg=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Tasks.Dataflow
+ .dll
+SHA-256-Digest: qlniJVIPQJFbrcUyHxC7hce8bMftwhP83gCmP1F05Ck=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Tasks.Extensio
+ ns.dll
+SHA-256-Digest: FqWXcSSSrLrwjfEmEIGzJmFtAvSQf8MBaeAyqbGmF2Y=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Tasks.Parallel
+ .dll
+SHA-256-Digest: XqczkDMuy4pgAbvc/c3wDNKDBaLbatq0wMSczi8Gmxg=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Tasks.dll
+SHA-256-Digest: TEor466x+DW1k840Kjf/jA8M9/UCRmLccEgz0UpuHew=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Thread.dll
+SHA-256-Digest: WUWGwz8CPWh0nE/yR1e0AN600GXTz4ujbQB3bsjRvA0=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.ThreadPool.dll
+SHA-256-Digest: x8EGF399Kr/DRLl7+HVcBknGYBddf/23zJhup0yLY6o=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.Timer.dll
+SHA-256-Digest: xX+FOws21wrBZOWSth8xg61sHiZZUz2u+jJwKO6pgiE=
+
+Name: assets/.godot/mono/publish/arm64/System.Threading.dll
+SHA-256-Digest: MYVv1bp/kptxIjUwFk0NAtoPrrfqmn9ASLIpTzm2rcY=
+
+Name: assets/.godot/mono/publish/arm64/System.Transactions.Local.dll
+SHA-256-Digest: H8qRN9z953ATb+TpQqy3ULBCrQ3hctDCprws8kbkxwY=
+
+Name: assets/.godot/mono/publish/arm64/System.Transactions.dll
+SHA-256-Digest: RrwspZHmCHn0Ea5E1NDHL35HkVEMncu78QbzJj6nfpg=
+
+Name: assets/.godot/mono/publish/arm64/System.ValueTuple.dll
+SHA-256-Digest: 1krGD/LAtY1XXZ9bkvvaW6MfdzFpOFH8K3HOv8GeTsg=
+
+Name: assets/.godot/mono/publish/arm64/System.Web.HttpUtility.dll
+SHA-256-Digest: fnpyUvNW0UsDAN8B+xcn7BBgQWmotIc+rYbn49k4eDE=
+
+Name: assets/.godot/mono/publish/arm64/System.Web.dll
+SHA-256-Digest: Bk+VbOETKpmv9knELGRueIt545qwiePFezpFtywsVvY=
+
+Name: assets/.godot/mono/publish/arm64/System.Windows.dll
+SHA-256-Digest: BejD8mzceCMO7+XDIl94tNYMYetOPZyPfRkmeSa7AeM=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.Linq.dll
+SHA-256-Digest: kSx6OYVMZDBndj3ISkjEXRNiDVurZvp+PHfXmfI2okM=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.ReaderWriter.dll
+SHA-256-Digest: qhS0FCGc6n6elIRRyY/Xpq7F+szbcylLdBj3GN6/KJw=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.Serialization.dll
+SHA-256-Digest: pCWR4J5CHrfSGqheIgRYhEajuSnqR52eDcYTFLrO99s=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.XDocument.dll
+SHA-256-Digest: cAkWH62KrSRBCECDBMDTAL4I9EFuno4mv6Dcxk9lWxs=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.XPath.XDocument.dll
+SHA-256-Digest: bgsJBi66llnw1yfRs4iSiXAKMkzSlPIDOOYDOaN62WU=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.XPath.dll
+SHA-256-Digest: 8x16A+T65lUcHNiSqaG1tjvTJ3+FX8RmCOlGy5sRRaA=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.XmlDocument.dll
+SHA-256-Digest: /qq4pL8lXGJigVwhmzVyN8VWlhyx7AJqXCqCkKXVUKE=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.XmlSerializer.dll
+SHA-256-Digest: 3fw0yWPt4FS3Op2ksm+FkNoOgMU3AoK25LapVteiVrs=
+
+Name: assets/.godot/mono/publish/arm64/System.Xml.dll
+SHA-256-Digest: LdMDi4raP5tnPvjNB9mrszQFb2h2ID/xVQ49TkLAU3Y=
+
+Name: assets/.godot/mono/publish/arm64/System.dll
+SHA-256-Digest: WzOlB+0j7A8izCKbG6ZXDwy8tUPUuWDfl6qfT+tuQDI=
+
+Name: assets/.godot/mono/publish/arm64/WindowsBase.dll
+SHA-256-Digest: 6swF1dWiW+ObOA02Q4Xs2tR+dnu7sYHu09rHFgto+dA=
+
+Name: assets/.godot/mono/publish/arm64/mscorlib.dll
+SHA-256-Digest: QDtXn2+xlzKhJjA3vjzoSV5OAt8N8cvtG2XQQHTNShM=
+
+Name: assets/.godot/mono/publish/arm64/netstandard.dll
+SHA-256-Digest: Rju9GDjeE+ayJR8gxbdy+zbIx4G1gFF1PROO3VsLJgY=
+
+Name: assets/.godot/uid_cache.bin
+SHA-256-Digest: PvwT87cZq9VeBpDbLnBbIgHh7/qLXkIhz9OaB6J02Mg=
+
+Name: assets/Main.tscn.remap
+SHA-256-Digest: H6IEv2cs/aWze2RqyLK6yYSQK7R7cFGSrbR4fEp7MGo=
+
+Name: assets/_cl_
+SHA-256-Digest: TDvJNBQGTdkajEMiBfiYINeYVgQN/1CbxDyN/UR/cKk=
+
+Name: assets/art/app_icon.ico
+SHA-256-Digest: hw9t1UWkEby/y1qMPfAZD5JNqI40VuccvHFtBBUqqYk=
+
+Name: assets/art/app_icon.png
+SHA-256-Digest: zicNeLjMziwntHtz9djBM7+ZccUY/SawcP4Edgune40=
+
+Name: assets/art/app_icon.png.import
+SHA-256-Digest: EPkXEOL+O/VvH4w3Dediy6RqS6xzVupN6GLnD72AlKY=
+
+Name: assets/art/bar_bg.png.import
+SHA-256-Digest: aoKs29T+rHfvO2VmvjvWQDs7nX9wrper0rDF74biDMU=
+
+Name: assets/art/bar_health.png.import
+SHA-256-Digest: xooNrElSpG9wypzIbQa/I55QZmvJFALFZdqBRBwA3yo=
+
+Name: assets/art/bar_qi.png.import
+SHA-256-Digest: qKfLmCpgOOv9nvDjNb3WbD05W14VcrV92oRcA3uGHdA=
+
+Name: assets/art/bg_mountains.png.import
+SHA-256-Digest: voZN1eH4vm9UWAaCfGifkoclE2lrnLy+/FjipmdqXmo=
+
+Name: assets/art/button.png.import
+SHA-256-Digest: EoN9oCm9JnTucEsjvTh9Jn5Gh6BSy0lvBNraJAuz468=
+
+Name: assets/art/button_disabled.png.import
+SHA-256-Digest: o+hftWmTchmJy5AnvKlF0mSlUURaaFl9gkKWVOgcdjE=
+
+Name: assets/art/button_hover.png.import
+SHA-256-Digest: YRc9Hd2kjOrh4zC3BncbbTyM1whVwfy8iNdeqFk5ENA=
+
+Name: assets/art/button_pressed.png.import
+SHA-256-Digest: 6nJc59CbhJP18fxmtTM/7aE5s4lz2vziUUFMDgvlnN0=
+
+Name: assets/art/divider.png.import
+SHA-256-Digest: yordrFJe0co7GAxJBDaxthMgkIxs8XmxNbASfayYElI=
+
+Name: assets/art/element_earth.png.import
+SHA-256-Digest: KPvJvKSatL9QTezkAv759fpjd5iwuS3Vr2mX/GRSyMg=
+
+Name: assets/art/element_fire.png.import
+SHA-256-Digest: FJsUG2Jou4ALb8eLPCsOauAH1qrDkkuvW59kxaxYdoU=
+
+Name: assets/art/element_ice.png.import
+SHA-256-Digest: PfiRfH0yYpqSDUob4B0TGTUJLZ9NxvEuDEpRRKiGC0g=
+
+Name: assets/art/element_lightning.png.import
+SHA-256-Digest: cSHIJNiiEEJ8HCk4jTFvwX5HLXyTBrgC8L1xHpkabas=
+
+Name: assets/art/element_metal.png.import
+SHA-256-Digest: SsBEusI3iq+ONrmiG94/EFeICbiONKqaM7e/NT3TqI4=
+
+Name: assets/art/element_water.png.import
+SHA-256-Digest: XWKL8API7w6wPf2JReq6h78OLH/WPYDyAmdyYBlZtb0=
+
+Name: assets/art/element_wind.png.import
+SHA-256-Digest: BYXypF3lt303jZ/lYCGLB6nISXTmlZHzbofVZbH/KEU=
+
+Name: assets/art/element_wood.png.import
+SHA-256-Digest: n58pXF5R1ktL5hMLm9tgBBmRHppcz+cOBBhseGJJDJg=
+
+Name: assets/art/icon.png.import
+SHA-256-Digest: ZvcEkaIdtb1ODF7U8ZV9c+F7qVvHaQ/uqa9GhXUG5aI=
+
+Name: assets/art/panel.png.import
+SHA-256-Digest: VT8IfGCdIo7qPGWLEoYLoMsClktX3eUGS2Lkk0LdZJo=
+
+Name: assets/art/realm_deity_transformation.png.import
+SHA-256-Digest: 8KSvD++FWNmzx3ZHekKlgFbX3s4wlH/1L/+CdkyfdUo=
+
+Name: assets/art/realm_foundation_building.png.import
+SHA-256-Digest: a3yu0HGJpFSBpcVT8ZomKvftMOIHKSy7HFk5IfpLZ+s=
+
+Name: assets/art/realm_golden_core.png.import
+SHA-256-Digest: CZrCF84U54oZmXbi9Qf6e+kRkp1wM9GJSZZP77ItU0A=
+
+Name: assets/art/realm_golden_immortal.png.import
+SHA-256-Digest: 49wyz+C00EvYygv8FlPWm1NHne43gETg+k/pLl8cG+U=
+
+Name: assets/art/realm_mortal.png.import
+SHA-256-Digest: NPKJQcQnLTShF2wr2hvGSxcg/4H8BRdbtarplfZMJSA=
+
+Name: assets/art/realm_nascent_soul.png.import
+SHA-256-Digest: k5waQExOp0SPZh3zZqvmcZpCF7XiTw+MPi9XqkqIPZM=
+
+Name: assets/art/realm_qi_condensation.png.import
+SHA-256-Digest: VVwy4JSy2L/jILXy3QnDvycoQhm2a5r/dBeS294cl84=
+
+Name: assets/art/realm_true_immortal.png.import
+SHA-256-Digest: kDuVwv3vRFNhGolv+BgvOfO3tL3PLxnoINx8/WKa7WY=
+
+Name: assets/assets.sparsepck
+SHA-256-Digest: QOm/G0r5DKJkuCSZPmTfMwFJev0hd1oDoR/J0oBjWGo=
+
+Name: assets/audio/music/ancient_seal.wav.import
+SHA-256-Digest: hstbsswESlp9GAuv8FgLj3UuUJKxl3LlVzUbmQSMg9k=
+
+Name: assets/audio/music/blade_wind.wav.import
+SHA-256-Digest: 63sinA1NpD1STZk4UJqM49Ol2sY59qQ75T5o3PsQbKM=
+
+Name: assets/audio/music/heavens_wrath.wav.import
+SHA-256-Digest: P9/6wXPnKrEN/BmOmw3LopfoBRa4TllPW4fSJckvDZQ=
+
+Name: assets/audio/music/jade_market.wav.import
+SHA-256-Digest: U2n5CXe6yuBqF6xk3X86Q4qUa5bXXHCnvvnlHEgo+RA=
+
+Name: assets/audio/music/mountain_mist.wav.import
+SHA-256-Digest: hlGUSbr/FNgDfer6awDPB2xvdP93mzs/lcPdVVcWxTk=
+
+Name: assets/audio/music/still_lotus.wav.import
+SHA-256-Digest: 0dXdd+Vg6XTuKIf8u6b1YjAhqgyRDdUjVj9zt4MJamo=
+
+Name: assets/audio/sfx/click.wav.import
+SHA-256-Digest: KgDlmchzG/P+M+0zvZK6LOsS090Qg1kEv870PUKQA4c=
+
+Name: assets/audio/sfx/coin.wav.import
+SHA-256-Digest: m1nwNITgIvZC6KBwNlM8syXI//u9u2yO/Y2u8c0hsiE=
+
+Name: assets/audio/sfx/craft.wav.import
+SHA-256-Digest: Wx6FbO8+o7ZTR2E6sWfy6Xk84pDf/THqLJOgX2j+ABs=
+
+Name: assets/audio/sfx/death.wav.import
+SHA-256-Digest: 7kdvQlk41FkipW/O6i4uAo58LVb7r1/AgiwkcaNU+iw=
+
+Name: assets/audio/sfx/event.wav.import
+SHA-256-Digest: UhKFMVtIGgDG3gpg+V9WD8Lb1d9qiGFra6kYXyI/qX4=
+
+Name: assets/audio/sfx/fail.wav.import
+SHA-256-Digest: 24n3yzq1Gf6gVASJE+Kmm8/dTH3DXirSW4zNOqJliF4=
+
+Name: assets/audio/sfx/heavy.wav.import
+SHA-256-Digest: c/K9g1e6XsJWU/y5w2YfQghIVt5gdL0smIkLhY+sc08=
+
+Name: assets/audio/sfx/hit.wav.import
+SHA-256-Digest: 3HUUCEv8+W/Hyoi8/QahI7QEUGSFPXt9QKOtnov15lk=
+
+Name: assets/audio/sfx/miss.wav.import
+SHA-256-Digest: asLQzA+uyBsknQdSS+ryRzlYJYQ+wsaUygniYOHh+k4=
+
+Name: assets/audio/sfx/page.wav.import
+SHA-256-Digest: 4QJtrT6ztVH+cKgIpKifGPdCkokTaHkfeG4LbvoPWiY=
+
+Name: assets/audio/sfx/sever.wav.import
+SHA-256-Digest: iW/EcQk8wNHJ8VGmcVPsUgUmWuGnxntlYzn6wnG1LPE=
+
+Name: assets/audio/sfx/success.wav.import
+SHA-256-Digest: 3eNI8ZHZavZrwVffQJO5vqpiTsJkYz34/MCEyPWXKwg=
+
+Name: assets/audio/sfx/thunder.wav.import
+SHA-256-Digest: zvaLdEBNfeNU95eumBzL3Coh7foljCnQ1jIVsm4zwVU=
+
+Name: assets/dexopt/baseline.prof
+SHA-256-Digest: YbnhvCCB0kOeQ0BJWE5koMb0QCYAdzsvz3E7vGpy4+Q=
+
+Name: assets/dexopt/baseline.profm
+SHA-256-Digest: CSf0flv5aSZm2XV/bM+77LO6Q0dDExtUxnr28sIOPqA=
+
+Name: assets/fonts/EBGaramond-OFL.txt
+SHA-256-Digest: Rw5HqW2R3/FTdJizRNILYdtyXCxKMzPEK6RFghBP+eQ=
+
+Name: assets/fonts/EBGaramond.ttf.import
+SHA-256-Digest: RUs8suocyBmhY9JSxVh7yh68X6VjBTNXVrN94PvL8Fg=
+
+Name: assets/licenses/dotnet-LICENSE.txt
+SHA-256-Digest: pyM1zGxXJCRyMIWAiSJYENgyCi0NcAQBvb1zTD+3N3k=
+
+Name: assets/project.binary
+SHA-256-Digest: dM0ADzAU9+fiYiffQxDaO81zGFbLrYersoritYgqqvg=
+
+Name: assets/src/Audio/MusicPlayer.cs
+SHA-256-Digest: 55SqlCOfVav0ozhO07gED9oJU38YMywc2wO/EwdS3q8=
+
+Name: assets/src/Audio/Sfx.cs
+SHA-256-Digest: pFcbtLmTdzbrzATcEDjnV3AoaXk37PyLBkqbfzH3Ato=
+
+Name: assets/src/DevTools.cs
+SHA-256-Digest: OwBVU53pPrkTFH6fzvhAm02HfSbe9CUp+wbZh57seDU=
+
+Name: assets/src/ErrorLog.cs
+SHA-256-Digest: 1AP/mFRpf8yM76iNcBzayjnk673/7fyuub3BIaGCR8Y=
+
+Name: assets/src/GameSession.Packs.cs
+SHA-256-Digest: peiDH07ceHELnkqKPTtVhph4Wi5GpsYMl2YKZ8wAxUI=
+
+Name: assets/src/GameSession.cs
+SHA-256-Digest: kmKl2SDS/wIXl+o1WvujAMDHf45b2Aaq3d4LqlptYGk=
+
+Name: assets/src/LastExit.cs
+SHA-256-Digest: pfMvUK/HByBbYDbEPhPP+2uUevYZIE/Qy47FxRbt9Fw=
+
+Name: assets/src/Main.cs
+SHA-256-Digest: omZYYatdTIJFlx+bNeuKLvNJST8ku7Pa4a/EpvanGKI=
+
+Name: assets/src/Platform.cs
+SHA-256-Digest: ktEVr4KrD75XI2CM1WUNiIy0ieuEQFGnvFaMrR2obFI=
+
+Name: assets/src/Prefs.cs
+SHA-256-Digest: QQNiMQq+gNErMu1DBHpUpBxkwBqd3K5nFdNZ0AseJl0=
+
+Name: assets/src/SaveMigration.cs
+SHA-256-Digest: kS7DGruKtyO6LaNjK1dVYdevHTUR5wMfwG6Idc9G4YM=
+
+Name: assets/src/Ui/BattleLog.cs
+SHA-256-Digest: 5qZpqwqjnBedyTyUNt5IMZ5uVNPhFtdb9R5HK/eDEaQ=
+
+Name: assets/src/Ui/CharacterCreationScreen.Fate.cs
+SHA-256-Digest: BGzS9jRGfqOsomfKtsFLcv/blgqWaPLeSjZ+7ARstUM=
+
+Name: assets/src/Ui/CharacterCreationScreen.cs
+SHA-256-Digest: CRNjhNEn6dqM5/EjQ3CQrNgncUIBCjmp03mJh2jHrA8=
+
+Name: assets/src/Ui/CharacterText.cs
+SHA-256-Digest: sEaE/T/1yfJ1J/9GD4Kmeg9gg0JnYKza9dLKB6FCIGQ=
+
+Name: assets/src/Ui/Describe.cs
+SHA-256-Digest: l9EsEod+lLsfuBMI5CI1K+z7R6Bb9Uf36YHxKSr2bZU=
+
+Name: assets/src/Ui/FateChoiceScreen.cs
+SHA-256-Digest: /ziww2RzcAdSZaxcoAdn7ofATA2fYxuwdS9VgGOjihc=
+
+Name: assets/src/Ui/GameScreen.cs
+SHA-256-Digest: 9p23f0H+NGdNnIrwW1DmmNpbQo/qIyjaRd2XrAwQ9Uk=
+
+Name: assets/src/Ui/Glossary.cs
+SHA-256-Digest: z5ksbuY0yvMmV8fpaKwhF6TM8FG8SxTXHviT+TfAnT4=
+
+Name: assets/src/Ui/LastAction.cs
+SHA-256-Digest: vEQ9EYaJlTFr07bkrEfbOX6dGWF6KBXvLyWCn0HYKl0=
+
+Name: assets/src/Ui/MainMenuScreen.cs
+SHA-256-Digest: dImtg6pWPGHw6QojasoU7/rc0NEO2QMyuSb8bZmFtsY=
+
+Name: assets/src/Ui/Overlays/BreakthroughAnimation.cs
+SHA-256-Digest: kbHUkxHKpQdFl9SiiZ5iMzd5BYziN/JR4OJsIW98kDs=
+
+Name: assets/src/Ui/Overlays/ChangelogOverlay.cs
+SHA-256-Digest: k+38fQoRfTxMXqJ2qq/SlUGOxaFLM+AXAegHw3uHhwI=
+
+Name: assets/src/Ui/Overlays/CircleOverlay.cs
+SHA-256-Digest: /6xvVIfmkHE5JCWJh+1lNR5WhXmn6tqxUAiHuUBSE78=
+
+Name: assets/src/Ui/Overlays/CombatOverlay.cs
+SHA-256-Digest: 5uj5H0CG2UCM7SnmOs1SSamOV9YCdONbxZCt54ajz6s=
+
+Name: assets/src/Ui/Overlays/DeathOverlay.cs
+SHA-256-Digest: JgKSWQT8bdqp63vawzIEt+atNnuOfh5STMGttaMO7ZA=
+
+Name: assets/src/Ui/Overlays/DemoEndOverlay.cs
+SHA-256-Digest: dCIziFtmotoVqpL6nyXoEp2AUmzdU7yKpEPfSGqHIcs=
+
+Name: assets/src/Ui/Overlays/EventOverlay.cs
+SHA-256-Digest: V/ygmgvMyhwBpX27Wy22KT3QTLU0RRVIUdF0hMOh/rA=
+
+Name: assets/src/Ui/Overlays/GuideOverlay.cs
+SHA-256-Digest: 21pS11hZXdUIS1BpAuoztIm8GFend7vP38t9S1O2e0I=
+
+Name: assets/src/Ui/Overlays/HallOfFameOverlay.cs
+SHA-256-Digest: KfCbcKuHU7STahlQm4XcKXykt0MjgGLkEgUAFXUg1XA=
+
+Name: assets/src/Ui/Overlays/LicensesOverlay.cs
+SHA-256-Digest: Lz7fm4lFRr14X5z7EmyuOplqHIaqfWvOyuiBgt/Lb5g=
+
+Name: assets/src/Ui/Overlays/LoadingOverlay.cs
+SHA-256-Digest: yoG8TDGiS3APN6laeYZkqn0+8YZ/ZtQ+SwjDSJJNGug=
+
+Name: assets/src/Ui/Overlays/MethodForgeOverlay.cs
+SHA-256-Digest: pkML0okGZX31oXi4vo+GbPVufuOQOun6vGo9IBXtf64=
+
+Name: assets/src/Ui/Overlays/MinigameOverlay.cs
+SHA-256-Digest: 6z17wewMYPuLAO0syVCOMrBbUwUQE55XCRmyP34+MP0=
+
+Name: assets/src/Ui/Overlays/Overlay.cs
+SHA-256-Digest: EN9quihHdZs9M4OuW+7GZhV0Eir5x/xLwYgXtk7mB/g=
+
+Name: assets/src/Ui/Overlays/PreparationOverlay.cs
+SHA-256-Digest: xWDkywjsfqwokfeS0eT4SY6R2XJnlIfbJnJ7oo9+Omg=
+
+Name: assets/src/Ui/Overlays/ProspectsOverlay.cs
+SHA-256-Digest: HzEP0edK1aOTDKSMCK175bSuBgXRrW5oCZLr07AnPlY=
+
+Name: assets/src/Ui/Overlays/SettingsOverlay.cs
+SHA-256-Digest: EnltDDqjwWJdlEDFgRvE3mpjsMg5AXXIsyY31sbn2N8=
+
+Name: assets/src/Ui/Overlays/ShapePersonOverlay.cs
+SHA-256-Digest: pujqegWqAMUE0gu4hRxA46JA8RS4mPEvjq+v18CKLJ0=
+
+Name: assets/src/Ui/Overlays/TimeOverlay.cs
+SHA-256-Digest: aQCNzIjyyuuQSKGc/v1Koca96PM1+Sy4ypWwEwEkMeQ=
+
+Name: assets/src/Ui/Palette.cs
+SHA-256-Digest: xwWbKEV6T5SxEskWrJWl+koxh67eZz95ZL9LY/1L2SY=
+
+Name: assets/src/Ui/PlaceIcons.cs
+SHA-256-Digest: EKI221vpUuMIjfnNvn6Jgru5PvP2VpBJBneVR0E5yfs=
+
+Name: assets/src/Ui/Portraits.cs
+SHA-256-Digest: XUkKX6DSxYB5qWisUjaTveJkmEqkvFkY260TUa60o6Y=
+
+Name: assets/src/Ui/RichTooltips.cs
+SHA-256-Digest: kQt4fmLqtzP3I+gXJhZXmg6k/qdZEPS89QEDvnF7NBY=
+
+Name: assets/src/Ui/Tabs/ArtsTab.cs
+SHA-256-Digest: MnCi2DoONHg0S8anLlGFQXUgxtjSlDj/DhqrrlU5npE=
+
+Name: assets/src/Ui/Tabs/CharacterTab.cs
+SHA-256-Digest: 1cUcFjpk+DHlgMqOZg/xoVATKLWgc26R7GkJP03v7nA=
+
+Name: assets/src/Ui/Tabs/ChronicleTab.cs
+SHA-256-Digest: Q9tXDW4aL6q+YqoBVLjLU40rLH/f794zeSa22sjosHw=
+
+Name: assets/src/Ui/Tabs/CraftingTab.Divination.cs
+SHA-256-Digest: 33zQeHaJ8rLm5Q30xSwItiY3HNeAkDVBvBAxQ/mFGQI=
+
+Name: assets/src/Ui/Tabs/CraftingTab.Grand.cs
+SHA-256-Digest: wjP2zrCHIBQn+C2stMgX70N9ne9MmZ8jyLt09UXffUI=
+
+Name: assets/src/Ui/Tabs/CraftingTab.Union.cs
+SHA-256-Digest: kt6WfSpTZKBQ188dFYYALJ4TwzniQX58Ptsv3UMIRK8=
+
+Name: assets/src/Ui/Tabs/CraftingTab.Working.cs
+SHA-256-Digest: fZZgHqGLbub9tHMIUk9uDfemkfwC+VOu6aSVrSV4UMY=
+
+Name: assets/src/Ui/Tabs/CraftingTab.cs
+SHA-256-Digest: JGiRiTZA/FA6N1JwrW/ISkBpMCaOqBv6mKrkud0oHF8=
+
+Name: assets/src/Ui/Tabs/FamilyTab.cs
+SHA-256-Digest: vHW/A3RkD+ue+Mpw0xSr4SA9O5UgUPU0k5uM322MPqg=
+
+Name: assets/src/Ui/Tabs/InventoryTab.cs
+SHA-256-Digest: QKxjiQcptlis8o+mU43h3ZC+Tp1+bWO8Hf+WZFnJ4iY=
+
+Name: assets/src/Ui/Tabs/LocationTab.GrandFormations.cs
+SHA-256-Digest: Hg1rjqbcGkFC/EAPSK/exZfS4Nuy17VjvvR1QhG1CIc=
+
+Name: assets/src/Ui/Tabs/LocationTab.Kingdom.cs
+SHA-256-Digest: pz9H1xYQ3EiNOwzz27Zcvez6+0e4hdhsVqC50GrXVwM=
+
+Name: assets/src/Ui/Tabs/LocationTab.Planes.cs
+SHA-256-Digest: dtJ30Bgx1U55b4lVEchmytNYbNSvm58FhXkLPypsdzg=
+
+Name: assets/src/Ui/Tabs/LocationTab.cs
+SHA-256-Digest: t+BpQNL7/tpmv1Sh8mEIGQVquHHp5TOWOHnq6O2QHDQ=
+
+Name: assets/src/Ui/Tabs/MapTab.cs
+SHA-256-Digest: yZ+bXnfqsaCs2OVv5+kUbe1tpNFrzhvyX4UCNhhaCew=
+
+Name: assets/src/Ui/Tabs/RankingsTab.cs
+SHA-256-Digest: Nsp4rH2ihOokQAXdt80Yf9KyWluJZogsh5BlRt16J9M=
+
+Name: assets/src/Ui/Tabs/RecordsTab.cs
+SHA-256-Digest: 6MPkRjSyKU/gTbeq3+BJucv62MlEncH27zJXOgqV8G0=
+
+Name: assets/src/Ui/Tabs/RelationsTab.cs
+SHA-256-Digest: Dlejw0Dlx41ym3Ds8vWaxEbmfEGttbUiJQsVKcSg8uM=
+
+Name: assets/src/Ui/Tabs/SectTab.cs
+SHA-256-Digest: 3H/4m7t1F4E822r6VRfwFTw1jyeK69jCngUFQGO9vZo=
+
+Name: assets/src/Ui/Tabs/ShopsTab.cs
+SHA-256-Digest: d9BpC8X+qWUcInE0F+NkTqkw8vTGjSu3gwSwg+FTcMw=
+
+Name: assets/src/Ui/Tabs/Tab.Lands.cs
+SHA-256-Digest: c4AIxmUJPqt8xImKfeyQRGJqGAT0JHgWbZf2AfsoLGg=
+
+Name: assets/src/Ui/Tabs/Tab.cs
+SHA-256-Digest: g35zPDOOxFlOOgrVmOXwI8Ys94fYCtQI+8kZEzpyKbg=
+
+Name: assets/src/Ui/TouchScroll.cs
+SHA-256-Digest: rMnbSNMxc9wNstu3QUF83EOD1FcQE79mr1/IxL30Iag=
+
+Name: assets/src/Ui/TouchTooltips.cs
+SHA-256-Digest: l3nUwqpAAXkQ9F7KhLlsCI4Gr5PjZqR8mPrDhKpjoYU=
+
+Name: assets/src/Ui/TradeMenus.cs
+SHA-256-Digest: vWNTO/TNSnifTY/e3z6Ca48/5s8P8ky67yVtYoVEwQU=
+
+Name: assets/src/Ui/Ui.cs
+SHA-256-Digest: Et3+XHg/tQ4zQvFJUbY4OdCAHtKH36+TOtJnXWPgmXQ=
+
+Name: assets/src/Ui/UiTheme.cs
+SHA-256-Digest: MiqnoAgqp2NOWaIWlEViz0fjVtAQDvX2Ad4DfoI25jY=
+
+Name: assets/src/Ui/Widgets/BodyDiagram.cs
+SHA-256-Digest: Kjv9cIGegWV/eg2b9T3dLRDe7X8xbCgrv07rQ25JE8Q=
+
+Name: assets/src/Ui/Widgets/ChangeBar.cs
+SHA-256-Digest: 6au7G4rUMygk8MSaDiGX5apuZmw6YMOhcd+tI4RtFKs=
+
+Name: assets/src/Ui/Widgets/FaceEditor.cs
+SHA-256-Digest: 6se+q0YbBMKWF32UgDp0k92YMJw/DRnrjKgr+1bfqDE=
+
+Name: assets/src/Ui/Widgets/FitOption.cs
+SHA-256-Digest: yA8SUAyyaMXl7owvB/L4eG0E5/WV4QBHQl/k9m77FFI=
+
+Name: assets/src/Ui/Widgets/FitScroll.cs
+SHA-256-Digest: 5T5Mh+A2oWcE35H6hSgQ3gSkOt704iA/lsK0cSRm7Tw=
+
+Name: assets/src/Ui/Widgets/GaugeBar.cs
+SHA-256-Digest: WXHWLHYaWDmnWttLcyX5hGv21CB6YBHAaUSvBQseASk=
+
+Name: assets/src/Ui/Widgets/ItemPreviewView.cs
+SHA-256-Digest: mDvS7ZajV43HSi7jM8GNieALiXU5acwjhStei0Vk5/s=
+
+Name: assets/src/Ui/Widgets/MapView.cs
+SHA-256-Digest: 9b9icQ1G0kD564gEb/gEoOvSzxNQQw5iKWvw/x7H6Lg=
+
+Name: assets/src/Ui/Widgets/PhaseWheel.cs
+SHA-256-Digest: 5bhst21dkoKL8KMZQ4tif2McgFcGyeznpWg0QLlUdBk=
+
+Name: assets/src/Ui/Widgets/Portrait.cs
+SHA-256-Digest: 5OjhMVgjc+30BNjh27H3KJu6uWK4GHFmCzpveVDZ9vA=
+
+Name: assets/src/Ui/Widgets/RealmTrack.cs
+SHA-256-Digest: laHegenTt3Wr0Pb60bnpn/YGKg22v3li/XIWZAVEgeM=
+
+Name: assets/src/Ui/Widgets/SegmentBar.cs
+SHA-256-Digest: X5RUw47BndrpNAcnf3G6cuvWPXoEt8ErhZHE+G/Gz/w=
+
+Name: assets/src/Ui/Widgets/WorldBoard.cs
+SHA-256-Digest: hWVmRzupy7AYk9EqzgDNDi0C9XW5LEpBP310waoL5Xo=
+
+Name: assets/src/Ui/WorldGenScreen.cs
+SHA-256-Digest: Cix+5nNT/yHGEhXyB1iL8TJbHa/LODx44bf2fojb97g=
+
+Name: assets/src/Ui/WorldScreens.cs
+SHA-256-Digest: W9Rz6L9rRoSGDsEDm9tX09HUdV60eVnZur2YXa2NS7E=
+
+Name: assets/src/WarmUp.cs
+SHA-256-Digest: 3mq1vSw/87zhj0bYbSbS6SMOqTTqNqAxyP29vNlRO4o=
+
+Name: classes.dex
+SHA-256-Digest: ELRimmZXp4JF1TPl53jo8zm8G6VjH7BS1OkPlN8R4Vw=
+
+Name: kotlin-tooling-metadata.json
+SHA-256-Digest: a8+GnAkGOkAS/36DRVf7wBVKjGEFBrks0luN0FzU+KQ=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: ZGvoYrg+5vY8equl957iU5yOHLkUYGpE+qi5Nul8wxo=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: 1iMmx1tty2PvXJQcPgsGL62IAMi+sCsJWKQ7OjbiC9Q=
+
+Name: kotlin/concurrent/atomics/atomics.kotlin_builtins
+SHA-256-Digest: 9br+F/yko0WxXg9m2v2mqyx5jicv5j9B2dmogzCfle0=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: nPTP8Gxvf6S4p6d8sm9SkCsciBbGBPbYiuzBBo1a+50=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: 65/18lmVKXVO4LS/ljzETGosmWQVt6hObNyIgk/Q2D4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: tR2yVvvdP2IitNuir82++v2j6fTmrcYozejAmSqA0GA=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: 1zm9JbOslhDRuiTIjmDQqRPNsTXUZZxwZsyJygIb7pI=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: APJUen0WBaNwlG3KoRlFT6Gj5rBUCXu99j6NjJnCAsw=
+
+Name: lib/arm64-v8a/libSystem.Globalization.Native.a
+SHA-256-Digest: qvrk46z+yyAX51WrMMz0wJgJNm6GF7sbcy5pf4ftg5w=
+
+Name: lib/arm64-v8a/libSystem.Globalization.Native.so
+SHA-256-Digest: o11tKdC2KO+3G6pFcfTg2OFO50NzcHJ/44cfrjvYZ60=
+
+Name: lib/arm64-v8a/libSystem.IO.Compression.Native.a
+SHA-256-Digest: 9yoILS40worpUnkvN2qJgmDAuclszWRJDM/j6orhhIY=
+
+Name: lib/arm64-v8a/libSystem.IO.Compression.Native.so
+SHA-256-Digest: PqIDnW3Ht9NbkzFLQYCZ5Gck4he6Goqo/U7NCtORZ6o=
+
+Name: lib/arm64-v8a/libSystem.Native.a
+SHA-256-Digest: SgXLKZU7Hhy8YOFlPNc3CGjYwiHqxXdU+/YWLDBS/vI=
+
+Name: lib/arm64-v8a/libSystem.Native.so
+SHA-256-Digest: 7T1TkKWzVQkUlmU+Q5ur+c+IczepI1Kn+JAJtufl8tQ=
+
+Name: lib/arm64-v8a/libSystem.Security.Cryptography.Native.Android.a
+SHA-256-Digest: yxR9/ribQCzB02woth0F6Ux7+zPkj4vgcz0CXWKVjQI=
+
+Name: lib/arm64-v8a/libSystem.Security.Cryptography.Native.Android.dex
+SHA-256-Digest: E81ScyQuz9xWHG/701FEBGentv0ejjXqF6KE63LP+C4=
+
+Name: lib/arm64-v8a/libSystem.Security.Cryptography.Native.Android.jar
+SHA-256-Digest: xA60zNAXlahdn9jSmBAcvSiOjrcr9l1ksSE1rvyYXtA=
+
+Name: lib/arm64-v8a/libSystem.Security.Cryptography.Native.Android.so
+SHA-256-Digest: Qu+KDRf2no/wiR5bGZvjYMFgFC94uxIVJ4zAxftq4GM=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: oANnhSNiYpole4PGW/GW1TwMHkG5MchjLUKPco7wbn0=
+
+Name: lib/arm64-v8a/libgodot_android.so
+SHA-256-Digest: b3sOatpZTM9rA2wAMeRmy1YeocgCcF7cpaEP+5MqHb0=
+
+Name: lib/arm64-v8a/libmono-component-debugger-static.a
+SHA-256-Digest: 2klzCX8JLDOwMY+V5HLSLLeeHr33J2tQdnbVvHTttyY=
+
+Name: lib/arm64-v8a/libmono-component-debugger-stub-static.a
+SHA-256-Digest: moQksw5c1OisqaLVsGE2fYM2bN0QjRNQFCKxooPosHg=
+
+Name: lib/arm64-v8a/libmono-component-debugger.so
+SHA-256-Digest: ixhR+O/NGi/02A9WWdPgzqmUpvgkDwBC//2Sf+II1iw=
+
+Name: lib/arm64-v8a/libmono-component-diagnostics_tracing-static.a
+SHA-256-Digest: AL7R98hEhvkV1nUs4iSdQdYJTbT04xQcI6F1hB5ZRqI=
+
+Name: lib/arm64-v8a/libmono-component-diagnostics_tracing-stub-static.
+ a
+SHA-256-Digest: w7Pw7LywDGvxc5K1OVpDEnQYPwamkrbT/ur+VaAYCsU=
+
+Name: lib/arm64-v8a/libmono-component-diagnostics_tracing.so
+SHA-256-Digest: JwQbwMzx2yABTdjx6bIxcwtnIqYHoS32vZ6fIjTCogo=
+
+Name: lib/arm64-v8a/libmono-component-hot_reload-static.a
+SHA-256-Digest: /pRov9DuyQCCnTRZ5KI8UIiozveI0kH6AAed2+YB+so=
+
+Name: lib/arm64-v8a/libmono-component-hot_reload-stub-static.a
+SHA-256-Digest: nB9ZiLRzRSQP3lx+up+pWxhyo8XcV4p2usR07/bWl0A=
+
+Name: lib/arm64-v8a/libmono-component-hot_reload.so
+SHA-256-Digest: 6pj8PR7VxJLuC66VsUpIizvouwQGR2kzcdB2RlLFwPU=
+
+Name: lib/arm64-v8a/libmono-component-marshal-ilgen-static.a
+SHA-256-Digest: uCADgi/IUb8KrrOE1B3b3sft+AVHNT9khq/sms0fr+Q=
+
+Name: lib/arm64-v8a/libmono-component-marshal-ilgen-stub-static.a
+SHA-256-Digest: zZ6FSKDEXi7bQ17emBuV7br1Isc1Rraaj1HFIFiCFOY=
+
+Name: lib/arm64-v8a/libmono-component-marshal-ilgen.so
+SHA-256-Digest: nWbZ1OYGjjWKgi7VTijzIJpuCnLoGKUszY7buGrx3Oc=
+
+Name: lib/arm64-v8a/libmonosgen-2.0.a
+SHA-256-Digest: bedcMh+E2lJvChKAXTYlV8JmN4lt2Shv66LOSQMNeeM=
+
+Name: lib/arm64-v8a/libmonosgen-2.0.so
+SHA-256-Digest: HBfQG1/bAVLg6c6RWZj9GKepMkeuFjG9iKU9/GEIKlI=
+
+Name: res/anim-v21/fragment_fast_out_extra_slow_in.xml
+SHA-256-Digest: drCtQ+FyBC5dx66ByTEswLoEDTceWPVnhP0K3P2rxJ0=
+
+Name: res/animator/fragment_close_enter.xml
+SHA-256-Digest: xzVZkI+xIfvrys0byDZKKisxPaRGuRustBBmjsoFHcQ=
+
+Name: res/animator/fragment_close_exit.xml
+SHA-256-Digest: 3zFNtTNaBT34JQ3EJTDM64DqRS9YAZ4Ff/zow2ECsPk=
+
+Name: res/animator/fragment_fade_enter.xml
+SHA-256-Digest: 7P8enVvZzQY1lkQ6YqCl0pN84B1p0nVYXrGBInYXsQg=
+
+Name: res/animator/fragment_fade_exit.xml
+SHA-256-Digest: 2LPsSVbuVFK3SzizVcuOLcODlK54Z73m+6Am+h3wPPw=
+
+Name: res/animator/fragment_open_enter.xml
+SHA-256-Digest: WDdpHvwIlAwlGQdo0cnS3TlsnApR6Cl+W2OFbqxbwHY=
+
+Name: res/animator/fragment_open_exit.xml
+SHA-256-Digest: sZf6aBToQ/Ysj9BewgsQJQeXOQMpHJJNZYU+1YVCe3Q=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: fdgyJ61bkVHESSHzWiTHQ5LVNwIge6pbEao7ySrGIjw=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4RlHlyDIzTYG5Klg5AKe0Fi4c3z+iVWMOHgAh9ZL7Aw=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: R2ot7jptNS4NITpYzXOWw8lhLeXmUvp8G9vuPhk6Z5g=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: QpO86S6qjy93OQJSq/J9fVVQWcP9s8Pv2bUoICK94gI=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: /PItNSPhz1UN7VfEyZ8kRa5sj9QY+F0lydOxu0h8L3A=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: vPDmKMKiqjYmhi26bO46qs1KOttdTfXBQv3S6xgfvbk=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: e16Z3lBylbmIotIXO0QYkgWhWX879GWDILhD+IqQPrc=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: vg/gP72vh/b3yaE+84dQHojgy5jwUZQN3hC/VrbOPYU=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: E+nflwefiwR9S8AxSqqdC4YdlP6FC3dp3U7y/507B1k=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: 8C4ln6xzH/7a1Zr/v13Gw9vF9lJ85KeVqKuMY61s+To=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: 6E1wfs1FDoJsr4+MdEWEjpnT20m1Thjbb+s+dpZcBXM=
+
+Name: res/drawable-v23/compat_splash_screen.xml
+SHA-256-Digest: K9xKRCI6i77eBj+Pv+5Py76VwZYpVu12RXU+8lpRgKA=
+
+Name: res/drawable-v23/compat_splash_screen_no_icon_background.xml
+SHA-256-Digest: 98e5Myy1GNJKtw9Olqa7kfxW2sOY14nm0F5LS4oLsyM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: uXY6G0jRm/22W3PCh/Bn1QB8m4GwiK1QCuoTeveblDQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: f/QdP0Grwhn/DYrOcK8L48iPdr49tI6JUbIsde2OQaY=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: UcrXW2ElY1qt5dfTsuSlaRj5YzoOKQ6qQH5GeDt/B8E=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: ukgIe6XxA8BIeBpiCpKscdVufr7N3/HFli1R1e0BBDs=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: D1Xpcp0eT5Aq/BN3oXeFvyGZiAwa+YOLYva+w2YhSQs=
+
+Name: res/drawable/icon_background.xml
+SHA-256-Digest: d4XYBOlpMovdcHGQCH+EDmYFR1jItW9+jlVFbtYqCQo=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: YTuKOemzZm1ezGz4XI/MkWbEc/G1er0ozRNzgl3TqQY=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: ZkKrON7V3sX1vPTqtw4/JD1lutdpTquxKBYFTzFYf2c=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: /EHu6R1L1pkBzt4c865i2JNnO8POaQgZ/YGIsTtlkS0=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: 8k6kY2N4INb/JeotIhA14NUJkCj8UUL8tTFfo4b1Z4Y=
+
+Name: res/drawable/splash_branding_image.webp
+SHA-256-Digest: gwbY/Gcf6y5ku/GTIKV2C5oXZikuNC48sCPFe7VYG3E=
+
+Name: res/drawable/splash_icon.webp
+SHA-256-Digest: /3kn8G4n6G+cSLfBYsdPQn/fugME0/txQhQ+totA/Fk=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: xIoyEbMnWe7WN0UewlBKya4nX5helqkAB40JCViAivU=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: qJFeoSDmJekD9PMJTB/RWHH6PkqZc4zwxOI4udT/j4M=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: KuU/z6X/Mzjlrn0Bq5rhf+oqYLV6aka8FrmSu7ekLU4=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: /RP7zr+ZMt8Cb5JOnhC/qyWzqNeUbngT98sl4pA8tZo=
+
+Name: res/layout/custom_dialog.xml
+SHA-256-Digest: Q2hA10pNHd6UHgKWNEzVPMdJ1t+sOldbJUWTDnttJFA=
+
+Name: res/layout/godot_app_layout.xml
+SHA-256-Digest: UN2ZeV9BVzXEGG5Q22/uLaehhxErfc+JxlxmSy4mrv4=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: MY7305UaxktE+y05HQ+EzZ2G+48GvUEkxCAnFe2xjhM=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: iswvTmhOB5Jk8AA2jdTWexbJJ9/yBsLMjzrA6uqmvXw=
+
+Name: res/layout/remote_godot_fragment_layout.xml
+SHA-256-Digest: /nfnHLs5tFPIaEYU7DP1sOSSUAWO5iPEejckwon8pGs=
+
+Name: res/layout/snackbar.xml
+SHA-256-Digest: +AURVTctg/y/+vbxGYir49FBIXO/fjGDpt6EzZOtsdc=
+
+Name: res/layout/splash_screen_view.xml
+SHA-256-Digest: AWESFrj5hE7zFzjwLjTdBdheX1zMiTq4VRZ0P17L0GQ=
+
+Name: res/mipmap-anydpi-v26/icon.xml
+SHA-256-Digest: H7yY4Eez2QoYfIhNd42DIwHniYqzPopjNumKSO+NXuA=
+
+Name: res/mipmap-hdpi-v4/icon.webp
+SHA-256-Digest: L7iHYcG5Ur4iwTGFr5pVkvj2NqsCOI+ud/pSdtiflFc=
+
+Name: res/mipmap-hdpi-v4/icon_background.webp
+SHA-256-Digest: D9p/xHDcM7DmPfKGjmaf3P6lL4YWgZ9Qib/foBNpTPc=
+
+Name: res/mipmap-hdpi-v4/icon_foreground.webp
+SHA-256-Digest: 8TfaJhwl6UHFJr/SlEkxfmp9Dp77FnsGpPb+kiLrcCA=
+
+Name: res/mipmap-hdpi-v4/icon_monochrome.webp
+SHA-256-Digest: zCmKou635H11rgjto0Xu7vz7iW/aMyQzyRZkeizkBqk=
+
+Name: res/mipmap-mdpi-v4/icon.webp
+SHA-256-Digest: U1GI71csBn+O19qCWf+Fv12r7fiZYEdpJYalRO4P4JU=
+
+Name: res/mipmap-mdpi-v4/icon_background.webp
+SHA-256-Digest: JODgN9Ur9DuwAw2mHdyhUH7eRHAomFgP1e2oIKA+P10=
+
+Name: res/mipmap-mdpi-v4/icon_foreground.webp
+SHA-256-Digest: GanAj/f2HHfYfU63s7/oDuvIR3CZznRCJq00Az+KBPY=
+
+Name: res/mipmap-mdpi-v4/icon_monochrome.webp
+SHA-256-Digest: o7nUaxVMCjg27JENJT1Igbc6wBDKb33C7qRyc3ifCdg=
+
+Name: res/mipmap-xhdpi-v4/icon.webp
+SHA-256-Digest: ce2nmQNDz2LbnOprJnpH3FJ04r7DuSm/CYASdXtrYdM=
+
+Name: res/mipmap-xhdpi-v4/icon_background.webp
+SHA-256-Digest: KA1SaiZqK6fnSBKFkL8JjfuUzaGuET1v94/+IwNk0yM=
+
+Name: res/mipmap-xhdpi-v4/icon_foreground.webp
+SHA-256-Digest: T7DwB+tpAuOhJJl12h81D6Cr0MU/QzZ7liAbgY1uaYA=
+
+Name: res/mipmap-xhdpi-v4/icon_monochrome.webp
+SHA-256-Digest: GGVZjJRzAWG3ybmmgU27w7E6QE5uyu/2wh+gx9nlH1o=
+
+Name: res/mipmap-xxhdpi-v4/icon.webp
+SHA-256-Digest: m+nu1hcGiptIzUpjaLYFMyVMn7MIt6mWuvDjtt1gvq8=
+
+Name: res/mipmap-xxhdpi-v4/icon_background.webp
+SHA-256-Digest: FhoHV9THST/0sFwB/uqlg5HpSAzt6YV2teJd9xH5lco=
+
+Name: res/mipmap-xxhdpi-v4/icon_foreground.webp
+SHA-256-Digest: FJUaFKDwxnkCNPIkX5egF7IXt+qee86wSTp3SMUiQ0k=
+
+Name: res/mipmap-xxhdpi-v4/icon_monochrome.webp
+SHA-256-Digest: acn/VG9xJVZEbMcdNTNaGrJoXvp+rNrlAPyuqlO/TdE=
+
+Name: res/mipmap-xxxhdpi-v4/icon.webp
+SHA-256-Digest: wIOwgnGgk+O4XPA95QbzCgSGgVJKHzIA/1szV9eNfEc=
+
+Name: res/mipmap-xxxhdpi-v4/icon_background.webp
+SHA-256-Digest: zivjb0XoqWFnjoit6YWZJzalyo1DJBDGHsQLkwHfRQs=
+
+Name: res/mipmap-xxxhdpi-v4/icon_foreground.webp
+SHA-256-Digest: aoYFedvrDLfs4PtyMUFe7EH8V6JHCqYOjhTIkSvjy5c=
+
+Name: res/mipmap-xxxhdpi-v4/icon_monochrome.webp
+SHA-256-Digest: s5cYNHfToAiQPJb9uNFGOMzB4nqMELPINkbDIYtldM8=
+
+Name: res/mipmap/icon.webp
+SHA-256-Digest: NDWT8Sa9EkZiZUwDvf/9/LH186A60uXh2U/F0XMMFes=
+
+Name: res/mipmap/icon_background.webp
+SHA-256-Digest: 5rhtKJQ8d5+TPEiO22oVZRTfGk58yDkfkvMeixGjMic=
+
+Name: res/mipmap/icon_foreground.webp
+SHA-256-Digest: JNovhERwWHELqQXBBeruAR4y4itUlVsfAmYfDQ2898Q=
+
+Name: res/mipmap/icon_monochrome.webp
+SHA-256-Digest: Wi0hHiCj9UYXcGociBo298TeEOJ5xRU7trET4OKfHHQ=
+
+Name: res/xml/godot_provider_paths.xml
+SHA-256-Digest: 9dXvi7i9IkJDbJWUBF1VxirlbCC4MyjZKpgw+XXWj2I=
+
+Name: resources.arsc
+SHA-256-Digest: lFMWrD/G3FV2A+SjBn4dbzMPxN8UOubexmNaLTj+SlA=
+
