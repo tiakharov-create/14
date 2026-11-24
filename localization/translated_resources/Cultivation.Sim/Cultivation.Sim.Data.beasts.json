@@ -1,0 +1,733 @@
+[
+  {
+    "name": "Волк Кровавого Клыка",
+    "minRealm": "QiCondensation",
+    "element": "Wind",
+    "anatomy": "quadruped",
+    "coreMaterialId": "lesser_core",
+    "attack": "Saber",
+    "attackName": "Разрывающий укус",
+    "verb": "кусает"
+  },
+  {
+    "name": "Железноспинный кабан",
+    "traits": [
+      "Shelled"
+    ],
+    "minRealm": "QiCondensation",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "lesser_core",
+    "attack": "Quake",
+    "attackName": "Атака бивнями",
+    "verb": "пронзает клыками"
+  },
+  {
+    "name": "Нефритовый питон",
+    "traits": [
+      "Regenerating"
+    ],
+    "minRealm": "QiCondensation",
+    "element": "Wood",
+    "anatomy": "serpent",
+    "coreMaterialId": "lesser_core",
+    "attack": "Vine",
+    "attackName": "Сокрушительное кольцо",
+    "verb": "обвивает"
+  },
+  {
+    "name": "Теневой леопард",
+    "traits": [
+      "Elusive"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Wind",
+    "anatomy": "quadruped",
+    "coreMaterialId": "wolf_core",
+    "attack": "Saber",
+    "attackName": "Теневой коготь",
+    "verb": "полосует когтями"
+  },
+  {
+    "name": "Громовая обезьяна",
+    "traits": [
+      "QiHide"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Lightning",
+    "anatomy": "humanoid",
+    "coreMaterialId": "wolf_core",
+    "attack": "Fist",
+    "attackName": "Громовой кулак",
+    "verb": "обрушивает удар на"
+  },
+  {
+    "name": "Ледяной паук",
+    "traits": [
+      "Shelled"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Ice",
+    "anatomy": "arachnid",
+    "coreMaterialId": "wolf_core",
+    "attack": "Frost",
+    "attackName": "Леденящий яд",
+    "verb": "впивается клыками в"
+  },
+  {
+    "name": "Водный дракон",
+    "traits": [
+      "Shelled"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Water",
+    "anatomy": "draconic",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Wave",
+    "attackName": "Приливное дыхание",
+    "verb": "обрушивает поток на"
+  },
+  {
+    "name": "Огненный лев",
+    "traits": [
+      "QiHide"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Fire",
+    "anatomy": "quadruped",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Flame",
+    "attackName": "Рёв преисподней",
+    "verb": "изрыгает пламя на"
+  },
+  {
+    "name": "Золотой ворон",
+    "traits": [
+      "Elusive"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Fire",
+    "anatomy": "avian",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Flame",
+    "attackName": "Солнечное пламя",
+    "verb": "опаляет"
+  },
+  {
+    "name": "Девятиглавый змей",
+    "traits": [
+      "SoulWarded",
+      "Regenerating"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Water",
+    "anatomy": "serpent",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Wave",
+    "attackName": "Девятикратный яд",
+    "verb": "впивается девятью парами клыков в"
+  },
+  {
+    "name": "Древний цилинь",
+    "charm": 15,
+    "traits": [
+      "SoulWarded"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Lightning",
+    "anatomy": "quadruped",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Thunder",
+    "attackName": "Небесная кара",
+    "verb": "обрушивает кару на"
+  },
+  {
+    "name": "Куньпэн",
+    "traits": [
+      "Shelled",
+      "Elusive"
+    ],
+    "minRealm": "TrueImmortal",
+    "element": "Water",
+    "anatomy": "leviathan",
+    "coreMaterialId": "kun_core",
+    "attack": "Wave",
+    "attackName": "Прилив бездны",
+    "verb": "обрушивается на"
+  },
+  {
+    "name": "Небесный громовой дракон",
+    "traits": [
+      "Shelled",
+      "SoulWarded"
+    ],
+    "minRealm": "TrueImmortal",
+    "element": "Lightning",
+    "anatomy": "draconic",
+    "coreMaterialId": "kun_core",
+    "attack": "Thunder",
+    "attackName": "Гром девяти небес",
+    "verb": "извергает гром на"
+  },
+  {
+    "name": "Небесный феникс",
+    "charm": 20,
+    "traits": [
+      "Regenerating",
+      "Elusive"
+    ],
+    "minRealm": "GoldenImmortal",
+    "element": "Fire",
+    "anatomy": "avian",
+    "coreMaterialId": "phoenix_core",
+    "attack": "Flame",
+    "attackName": "Пламя нирваны",
+    "verb": "испепеляет"
+  },
+  {
+    "name": "Цилинь хаоса",
+    "charm": 10,
+    "traits": [
+      "SoulWarded",
+      "QiHide"
+    ],
+    "minRealm": "GoldenImmortal",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "phoenix_core",
+    "attack": "Quake",
+    "attackName": "Первозданная лавина",
+    "verb": "растаптывает"
+  },
+  {
+    "name": "Шипастый панголин",
+    "traits": [
+      "Thorned",
+      "Shelled"
+    ],
+    "minRealm": "QiCondensation",
+    "element": "Wood",
+    "anatomy": "quadruped",
+    "coreMaterialId": "lesser_core",
+    "attack": "Fist",
+    "attackName": "Сокрушительный перекат шипов",
+    "verb": "катится по"
+  },
+  {
+    "name": "Каменный носорог",
+    "traits": [
+      "Massive"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "wolf_core",
+    "attack": "Quake",
+    "attackName": "Атака валуном",
+    "verb": "бросается на"
+  },
+  {
+    "name": "Орёл со стальными перьями",
+    "traits": [
+      "Elusive"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Metal",
+    "anatomy": "avian",
+    "coreMaterialId": "wolf_core",
+    "attack": "Gale",
+    "attackName": "Буря стальных перьев",
+    "verb": "осыпает стальными перьями"
+  },
+  {
+    "name": "Лисица призрачного пламени",
+    "charm": 35,
+    "traits": [
+      "Shadowed"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Ice",
+    "anatomy": "quadruped",
+    "coreMaterialId": "wolf_core",
+    "attack": "Soul",
+    "attackName": "Чары лисьего пламени",
+    "verb": "околдовывает"
+  },
+  {
+    "name": "Черепаха, несущая гору",
+    "traits": [
+      "Shelled",
+      "Massive"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Quake",
+    "attackName": "Топот горы",
+    "verb": "топчет землю под"
+  },
+  {
+    "name": "Василиск с зеркальной чешуёй",
+    "traits": [
+      "Mirrored",
+      "Shelled"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Metal",
+    "anatomy": "serpent",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Saber",
+    "attackName": "Удар стальной чешуёй",
+    "verb": "хлещет"
+  },
+  {
+    "name": "Древний древесный дух",
+    "traits": [
+      "Thorned",
+      "Regenerating"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Wood",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Vine",
+    "attackName": "Корневая ловушка",
+    "verb": "опутывает"
+  },
+  {
+    "name": "Девятицветный олень",
+    "charm": 20,
+    "traits": [
+      "Radiant",
+      "Elusive"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Wood",
+    "anatomy": "quadruped",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Vine",
+    "attackName": "Изумрудное цветение",
+    "verb": "расцветает вокруг"
+  },
+  {
+    "name": "Богомол клинка пустоты",
+    "traits": [
+      "Blinking",
+      "Shelled"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Metal",
+    "anatomy": "arachnid",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Saber",
+    "attackName": "Коса, рассекающая пространство",
+    "verb": "рассекает пространство вокруг"
+  },
+  {
+    "name": "Золотая цикада веков",
+    "traits": [
+      "Timeless",
+      "Shelled"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Earth",
+    "anatomy": "arachnid",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Sound",
+    "attackName": "Песнь десяти тысяч лет",
+    "verb": "поёт для"
+  },
+  {
+    "name": "Белый тигр Запада",
+    "traits": [
+      "Mirrored",
+      "Elusive"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Metal",
+    "anatomy": "quadruped",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Saber",
+    "attackName": "Смертоносный коготь Запада",
+    "verb": "разрывает"
+  },
+  {
+    "name": "Алый феникс",
+    "traits": [
+      "Radiant",
+      "Regenerating"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Fire",
+    "anatomy": "avian",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Flame",
+    "attackName": "Алое пламя",
+    "verb": "поглощает"
+  },
+  {
+    "name": "Ледяной феникс",
+    "charm": 20,
+    "traits": [
+      "Glacial",
+      "Regenerating",
+      "Elusive"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Ice",
+    "anatomy": "avian",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Frost",
+    "attackName": "Ледяное небо на десять тысяч ли",
+    "verb": "сковывает небосвод льдом над"
+  },
+  {
+    "name": "Таотэ, пожирающий пустоту",
+    "traits": [
+      "Blinking",
+      "QiHide"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Fist",
+    "attackName": "Всепоглощающая пасть",
+    "verb": "откусывает кусок от"
+  },
+  {
+    "name": "Дракон девяти преисподних",
+    "traits": [
+      "Shadowed",
+      "SoulWarded",
+      "Shelled"
+    ],
+    "minRealm": "TrueImmortal",
+    "element": "Water",
+    "anatomy": "draconic",
+    "coreMaterialId": "kun_core",
+    "attack": "Wave",
+    "attackName": "Прилив девяти преисподних",
+    "verb": "топит"
+  },
+  {
+    "name": "Дракон свечи дня и ночи",
+    "traits": [
+      "Timeless",
+      "Radiant",
+      "SoulWarded"
+    ],
+    "minRealm": "GoldenImmortal",
+    "element": "Fire",
+    "anatomy": "draconic",
+    "coreMaterialId": "phoenix_core",
+    "attack": "Flame",
+    "attackName": "Свеча дня и ночи",
+    "verb": "открывает глаза перед"
+  },
+  {
+    "name": "Чёрно-белый кот удачи",
+    "charm": 25,
+    "traits": [
+      "Shadowed",
+      "Radiant",
+      "Elusive"
+    ],
+    "minRealm": "GoldenImmortal",
+    "element": "Metal",
+    "anatomy": "quadruped",
+    "coreMaterialId": "phoenix_core",
+    "attack": "Soul",
+    "attackName": "Лапа, манящая удачу",
+    "verb": "отводит удачу от"
+  },
+  {
+    "name": "Голодный призрак",
+    "plane": "Nether",
+    "minRealm": "QiCondensation",
+    "element": "Water",
+    "anatomy": "humanoid",
+    "coreMaterialId": "lesser_core",
+    "attack": "Fist",
+    "attackName": "Ненасытная хватка",
+    "verb": "грызёт"
+  },
+  {
+    "name": "Бродячий призрак",
+    "plane": "Nether",
+    "traits": [
+      "Shadowed"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Ice",
+    "anatomy": "humanoid",
+    "coreMaterialId": "wolf_core",
+    "attack": "Soul",
+    "attackName": "Погребальный вопль",
+    "verb": "воет на"
+  },
+  {
+    "name": "Прыгающий мертвец",
+    "plane": "Nether",
+    "traits": [
+      "Shelled"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Earth",
+    "anatomy": "humanoid",
+    "coreMaterialId": "wolf_core",
+    "attack": "Fist",
+    "attackName": "Удар окоченевшей руки",
+    "verb": "терзает когтями"
+  },
+  {
+    "name": "Водяной призрак",
+    "plane": "Nether",
+    "traits": [
+      "Shadowed",
+      "Regenerating"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Water",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Wave",
+    "attackName": "Утопляющее объятие",
+    "verb": "утаскивает под воду"
+  },
+  {
+    "name": "Костяной змей Жёлтых источников",
+    "plane": "Nether",
+    "traits": [
+      "Shelled",
+      "Glacial"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Ice",
+    "anatomy": "serpent",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Frost",
+    "attackName": "Кольцо могильного холода",
+    "verb": "обвивает"
+  },
+  {
+    "name": "Страж с головой быка",
+    "plane": "Nether",
+    "traits": [
+      "Massive"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Earth",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Saber",
+    "attackName": "Алебарда чертогов",
+    "verb": "рассекает"
+  },
+  {
+    "name": "Страж с ликом коня",
+    "plane": "Nether",
+    "traits": [
+      "Elusive"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Wind",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Spear",
+    "attackName": "Трезубец, сковывающий души",
+    "verb": "пронзает"
+  },
+  {
+    "name": "Ворон преисподней",
+    "plane": "Nether",
+    "traits": [
+      "Elusive",
+      "Shadowed"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Ice",
+    "anatomy": "avian",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Soul",
+    "attackName": "Крик дурного знамения",
+    "verb": "возвещает смерть"
+  },
+  {
+    "name": "Дитин, слышащий истину",
+    "plane": "Nether",
+    "traits": [
+      "SoulWarded",
+      "Massive"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Sound",
+    "attackName": "Рёв, слышащий любую ложь",
+    "verb": "рычит на"
+  },
+  {
+    "name": "Король призраков",
+    "plane": "Nether",
+    "traits": [
+      "Shadowed",
+      "SoulWarded"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Ice",
+    "anatomy": "humanoid",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Soul",
+    "attackName": "Вопль десяти тысяч призраков",
+    "verb": "воет на"
+  },
+  {
+    "name": "Малый бес",
+    "plane": "Demon",
+    "traits": [
+      "Elusive"
+    ],
+    "minRealm": "FoundationBuilding",
+    "element": "Fire",
+    "anatomy": "humanoid",
+    "coreMaterialId": "wolf_core",
+    "attack": "Flame",
+    "attackName": "Плевок адского пламени",
+    "verb": "плюётся огнём в"
+  },
+  {
+    "name": "Кровавый демон",
+    "plane": "Demon",
+    "traits": [
+      "Regenerating"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Fire",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Fist",
+    "attackName": "Коготь, пьющий кровь",
+    "verb": "терзает"
+  },
+  {
+    "name": "Серный пёс",
+    "plane": "Demon",
+    "traits": [
+      "Thorned"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Fire",
+    "anatomy": "quadruped",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Flame",
+    "attackName": "Укус серного пса",
+    "verb": "кусает"
+  },
+  {
+    "name": "Воин-асура",
+    "plane": "Demon",
+    "traits": [
+      "Shelled"
+    ],
+    "minRealm": "GoldenCore",
+    "element": "Metal",
+    "anatomy": "humanoid",
+    "coreMaterialId": "flood_dragon_core",
+    "attack": "Saber",
+    "attackName": "Удар шести рук",
+    "verb": "рассекает"
+  },
+  {
+    "name": "Сороконожка бездны",
+    "plane": "Demon",
+    "traits": [
+      "Shelled",
+      "Thorned"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Earth",
+    "anatomy": "arachnid",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Venom",
+    "attackName": "Яд сотни ног",
+    "verb": "жалит"
+  },
+  {
+    "name": "Демон сердца",
+    "plane": "Demon",
+    "traits": [
+      "Shadowed",
+      "Elusive"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Wind",
+    "anatomy": "humanoid",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Soul",
+    "attackName": "Шёпот твоих сомнений",
+    "verb": "шепчет"
+  },
+  {
+    "name": "Виверна адского пламени",
+    "plane": "Demon",
+    "traits": [
+      "QiHide",
+      "Shelled"
+    ],
+    "minRealm": "NascentSoul",
+    "element": "Fire",
+    "anatomy": "draconic",
+    "coreMaterialId": "golden_crow_core",
+    "attack": "Flame",
+    "attackName": "Дыхание бездны",
+    "verb": "изрыгает пламя на"
+  },
+  {
+    "name": "Ракшаса",
+    "plane": "Demon",
+    "traits": [
+      "Regenerating",
+      "Elusive"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Metal",
+    "anatomy": "humanoid",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Saber",
+    "attackName": "Людоедские когти",
+    "verb": "разрывает"
+  },
+  {
+    "name": "Чудовище бездны",
+    "plane": "Demon",
+    "traits": [
+      "Massive",
+      "QiHide"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Earth",
+    "anatomy": "quadruped",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Quake",
+    "attackName": "Топот бездны",
+    "verb": "растаптывает"
+  },
+  {
+    "name": "Небесный демон",
+    "plane": "Demon",
+    "traits": [
+      "SoulWarded",
+      "Blinking"
+    ],
+    "minRealm": "DeityTransformation",
+    "element": "Lightning",
+    "anatomy": "humanoid",
+    "coreMaterialId": "ancient_beast_core",
+    "attack": "Soul",
+    "attackName": "Взгляд, пожирающий небеса",
+    "verb": "всматривается в"
+  }
+]

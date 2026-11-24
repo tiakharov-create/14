@@ -1,0 +1,741 @@
+[
+  {
+    "id": "ordinary",
+    "name": "Ordinary Body",
+    "description": "Flesh and bone like any other. The heavens expect nothing of you.",
+    "rarity": "Common",
+    "weight": 1000
+  },
+  {
+    "id": "robust_bones",
+    "name": "Robust Bones",
+    "description": "Thick bones and dense sinew. Hard to break, slow to tire.",
+    "rarity": "Uncommon",
+    "weight": 120,
+    "constitution": 10,
+    "strength": 5,
+    "lifespanYears": 5
+  },
+  {
+    "id": "keen_spirit",
+    "name": "Keen Spirit Sense",
+    "description": "Your soul is unusually sharp; you notice what others cannot.",
+    "rarity": "Uncommon",
+    "weight": 100,
+    "spirit": 10,
+    "comprehension": 5
+  },
+  {
+    "id": "spirit_sensitive",
+    "name": "Spirit-Sensitive Body",
+    "description": "Ambient qi clings to your skin like morning dew.",
+    "rarity": "Uncommon",
+    "weight": 80,
+    "cultivationMultiplier": 1.15
+  },
+  {
+    "id": "sickly",
+    "name": "Sickly Body",
+    "description": "A frail vessel. Physicians shook their heads at your birth.",
+    "rarity": "Common",
+    "weight": 120,
+    "constitution": -15,
+    "strength": -5,
+    "lifespanYears": -15
+  },
+  {
+    "id": "withered_meridians",
+    "name": "Withered Meridians",
+    "description": "Your meridians are narrow and brittle. Every thread of qi is a struggle, which has taught you to think deeply.",
+    "rarity": "Uncommon",
+    "weight": 60,
+    "cultivationMultiplier": 0.5,
+    "comprehension": 12
+  },
+  {
+    "id": "jade_bone",
+    "name": "Jade Bone Body",
+    "description": "Bones like warm jade that resist decay and steady the foundation.",
+    "rarity": "Rare",
+    "weight": 25,
+    "cultivationMultiplier": 1.2,
+    "lifespanYears": 30,
+    "breakthroughBonus": 0.05
+  },
+  {
+    "id": "golden_bell",
+    "name": "Golden Bell Body",
+    "description": "Your skin rings like bronze when struck.",
+    "rarity": "Rare",
+    "weight": 12,
+    "constitution": 20,
+    "strength": 5,
+    "affinity": "Metal",
+    "tags": [
+      "body_refining"
+    ]
+  },
+  {
+    "id": "verdant_spring",
+    "name": "Verdant Spring Body",
+    "description": "Life wells up within you. Wounds close and herbs flourish at your touch.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.2,
+    "lifespanYears": 40,
+    "affinity": "Wood",
+    "tags": [
+      "fast_healing",
+      "herb_affinity"
+    ]
+  },
+  {
+    "id": "earth_vein",
+    "name": "Earth Vein Body",
+    "description": "You feel the dragon veins of the land as if they were your own blood.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.3,
+    "constitution": 15,
+    "affinity": "Earth",
+    "tags": [
+      "formation_affinity"
+    ]
+  },
+  {
+    "id": "tidal_heart",
+    "name": "Tidal Heart Body",
+    "description": "Your qi ebbs and surges with the moon, endlessly renewing.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.3,
+    "spirit": 5,
+    "affinity": "Water"
+  },
+  {
+    "id": "hundred_poison",
+    "name": "Hundred Poison Body",
+    "description": "Venom pools harmlessly in your blood. Others fear your touch.",
+    "rarity": "Rare",
+    "weight": 10,
+    "constitution": 20,
+    "charm": -10,
+    "affinity": "Wood",
+    "tags": [
+      "poison_immune",
+      "alchemy_affinity"
+    ]
+  },
+  {
+    "id": "ghost_touched",
+    "name": "Ghost-Touched Body",
+    "description": "You were born at the hour the gates of the dead stood open. You see what walks unseen.",
+    "rarity": "Rare",
+    "weight": 15,
+    "spirit": 20,
+    "lifespanYears": -10,
+    "tags": [
+      "ghost_sight"
+    ]
+  },
+  {
+    "id": "innate_sword",
+    "name": "Innate Sword Body",
+    "description": "Sword intent stirs in your bones. Any blade in your hand becomes an extension of your will.",
+    "rarity": "Legendary",
+    "weight": 6,
+    "comprehension": 15,
+    "agility": 10,
+    "affinity": "Metal",
+    "tags": [
+      "sword_affinity"
+    ]
+  },
+  {
+    "id": "nine_yin",
+    "name": "Nine Yin Profound Body",
+    "description": "Bitter yin cold coils in your marrow. Coveted as a cauldron by demonic cultivators.",
+    "rarity": "Legendary",
+    "weight": 8,
+    "cultivationMultiplier": 1.5,
+    "spirit": 10,
+    "affinity": "Water",
+    "tags": [
+      "yin",
+      "coveted"
+    ]
+  },
+  {
+    "id": "nine_yang",
+    "name": "Nine Yang Blazing Body",
+    "description": "Your blood burns like a furnace. Yang fire roars at every heartbeat.",
+    "rarity": "Legendary",
+    "weight": 8,
+    "cultivationMultiplier": 1.5,
+    "strength": 10,
+    "affinity": "Fire",
+    "tags": [
+      "yang"
+    ]
+  },
+  {
+    "id": "myriad_thunder",
+    "name": "Myriad Thunder Body",
+    "description": "Heavenly lightning recognises you as kin. Tribulations are a feast, not a trial.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "cultivationMultiplier": 1.2,
+    "constitution": 10,
+    "tribulationBonus": 0.25,
+    "affinity": "Lightning"
+  },
+  {
+    "id": "chaos_body",
+    "name": "Heaven-Defying Chaos Body",
+    "description": "A body that should not exist. You cultivate with terrifying speed, and the heavens despise you for it.",
+    "rarity": "Mythic",
+    "weight": 1,
+    "cultivationMultiplier": 2.0,
+    "strength": 10,
+    "agility": 10,
+    "constitution": 10,
+    "spirit": 10,
+    "comprehension": 10,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": -0.15,
+    "tags": [
+      "heaven_jealous"
+    ]
+  },
+  {
+    "id": "stone_skin",
+    "name": "Stone Skin",
+    "description": "Skin like weathered granite: blades skid off it, though it makes you slow.",
+    "rarity": "Uncommon",
+    "weight": 70,
+    "constitution": 10,
+    "agility": -4
+  },
+  {
+    "id": "fox_grace",
+    "name": "Fox Spirit Grace",
+    "description": "A trace of fox spirit in your bearing. People find themselves agreeing with you.",
+    "rarity": "Uncommon",
+    "weight": 60,
+    "charm": 15,
+    "spirit": 3
+  },
+  {
+    "id": "fortunate_star",
+    "name": "Fortunate Star",
+    "description": "Born under a lucky star. Things fall your way more often than they should.",
+    "rarity": "Rare",
+    "weight": 18,
+    "luck": 15
+  },
+  {
+    "id": "swift_wind_body",
+    "name": "Swift Wind Body",
+    "description": "Light as a leaf on the wind; you are gone before the blow lands.",
+    "rarity": "Rare",
+    "weight": 15,
+    "agility": 12,
+    "affinity": "Wind"
+  },
+  {
+    "id": "thunder_body",
+    "name": "Thunder-Tempered Body",
+    "description": "Struck by lightning as a child and lived. The heavens' bolts know you.",
+    "rarity": "Rare",
+    "weight": 12,
+    "constitution": 6,
+    "tribulationBonus": 0.1,
+    "affinity": "Lightning"
+  },
+  {
+    "id": "ice_soul",
+    "name": "Ice Soul Body",
+    "description": "A soul as clear and cold as winter ice. Cold qi cannot take hold in you.",
+    "rarity": "Rare",
+    "weight": 12,
+    "spirit": 8,
+    "affinity": "Ice",
+    "tags": [
+      "cold_immune"
+    ]
+  },
+  {
+    "id": "phoenix_marrow",
+    "name": "Phoenix Marrow",
+    "description": "Embers smoulder in your bones. Wounds close; years come slowly.",
+    "rarity": "Rare",
+    "weight": 10,
+    "lifespanYears": 40,
+    "affinity": "Fire",
+    "tags": [
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "beastblood_body",
+    "name": "Beast-Blood Vessel",
+    "description": "Your blood drinks in other blood. Beast bloodlines take root in you easily.",
+    "rarity": "Rare",
+    "weight": 14,
+    "strength": 4,
+    "constitution": 4,
+    "tags": [
+      "bloodline_affinity"
+    ]
+  },
+  {
+    "id": "artisan_hands",
+    "name": "Heaven-Gifted Hands",
+    "description": "Fingers that remember every craft. Furnaces, forges and brushes obey you.",
+    "rarity": "Rare",
+    "weight": 14,
+    "agility": 4,
+    "tags": [
+      "alchemy_affinity",
+      "forging_affinity",
+      "talisman_affinity"
+    ]
+  },
+  {
+    "id": "seer_eyes",
+    "name": "Seer's Eyes",
+    "description": "Clouded eyes that see what has not happened yet.",
+    "rarity": "Rare",
+    "weight": 10,
+    "spirit": 10,
+    "tags": [
+      "seer"
+    ]
+  },
+  {
+    "id": "dragon_vein",
+    "name": "Dragon Vein Body",
+    "description": "A thread of true dragon runs through your meridians. Power, and an appetite for blood.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "strength": 10,
+    "constitution": 10,
+    "cultivationMultiplier": 1.2,
+    "tags": [
+      "bloodline_affinity"
+    ]
+  },
+  {
+    "id": "heavenly_dao_body",
+    "name": "Heavenly Dao Body",
+    "description": "The dao speaks to you as plainly as a friend. The heavens resent it.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "comprehension": 20,
+    "breakthroughBonus": 0.08,
+    "tags": [
+      "heaven_jealous"
+    ]
+  },
+  {
+    "id": "iron_marrow",
+    "name": "Iron Marrow Body",
+    "description": "Metal qi settles in your marrow like ore in a seam. You are heavier than you look.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "cultivationMultiplier": 1.05,
+    "strength": 6,
+    "constitution": 6,
+    "affinity": "Metal"
+  },
+  {
+    "id": "spirit_bamboo",
+    "name": "Spirit Bamboo Body",
+    "description": "You grow straight and supple, and bend without breaking. The years pass you gently.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "cultivationMultiplier": 1.1,
+    "lifespanYears": 15,
+    "affinity": "Wood"
+  },
+  {
+    "id": "mirror_lake",
+    "name": "Mirror Lake Heart",
+    "description": "Your mind is still water. What falls into it is seen clearly to the bottom.",
+    "rarity": "Rare",
+    "weight": 12,
+    "comprehension": 8,
+    "breakthroughBonus": 0.06,
+    "affinity": "Water"
+  },
+  {
+    "id": "ember_blood",
+    "name": "Ember Blood Body",
+    "description": "Your blood runs hot enough to scald. Fire leaps eagerly from your hands.",
+    "rarity": "Rare",
+    "weight": 12,
+    "strength": 8,
+    "affinity": "Fire",
+    "tags": [
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "purple_lightning",
+    "name": "Purple Lightning Meridians",
+    "description": "Violet sparks crawl along your meridians. Your strikes arrive before the thunder does.",
+    "rarity": "Rare",
+    "weight": 8,
+    "agility": 6,
+    "affinity": "Lightning",
+    "tags": [
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "primordial_mountain",
+    "name": "Primordial Mountain Body",
+    "description": "The bones of the first mountains were laid down like yours. Nothing moves you that you do not allow.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "cultivationMultiplier": 1.2,
+    "strength": 15,
+    "constitution": 15,
+    "affinity": "Earth",
+    "tags": [
+      "body_refining"
+    ]
+  },
+  {
+    "id": "frost_sovereign",
+    "name": "Ten-Thousand-Year Frost Body",
+    "description": "Cold older than the world sleeps in you. Your breath frosts the air in summer.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.5,
+    "spirit": 10,
+    "affinity": "Ice",
+    "tags": [
+      "cold_immune",
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "boundless_gale",
+    "name": "Boundless Gale Body",
+    "description": "The wind does not carry you; it follows you. No road is long to you.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.4,
+    "agility": 15,
+    "affinity": "Wind",
+    "tags": [
+      "fleet",
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "taiji_body",
+    "name": "Taiji Body",
+    "description": "Water and fire turn in you without quarrel, each the seed of the other. The dao of balance comes naturally.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.5,
+    "comprehension": 10,
+    "breakthroughBonus": 0.06,
+    "requires": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "id": "five_phases",
+    "name": "Five Phases Harmony Body",
+    "description": "Where others' mixed roots muddy each other, yours turn like a wheel: each phase feeds the next.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 3.0,
+    "breakthroughBonus": 0.05,
+    "requires": [
+      "Metal",
+      "Wood",
+      "Water",
+      "Fire",
+      "Earth"
+    ]
+  },
+  {
+    "id": "bottomless_dantian",
+    "name": "Bottomless Dantian",
+    "description": "Your dantian swallows medicine like the sea swallows rain, and is never sated.",
+    "rarity": "Rare",
+    "weight": 12,
+    "cultivationMultiplier": 1.1,
+    "tags": [
+      "pill_vessel"
+    ]
+  },
+  {
+    "id": "vast_sea",
+    "name": "Vast Sea of Consciousness",
+    "description": "Your inner sea has no far shore. Soul attacks drown in it.",
+    "rarity": "Rare",
+    "weight": 12,
+    "spirit": 12,
+    "comprehension": 4,
+    "tags": [
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "undying_body",
+    "name": "Undying Body",
+    "description": "Death keeps forgetting your name. Your flesh knits as you watch.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "constitution": 15,
+    "lifespanYears": 80,
+    "tribulationBonus": 0.05,
+    "tags": [
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "cloud_treading",
+    "name": "Cloud-Treading Feet",
+    "description": "You walk as if the ground were a suggestion.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "agility": 6,
+    "tags": [
+      "fleet"
+    ]
+  },
+  {
+    "id": "star_crossed",
+    "name": "Star-Crossed Body",
+    "description": "Ill luck dogs you, and every misfortune has taught you something.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "luck": -12,
+    "comprehension": 8,
+    "breakthroughBonus": 0.03
+  },
+  {
+    "id": "primordial_retribution",
+    "name": "Primordial Retribution Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Every ancient fell to you, and every thread of their karma runs through your flesh now. The heavens themselves step aside.",
+    "cultivationMultiplier": 4.0,
+    "strength": 25,
+    "agility": 25,
+    "constitution": 25,
+    "spirit": 25,
+    "comprehension": 25,
+    "luck": 25,
+    "lifespanYears": 1000,
+    "breakthroughBonus": 0.2,
+    "tribulationBonus": 0.3,
+    "tags": [
+      "secret",
+      "karma_body",
+      "fast_healing",
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "karmic_sovereign",
+    "name": "Karmic Sovereign Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You cut down an ancient in all thirty-three of their bodies. The weight of that deed has become your body: cause and effect bend around you.",
+    "cultivationMultiplier": 2.5,
+    "spirit": 15,
+    "comprehension": 15,
+    "luck": 25,
+    "constitution": 10,
+    "lifespanYears": 300,
+    "breakthroughBonus": 0.12,
+    "tribulationBonus": 0.15,
+    "tags": [
+      "secret",
+      "karma_body"
+    ]
+  },
+  {
+    "id": "samsara_reversed",
+    "name": "Body of Samsara Reversed",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You pulled a soul back out of the wheel. Something of the wheel came with it, and stayed in you: death has trouble holding you.",
+    "cultivationMultiplier": 2.2,
+    "spirit": 20,
+    "comprehension": 20,
+    "constitution": 15,
+    "lifespanYears": 500,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": 0.1,
+    "tags": [
+      "secret",
+      "fast_healing",
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "thunder_defying",
+    "name": "Thunder-Defying Soul Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You met the heavens' lightning with your soul and turned it aside, bolt after bolt. Your sea of consciousness is vast and still, and the thunder remembers.",
+    "cultivationMultiplier": 2.0,
+    "spirit": 25,
+    "constitution": 0,
+    "agility": 0,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret",
+      "vast_sea",
+      "ghost_sight"
+    ],
+    "comprehension": 10
+  },
+  {
+    "id": "myriad_beast_tyrant",
+    "name": "Myriad Beast Tyrant Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "A thousand beasts fell to you, and their blood soaked into yours. Beasts lower their heads when you pass.",
+    "cultivationMultiplier": 1.5,
+    "strength": 25,
+    "constitution": 25,
+    "agility": 15,
+    "lifespanYears": 100,
+    "tags": [
+      "secret",
+      "bloodline_affinity",
+      "body_refining"
+    ]
+  },
+  {
+    "id": "asura_body",
+    "name": "Asura Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Slaughter has become your dao and your flesh. Wounds close as fast as you take them; your blade never tires.",
+    "cultivationMultiplier": 1.6,
+    "strength": 20,
+    "agility": 20,
+    "constitution": 10,
+    "lifespanYears": 80,
+    "tags": [
+      "secret",
+      "fast_healing",
+      "sword_affinity"
+    ]
+  },
+  {
+    "id": "war_god_body",
+    "name": "War God Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You stood alone above every champion of the world. Your body has made itself into a weapon worthy of that.",
+    "cultivationMultiplier": 1.5,
+    "strength": 15,
+    "agility": 15,
+    "constitution": 15,
+    "spirit": 10,
+    "lifespanYears": 80,
+    "breakthroughBonus": 0.08,
+    "tags": [
+      "secret"
+    ]
+  },
+  {
+    "id": "heaven_forging_hands",
+    "name": "Heaven-Forging Hands",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Ten masterpieces passed through your hands, and your hands have become a masterpiece themselves.",
+    "cultivationMultiplier": 1.3,
+    "comprehension": 20,
+    "spirit": 10,
+    "agility": 5,
+    "lifespanYears": 60,
+    "tags": [
+      "secret",
+      "alchemy_affinity",
+      "forging_affinity",
+      "talisman_affinity",
+      "formation_affinity",
+      "puppet_affinity"
+    ]
+  },
+  {
+    "id": "thunder_vajra",
+    "name": "Thunder-Tempered Vajra Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You took the heavens' lightning on your bare flesh, bolt after bolt, and it could not break you. Every bone in you is lightning-forged now.",
+    "cultivationMultiplier": 2.0,
+    "strength": 20,
+    "constitution": 25,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret",
+      "body_refining",
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "thunder_sea",
+    "name": "Boundless Thunder Sea Body",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "You held the heavens' lightning back with a sea of qi, bolt after bolt. Your dantian drank the storm, and it is a storm still.",
+    "cultivationMultiplier": 2.6,
+    "spirit": 20,
+    "comprehension": 10,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret"
+    ]
+  },
+  {"id": "blood_demon_body", "name": "Blood Demon Body", "description": "Your blood runs hot and hungry. What you kill, your flesh wants to swallow.", "rarity": "Rare", "weight": 6, "strength": 10, "constitution": 10, "charm": -10, "tags": ["demonic_devour", "fast_healing"]},
+  {"id": "nether_corpse_body", "name": "Nether Corpse Body", "description": "Cold as a grave, slow to rot, slower to die. The living keep their distance.", "rarity": "Rare", "weight": 6, "constitution": 15, "charm": -15, "lifespanYears": 60, "tags": ["demonic_devour", "poison_immune"]},
+  {"id": "heavenly_devil_heart", "name": "Heavenly Devil Heart", "description": "Your heart has no cracks for a demon to grip. Demonic scriptures read to you like lullabies.", "rarity": "Legendary", "weight": 3, "cultivationMultiplier": 1.1, "spirit": 15, "comprehension": 5, "tags": ["demonic_steady", "demonic_method"]},
+  {"id": "myriad_soul_vessel", "name": "Myriad Soul Vessel", "description": "A sea of consciousness wide enough to hold a thousand stolen souls without drowning in them.", "rarity": "Legendary", "weight": 2, "cultivationMultiplier": 1.2, "spirit": 20, "tags": ["demonic_devour", "demonic_method"]},
+  {"id": "demon_quelling_body", "name": "Demon-Quelling Body", "rarity": "Mythic", "weight": 0, "description": "Five demonic sects fell to your hand. Heaven has made you its blade against the dark, so long as your heart stays clean.", "cultivationMultiplier": 1.8, "strength": 10, "spirit": 10, "lifespanYears": 100, "breakthroughBonus": 0.06, "tribulationBonus": 0.1, "tags": ["secret", "crusader", "upkeep_righteous"]},
+  {"id": "heaven_upholding_body", "name": "Heaven-Upholding Body", "rarity": "Mythic", "weight": 0, "description": "Eight demonic sects lie in ruins behind you. The heavens lean on your shoulders, and ask that you stay worthy.", "cultivationMultiplier": 2.3, "spirit": 15, "constitution": 10, "luck": 10, "lifespanYears": 200, "breakthroughBonus": 0.1, "tribulationBonus": 0.15, "tags": ["secret", "crusader", "upkeep_righteous"]},
+  {"id": "sect_devouring_body", "name": "Sect-Devouring Demon Body", "rarity": "Mythic", "weight": 0, "description": "Five righteous sects drowned in their own blood. Their ruin feeds you, so long as the world keeps fearing you.", "cultivationMultiplier": 1.8, "strength": 10, "constitution": 10, "lifespanYears": 100, "breakthroughBonus": 0.06, "tags": ["secret", "defiler", "demonic_devour", "upkeep_demonic"]},
+  {"id": "heaven_defying_devil_body", "name": "Heaven-Defying Devil Body", "rarity": "Mythic", "weight": 0, "description": "Eight righteous sects are ash. You are what mothers warn of, and the dark rewards you for it, so long as you stay what you are.", "cultivationMultiplier": 2.3, "strength": 15, "spirit": 10, "lifespanYears": 200, "breakthroughBonus": 0.1, "tribulationBonus": 0.1, "tags": ["secret", "defiler", "demonic_devour", "demonic_steady", "upkeep_demonic"]},
+  {"id": "thousand_faces_body", "name": "Thousand-Faces Body", "rarity": "Mythic", "weight": 0, "description": "Hunted under a hundred names and caught under none. Your face slides off memory; the world never learns what you did.", "cultivationMultiplier": 1.3, "agility": 10, "charm": 10, "lifespanYears": 50, "tags": ["secret", "faceless"]},
+  {"id": "fallen_righteous_body", "name": "Fallen Righteous Body", "rarity": "Mythic", "weight": 0, "description": "A body heaven made its blade, gone dull with your sins. It drags at you until your karma is clean again.", "cultivationMultiplier": 0.5, "breakthroughBonus": -0.15, "tribulationBonus": -0.2, "tags": ["secret", "lapsed"]},
+  {"id": "broken_devil_body", "name": "Broken Devil Body", "rarity": "Mythic", "weight": 0, "description": "A devil's body gone soft with mercy. It gnaws at you until you are feared and wicked again.", "cultivationMultiplier": 0.5, "breakthroughBonus": -0.15, "tribulationBonus": -0.2, "tags": ["secret", "lapsed"]},
+  {"id": "myriad_venom_body", "name": "Myriad Venom Body", "rarity": "Mythic", "weight": 0, "description": "Every poison under heaven runs in your blood as harmlessly as water, and the worst of them rides your touch.", "cultivationMultiplier": 1.6, "constitution": 20, "charm": -5, "lifespanYears": 80, "tags": ["secret", "poison_immune", "alchemy_affinity"]},
+  {"id": "endless_rebirth_body", "name": "Body of Endless Rebirth", "rarity": "Mythic", "weight": 0, "description": "Three times the wheel turned and three times your soul came through it whole. Death has learned your face and lets you pass.", "cultivationMultiplier": 2.0, "spirit": 15, "comprehension": 15, "lifespanYears": 300, "breakthroughBonus": 0.1, "tags": ["secret", "ghost_sight", "vast_sea"]},
+  {"id": "myriad_dao_body", "name": "Myriad Dao Body", "rarity": "Mythic", "weight": 0, "description": "Every dao under heaven has settled in you to its root. Insight comes to you the way breath does.", "cultivationMultiplier": 3.0, "spirit": 20, "comprehension": 40, "luck": 10, "lifespanYears": 600, "breakthroughBonus": 0.15, "tribulationBonus": 0.2, "tags": ["secret", "vast_sea", "fast_healing"]},
+  {"id": "great_dao_body", "name": "Body of the Great Dao", "rarity": "Mythic", "weight": 0, "description": "Every dao understood to its end and woven into one. There is no seam left between you and the way of heaven.", "cultivationMultiplier": 5.0, "strength": 30, "agility": 30, "constitution": 30, "spirit": 30, "comprehension": 30, "luck": 30, "charm": 30, "lifespanYears": 2000, "breakthroughBonus": 0.25, "tribulationBonus": 0.4, "tags": ["secret", "vast_sea", "fast_healing", "pill_vessel", "poison_immune", "cold_immune"]},
+  {"id": "withering_blood", "name": "Withering Blood Body", "rarity": "Common", "weight": 60, "description": "Thin, slow blood. Your senses are keen, but a cut takes a season to close.", "spirit": 8, "tags": ["slow_healing"]},
+  {"id": "frail_soul", "name": "Frail Soul Body", "rarity": "Uncommon", "weight": 45, "description": "Quick hands and a soul that sits loosely in them: a blow to the mind lands far deeper than it should.", "agility": 8, "spirit": -12, "tags": ["frail_soul"]},
+  {"id": "stone_heart", "name": "Stone Heart Body", "rarity": "Common", "weight": 50, "description": "Cold and heavy as a mountain. Little moves you, soul strikes included; people find you hard to warm to.", "constitution": 12, "spirit": -6, "charm": -12, "tags": ["vast_sea"]},
+  {"id": "porous_meridians", "name": "Porous Meridians", "rarity": "Uncommon", "weight": 35, "description": "Wide-open meridians drink qi greedily, and everything else with it: poison and cold qi bite twice as deep.", "cultivationMultiplier": 1.25, "tags": ["porous"]},
+  {"id": "glass_meridians", "name": "Glass Meridians", "rarity": "Rare", "weight": 15, "description": "Flawless, clear and brittle. Qi races through them; a breakthrough or a tribulation can shatter them.", "cultivationMultiplier": 1.5, "breakthroughBonus": -0.1, "tribulationBonus": -0.15, "tags": ["heaven_jealous"]},
+  {"id": "burning_life", "name": "Burning Life Body", "rarity": "Rare", "weight": 12, "description": "Your life burns like a torch: fierce, bright and short.", "cultivationMultiplier": 1.6, "strength": 10, "agility": 5, "lifespanYears": -25},
+  {"id": "overlord_body", "name": "Overlord Body", "rarity": "Legendary", "weight": 3, "description": "Your meridians are sealed to heaven and earth and your sea of consciousness is shut like a tomb. Everything the heavens would have poured into qi and soul pours into the flesh instead: you will never draw in a wisp of spiritual qi or open a divine eye, and you will never need to.", "cultivationMultiplier": 1.8, "strength": 15, "constitution": 20, "agility": 5, "lifespanYears": 30, "tribulationBonus": 0.1, "closedPaths": ["Qi", "Soul"], "tags": ["body_refining", "sealed_sea"]},
+  {"id": "cauldron_heart", "name": "Cauldron Heart Body", "rarity": "Rare", "weight": 8, "description": "A furnace burns steady in your chest. Flames lean toward your hand as if to be told what to do.", "tags": ["talent_alchemy"]},
+  {"id": "anvil_bone", "name": "Anvil Bone Body", "rarity": "Rare", "weight": 8, "description": "Your bones ring under the hammer like good iron. Metal remembers your touch.", "tags": ["talent_forging"]},
+  {"id": "ink_spirit", "name": "Ink Spirit Body", "rarity": "Rare", "weight": 8, "description": "Spirit ink flows from your fingers as if it were your own blood. Runes come to you half-written.", "tags": ["talent_talismans"]},
+  {"id": "array_vein", "name": "Array Vein Body", "rarity": "Rare", "weight": 8, "description": "You feel the flow of qi through stone and flag the way others feel the wind.", "tags": ["talent_formations"]},
+  {"id": "thousand_thread", "name": "Thousand-Thread Body", "rarity": "Rare", "weight": 8, "description": "A thousand fine threads of soul run from your fingertips, and dead things answer them.", "tags": ["talent_puppetry"]},
+  {"id": "spirit_soil", "name": "Spirit Soil Body", "rarity": "Rare", "weight": 8, "description": "Seeds quicken in your palm. Spirit herbs grow toward you as toward the sun.", "tags": ["talent_herbalism"]},
+  {"id": "heaven_reading", "name": "Heaven-Reading Eyes", "rarity": "Rare", "weight": 8, "description": "You see the threads of fate as faint lines in the air. Heaven has not yet noticed you looking.", "tags": ["talent_divination"]},
+  {"id": "gu_nest", "name": "Gu Nest Body", "rarity": "Rare", "weight": 8, "description": "Worms and insects settle on you as if you were home. Gu fear you and love you at once.", "tags": ["talent_gu"]},
+  {"id": "beast_kin", "name": "Beast-Kin Body", "rarity": "Rare", "weight": 8, "description": "Wild things smell their own kind on you. Beasts that would bite another lower their heads to you.", "tags": ["talent_taming"]}
+]

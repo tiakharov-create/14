@@ -1,0 +1,7003 @@
+[
+  {
+    "id": "qi_grass",
+    "name": "Трава сбора ци",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 3
+    },
+    "weight": 10,
+    "growYears": 1,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "blood_ginseng",
+    "name": "Кровавый женьшень",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Vitality": 3,
+      "Essence": 1
+    },
+    "weight": 8,
+    "growYears": 3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "calming_lotus",
+    "name": "Успокаивающий лотос",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 2,
+      "Vitality": 1
+    },
+    "weight": 2,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "venom_flower",
+    "name": "Змея яд цветок",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Toxic": 3
+    },
+    "weight": 6,
+    "growYears": 1,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "foundation_flower",
+    "name": "Цветок создания основы",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 3,
+      "Hard": 1
+    },
+    "weight": 1,
+    "growYears": 8,
+    "foundIn": [
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "purple_mushroom",
+    "name": "Фиолетовый духовный гриб",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "growYears": 10,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "fire_dragon_fruit",
+    "name": "Огонь дракон плод",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 3,
+      "Vitality": 2
+    },
+    "weight": 4,
+    "growYears": 15,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "millennium_ginseng",
+    "name": "Тысячный-летний женьшень",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Longevity": 3,
+      "Vitality": 3
+    },
+    "weight": 0.5,
+    "growYears": 40,
+    "foundIn": [
+      "SecretRealm",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "golden_core_lotus",
+    "name": "Золотой ядро лотос",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 4,
+      "Qi": 2
+    },
+    "weight": 0.5,
+    "growYears": 50,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "nine_leaf_grass",
+    "name": "Девять-лист душа трава",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 4,
+      "Longevity": 2
+    },
+    "weight": 0.25,
+    "growYears": 120,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "nascent_heart_flower",
+    "name": "Зарождающийся сердце цветок",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 5,
+      "Essence": 1
+    },
+    "weight": 0.25,
+    "growYears": 150,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_peach",
+    "name": "Бессмертный персик",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Longevity": 6,
+      "Vitality": 4
+    },
+    "weight": 0.1,
+    "growYears": 400,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "heaven_lingzhi",
+    "name": "Линчжи, бросающий вызов небесам",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 5,
+      "Essence": 4
+    },
+    "weight": 0.1,
+    "growYears": 500,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "black_iron",
+    "name": "Чёрный железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 3,
+      "Sharp": 1
+    },
+    "weight": 10,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_copper",
+    "name": "Духовный медь",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 2,
+      "Sharp": 1
+    },
+    "weight": 8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "cold_iron",
+    "name": "Холодный железный",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Sharp": 3,
+      "Hard": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "red_flame_gold",
+    "name": "Красный пламя золотой",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 2,
+      "Qi": 2
+    },
+    "weight": 4,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "starfall_iron",
+    "name": "Звездопад железный",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 3,
+      "Hard": 3
+    },
+    "weight": 2,
+    "foundIn": [
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_marrow_jade",
+    "name": "Земля костный мозг нефритовый",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4,
+      "Qi": 1
+    },
+    "weight": 2,
+    "foundIn": [
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thunder_crystal",
+    "name": "Фиолетовый громовой кристалл",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 4,
+      "Swift": 2
+    },
+    "weight": 1,
+    "foundIn": [
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_iron",
+    "name": "Первозданный хаос железный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 5,
+      "Hard": 5
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "lesser_core",
+    "name": "Малый звериный ядро",
+    "kind": "Core",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 2,
+      "Spirit": 1
+    },
+    "weight": 10,
+    "foundIn": []
+  },
+  {
+    "id": "wolf_core",
+    "name": "Демон волк ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3,
+      "Qi": 1
+    },
+    "weight": 6,
+    "foundIn": []
+  },
+  {
+    "id": "flood_dragon_core",
+    "name": "Потоп дракон ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Qi": 4,
+      "Essence": 2
+    },
+    "weight": 3,
+    "foundIn": []
+  },
+  {
+    "id": "golden_crow_core",
+    "name": "Золотой ворон ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 4,
+      "Qi": 3
+    },
+    "weight": 1,
+    "foundIn": []
+  },
+  {
+    "id": "ancient_beast_core",
+    "name": "Древний звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.4,
+    "foundIn": []
+  },
+  {
+    "id": "talisman_paper",
+    "name": "Талисман бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 1
+    },
+    "weight": 10,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "cinnabar_ink",
+    "name": "Киноварь чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 2
+    },
+    "weight": 10,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "beast_blood_ink",
+    "name": "Звериный кровавый чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 2,
+      "Spirit": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "golden_silk_paper",
+    "name": "Золотой шёлк бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 3,
+      "Hard": 1
+    },
+    "weight": 2,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "starlight_ink",
+    "name": "Звёздный свет чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 1,
+    "foundIn": [
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_wood",
+    "name": "Духовный древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Swift": 2,
+      "Hard": 1
+    },
+    "weight": 10,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "iron_wood",
+    "name": "Железный древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "thunder_peach_wood",
+    "name": "Поражённый молнией персик древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 2,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_jade",
+    "name": "Духовный нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 2
+    },
+    "weight": 10,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "array_flag_silk",
+    "name": "Массив знамя шёлк",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 2,
+      "Swift": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "star_core_jade",
+    "name": "Звёздный ядро нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Qi": 4,
+      "Spirit": 3
+    },
+    "weight": 1,
+    "foundIn": [
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "wind_chime_grass",
+    "name": "Ветер колокольчик трава",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 2,
+      "Qi": 1
+    },
+    "weight": 7,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "frost_lotus",
+    "name": "Морозный душа лотос",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 2,
+      "Hard": 1
+    },
+    "weight": 4,
+    "growYears": 12,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thunder_vine",
+    "name": "Громовой корень лоза",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 2,
+      "Qi": 2
+    },
+    "weight": 4,
+    "growYears": 9,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "jade_bamboo_heart",
+    "name": "Нефритовый бамбуковый сердце",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 3,
+      "Longevity": 2
+    },
+    "weight": 3,
+    "growYears": 30,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "ghost_orchid",
+    "name": "Призрачный орхидея",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 4,
+      "Toxic": 1
+    },
+    "weight": 3,
+    "growYears": 25,
+    "foundIn": [
+      "Ruins"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "dragon_blood_vine",
+    "name": "Дракон кровавый лоза",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Vitality": 4,
+      "Essence": 3
+    },
+    "weight": 2,
+    "growYears": 80,
+    "foundIn": [
+      "SecretRealm",
+      "Wilderness"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "sun_moon_grass",
+    "name": "Солнце-луна долголетие трава",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Longevity": 4,
+      "Spirit": 2
+    },
+    "weight": 1,
+    "growYears": 120,
+    "foundIn": [
+      "SecretRealm",
+      "SpiritVein"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "moon_silver",
+    "name": "Луна серебряный",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Qi": 2,
+      "Sharp": 2
+    },
+    "weight": 4,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "frost_iron",
+    "name": "Ледяной мозг железный",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Sharp": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "gale_steel",
+    "name": "Штормовой стальной",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3,
+      "Sharp": 2
+    },
+    "weight": 2,
+    "foundIn": [
+      "Wilderness"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "void_meteor_gold",
+    "name": "Пустота метеор золотой",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 4,
+      "Qi": 2
+    },
+    "weight": 1,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "ghost_willow",
+    "name": "Призрачный ива древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 2,
+      "Hard": 1
+    },
+    "weight": 4,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "phoenix_parasol",
+    "name": "Феникс павловния древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 3
+    },
+    "weight": 1,
+    "foundIn": [
+      "SecretRealm"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "warm_jade",
+    "name": "Тёплый нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Vitality": 2,
+      "Qi": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "soul_jade",
+    "name": "Душа-питающий нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 4
+    },
+    "weight": 2,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "void_crystal",
+    "name": "Пустота кристалл",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 2,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "bamboo_paper",
+    "name": "Духовный бамбуковый бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 1,
+      "Spirit": 1
+    },
+    "weight": 4,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "thunder_ink",
+    "name": "Громовой чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 2,
+      "Swift": 2
+    },
+    "weight": 2,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "bloodvine_root",
+    "name": "Кровавая лоза корень",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 2,
+      "Essence": 1
+    },
+    "weight": 8,
+    "growYears": 3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "cloud_mist_mushroom",
+    "name": "Облачный туман гриб",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3
+    },
+    "weight": 5,
+    "growYears": 6,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "heart_calming_orchid",
+    "name": "Сердце-успокаивающий орхидея",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 2,
+      "Hard": 2
+    },
+    "weight": 4,
+    "growYears": 10,
+    "foundIn": [
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "dragon_blood_grass",
+    "name": "Дракон кровавый трава",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 3,
+      "Vitality": 2
+    },
+    "weight": 3,
+    "growYears": 25,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "purple_cloud_ginseng",
+    "name": "Фиолетовый облачный женьшень",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 4,
+      "Longevity": 2
+    },
+    "weight": 1.5,
+    "growYears": 80,
+    "foundIn": [
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "moon_shadow_lily",
+    "name": "Луна теневой лилия",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 4,
+      "Hard": 2
+    },
+    "weight": 1.5,
+    "growYears": 90,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins"
+    ],
+    "hidden": true
+  },
+  {
+    "id": "phoenix_tail_flower",
+    "name": "Феникс хвост цветок",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 5,
+      "Longevity": 3
+    },
+    "weight": 0.5,
+    "growYears": 300,
+    "foundIn": [
+      "SecretRealm",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "verdant_iron",
+    "name": "Изумрудный железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 8,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "tide_iron",
+    "name": "Приливный железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "ember_iron",
+    "name": "Уголь железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Hard": 2,
+      "Sharp": 1
+    },
+    "weight": 8,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "mountain_heart_stone",
+    "name": "Горный сердце камень",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "wind_chime_silver",
+    "name": "Ветер колокольчик серебряный",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3,
+      "Qi": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "glacial_steel",
+    "name": "Ледниковый стальной",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Sharp": 2,
+      "Hard": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "flame_crystal",
+    "name": "Пламя кристалл",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 2,
+      "Qi": 2
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "thunder_bronze",
+    "name": "Громовой бронзовый",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 3,
+      "Swift": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "abyssal_black_gold",
+    "name": "Бездна чёрный золотой",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Hard": 5,
+      "Sharp": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "heavenly_meteor_iron",
+    "name": "Небесный метеор железный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 6,
+      "Hard": 3
+    },
+    "weight": 0.5,
+    "foundIn": [
+      "SecretRealm",
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "earthvein_jade",
+    "name": "Земная жила нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 3,
+      "Qi": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "veil_jade",
+    "name": "Пелена нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 3
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_gathering_jade",
+    "name": "Духовный собирающий нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 4
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "killing_intent_jade",
+    "name": "Смертоносный намерение нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 4
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "water_soul_jade",
+    "name": "Вода душа нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thunderstruck_peach",
+    "name": "Поражённый молнией персиковая древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 2,
+      "Swift": 2
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "heartwood_of_ages",
+    "name": "Ядровая древесина из веков",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 4,
+      "Vitality": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ironbark_paper",
+    "name": "Железная кора бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 2,
+      "Spirit": 1
+    },
+    "weight": 8,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "tortoise_shell_ink",
+    "name": "Черепаха панцирь чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "golden_bell_ink",
+    "name": "Золотой колокол чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 4,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "thunderwood_paper",
+    "name": "Громовая древесина бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 2,
+      "Swift": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "phantom_silk_paper",
+    "name": "Фантомный шёлк бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "dragon_scale_paper",
+    "name": "Дракон чешуя бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 3
+    },
+    "weight": 0.5,
+    "foundIn": [
+      "SecretRealm",
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "celestial_dew_lotus",
+    "name": "Небесный роса лотос",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 5,
+      "Qi": 3
+    },
+    "weight": 0.25,
+    "growYears": 600,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "chaos_lotus_seed",
+    "name": "Хаос лотос семя",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 6,
+      "Essence": 4
+    },
+    "weight": 0.1,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "star_soul_grass",
+    "name": "Звёздный душа трава",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 6,
+      "Longevity": 2
+    },
+    "weight": 0.25,
+    "growYears": 700,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_soul_flower",
+    "name": "Первозданный душа цветок",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 7,
+      "Longevity": 3
+    },
+    "weight": 0.1,
+    "growYears": 2500,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "immortal_vitality_vine",
+    "name": "Бессмертный жизненная сила лоза",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 6,
+      "Longevity": 3
+    },
+    "weight": 1.5,
+    "growYears": 500,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "ninefold_sun_fruit",
+    "name": "Девятикратный солнце плод",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 6,
+      "Vitality": 4
+    },
+    "weight": 0.5,
+    "growYears": 1800,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "celestial_iron",
+    "name": "Небесный железный",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 6,
+      "Hard": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "heaven_shield_stone",
+    "name": "Небесный-щит камень",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 7
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "void_silver",
+    "name": "Пустота серебряный",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 6,
+      "Qi": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "cloud_thunder_bronze",
+    "name": "Облачный-громовой бронзовый",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Swift": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "everfrost_steel",
+    "name": "Вечная стужа стальной",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Sharp": 4,
+      "Hard": 4
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "sun_flame_copper",
+    "name": "Солнце-пламя медь",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 4,
+      "Qi": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "abyssal_tide_iron",
+    "name": "Бездна приливный железный",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Hard": 5,
+      "Qi": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "evergreen_adamant",
+    "name": "Вечнозелёный несокрушимый",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 5,
+      "Vitality": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "star_core_gold",
+    "name": "Звёздный-ядро золотой",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 7,
+      "Qi": 3
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "primordial_adamant",
+    "name": "Первозданный несокрушимый",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 8,
+      "Sharp": 2
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_jade",
+    "name": "Бессмертный нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "heaven_dao_jade",
+    "name": "Небесный-Дао нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 7,
+      "Spirit": 4
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "fusang_wood",
+    "name": "Фусан древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Hard": 4,
+      "Swift": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "world_tree_branch",
+    "name": "Мир дерево ветвь",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 4,
+      "Hard": 5
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "cloud_silk_paper",
+    "name": "Облачный шёлк бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 4,
+      "Hard": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "heaven_scroll_paper",
+    "name": "Небесный свиток бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 5,
+      "Hard": 4
+    },
+    "weight": 0.4,
+    "foundIn": [
+      "Ruins"
+    ]
+  },
+  {
+    "id": "immortal_blood_ink",
+    "name": "Бессмертный кровавый чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 5,
+      "Hard": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "kun_core",
+    "name": "Куньпэн ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Qi": 6,
+      "Essence": 3
+    },
+    "weight": 1,
+    "foundIn": []
+  },
+  {
+    "id": "phoenix_core",
+    "name": "Небесный феникс ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 7,
+      "Qi": 5
+    },
+    "weight": 0.4,
+    "foundIn": []
+  },
+  {
+    "id": "wild_blade_grass",
+    "name": "Дикий клинок трава",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 2,
+      "Hard": 1
+    },
+    "weight": 5,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "wild_mountain_root",
+    "name": "Дикий горный корень",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 2,
+      "Vitality": 1
+    },
+    "weight": 5,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "wild_thunder_moss",
+    "name": "Дикий громовой мох",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Essence": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "wild_snow_lotus",
+    "name": "Дикий снег лотос",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 2,
+      "Longevity": 1
+    },
+    "weight": 5,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "wild_harmony_ginseng",
+    "name": "Дикий гармония женьшень",
+    "kind": "Herb",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 2,
+      "Vitality": 1
+    },
+    "weight": 5,
+    "growYears": 2,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_blade_grass",
+    "name": "Духовный клинок трава",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 3,
+      "Hard": 1
+    },
+    "weight": 3,
+    "growYears": 10,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_evergreen_vine",
+    "name": "Духовный вечнозелёный лоза",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 3,
+      "Longevity": 1
+    },
+    "weight": 3,
+    "growYears": 10,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_feather_grass",
+    "name": "Духовный перо трава",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "growYears": 10,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_harmony_ginseng",
+    "name": "Духовный гармония женьшень",
+    "kind": "Herb",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 3,
+      "Vitality": 1
+    },
+    "weight": 3,
+    "growYears": 10,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "hundred_year_mountain_root",
+    "name": "Сотенный-летний горный корень",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 3,
+      "Vitality": 2
+    },
+    "weight": 1.5,
+    "growYears": 40,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "hundred_year_feather_grass",
+    "name": "Сотенный-летний перо трава",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "growYears": 40,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "hundred_year_thunder_moss",
+    "name": "Сотенный-летний громовой мох",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Essence": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "growYears": 40,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "hundred_year_snow_lotus",
+    "name": "Сотенный-летний снег лотос",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 3,
+      "Longevity": 2
+    },
+    "weight": 1.5,
+    "growYears": 40,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "hundred_year_harmony_ginseng",
+    "name": "Сотенный-летний гармония женьшень",
+    "kind": "Herb",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 3,
+      "Vitality": 2
+    },
+    "weight": 1.5,
+    "growYears": 40,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "thousand_year_blade_grass",
+    "name": "Тысячный-летний клинок трава",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 4,
+      "Hard": 2
+    },
+    "weight": 0.8,
+    "growYears": 120,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thousand_year_tide_lotus",
+    "name": "Тысячный-летний приливный лотос",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Qi": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "growYears": 120,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thousand_year_feather_grass",
+    "name": "Тысячный-летний перо трава",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "growYears": 120,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thousand_year_harmony_ginseng",
+    "name": "Тысячный-летний гармония женьшень",
+    "kind": "Herb",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 4,
+      "Vitality": 2
+    },
+    "weight": 0.8,
+    "growYears": 120,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_blade_grass",
+    "name": "Небесный-рождённый клинок трава",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_tide_lotus",
+    "name": "Небесный-рождённый приливный лотос",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_feather_grass",
+    "name": "Небесный-рождённый перо трава",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_thunder_moss",
+    "name": "Небесный-рождённый громовой мох",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Essence": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_snow_lotus",
+    "name": "Небесный-рождённый снег лотос",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 5,
+      "Longevity": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_born_harmony_ginseng",
+    "name": "Небесный-рождённый гармония женьшень",
+    "kind": "Herb",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 5,
+      "Vitality": 4
+    },
+    "weight": 0.35,
+    "growYears": 400,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_blade_grass",
+    "name": "Облачный-рождённый клинок трава",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 5,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_flame_fruit",
+    "name": "Облачный-рождённый пламя плод",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Essence": 5,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_mountain_root",
+    "name": "Облачный-рождённый горный корень",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5,
+      "Vitality": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_thunder_moss",
+    "name": "Облачный-рождённый громовой мох",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Essence": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_snow_lotus",
+    "name": "Облачный-рождённый снег лотос",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 5,
+      "Longevity": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "cloud_born_harmony_ginseng",
+    "name": "Облачный-рождённый гармония женьшень",
+    "kind": "Herb",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 5,
+      "Vitality": 3
+    },
+    "weight": 0.8,
+    "growYears": 600,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_blade_grass",
+    "name": "Хаос-рождённый клинок трава",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Essence": 6,
+      "Hard": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_tide_lotus",
+    "name": "Хаос-рождённый приливный лотос",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_feather_grass",
+    "name": "Хаос-рождённый перо трава",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_thunder_moss",
+    "name": "Хаос-рождённый громовой мох",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Essence": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_snow_lotus",
+    "name": "Хаос-рождённый снег лотос",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 6,
+      "Longevity": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_born_harmony_ginseng",
+    "name": "Хаос-рождённый гармония женьшень",
+    "kind": "Herb",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 6,
+      "Vitality": 4
+    },
+    "weight": 0.3,
+    "growYears": 2000,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "raw_mountain_iron",
+    "name": "Сырой горный железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "raw_gale_silver",
+    "name": "Сырой штормовой серебряный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 2,
+      "Sharp": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "raw_thunder_bronze",
+    "name": "Сырой громовой бронзовый",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 2,
+      "Swift": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "raw_frost_steel",
+    "name": "Сырой морозный стальной",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 2,
+      "Sharp": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "raw_pure_iron",
+    "name": "Сырой чистый железный",
+    "kind": "Ore",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 2,
+      "Hard": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_gengjin_gold",
+    "name": "Духовный Гэнцзинь золотой",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 3,
+      "Hard": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_verdant_ore",
+    "name": "Духовный изумрудный руда",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3,
+      "Qi": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_thunder_bronze",
+    "name": "Духовный громовой бронзовый",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 3,
+      "Swift": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_pure_iron",
+    "name": "Духовный чистый железный",
+    "kind": "Ore",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 3,
+      "Hard": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "deep_vein_verdant_ore",
+    "name": "Глубинный-жила изумрудный руда",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3,
+      "Qi": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "deep_vein_tide_iron",
+    "name": "Глубинный-жила приливный железный",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3,
+      "Swift": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "deep_vein_pure_iron",
+    "name": "Глубинный-жила чистый железный",
+    "kind": "Ore",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 3,
+      "Hard": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "ancient_verdant_ore",
+    "name": "Древний изумрудный руда",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 4,
+      "Qi": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_flame_copper",
+    "name": "Древний пламя медь",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 4,
+      "Qi": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_mountain_iron",
+    "name": "Древний горный железный",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_gale_silver",
+    "name": "Древний штормовой серебряный",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 4,
+      "Sharp": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_frost_steel",
+    "name": "Древний морозный стальной",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 4,
+      "Sharp": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_pure_iron",
+    "name": "Древний чистый железный",
+    "kind": "Ore",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 4,
+      "Hard": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_verdant_ore",
+    "name": "Небесный-падший изумрудный руда",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_tide_iron",
+    "name": "Небесный-падший приливный железный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Qi": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_flame_copper",
+    "name": "Небесный-падший пламя медь",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_mountain_iron",
+    "name": "Небесный-падший горный железный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_gale_silver",
+    "name": "Небесный-падший штормовой серебряный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_thunder_bronze",
+    "name": "Небесный-падший громовой бронзовый",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_frost_steel",
+    "name": "Небесный-падший морозный стальной",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_fallen_pure_iron",
+    "name": "Небесный-падший чистый железный",
+    "kind": "Ore",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_pure_iron",
+    "name": "Звёздный чистый железный",
+    "kind": "Ore",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 5,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_verdant_ore",
+    "name": "Хаос изумрудный руда",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 6,
+      "Qi": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_tide_iron",
+    "name": "Хаос приливный железный",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Qi": 6,
+      "Swift": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_flame_copper",
+    "name": "Хаос пламя медь",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 6,
+      "Qi": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_gale_silver",
+    "name": "Хаос штормовой серебряный",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 6,
+      "Sharp": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_thunder_bronze",
+    "name": "Хаос громовой бронзовый",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 6,
+      "Swift": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_frost_steel",
+    "name": "Хаос морозный стальной",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 6,
+      "Sharp": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_pure_iron",
+    "name": "Хаос чистый железный",
+    "kind": "Ore",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Sharp": 6,
+      "Hard": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "common_gold_dust_ink",
+    "name": "Обычный золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_sap_ink",
+    "name": "Обычный сок чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_tide_ink",
+    "name": "Обычный приливный чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 2,
+      "Swift": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_loess_ink",
+    "name": "Обычный лёссовый чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_cloud_ink",
+    "name": "Обычный облачный чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_storm_ink",
+    "name": "Обычный буря чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 2,
+      "Swift": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_rime_ink",
+    "name": "Обычный инеевый чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "common_pure_ink",
+    "name": "Обычный чистый чернила",
+    "kind": "Ink",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 2
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_gold_dust_ink",
+    "name": "Духовный золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 3
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_sap_ink",
+    "name": "Духовный сок чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_loess_ink",
+    "name": "Духовный лёссовый чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_cloud_ink",
+    "name": "Духовный облачный чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_storm_ink",
+    "name": "Духовный буря чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 3,
+      "Swift": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_rime_ink",
+    "name": "Духовный инеевый чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_pure_ink",
+    "name": "Духовный чистый чернила",
+    "kind": "Ink",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 3
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_sap_ink",
+    "name": "Очищенный сок чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_tide_ink",
+    "name": "Очищенный приливный чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_ember_ink",
+    "name": "Очищенный уголь чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_loess_ink",
+    "name": "Очищенный лёссовый чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_cloud_ink",
+    "name": "Очищенный облачный чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_rime_ink",
+    "name": "Очищенный инеевый чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "refined_pure_ink",
+    "name": "Очищенный чистый чернила",
+    "kind": "Ink",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 3
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "ancient_gold_dust_ink",
+    "name": "Древний золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 4
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_sap_ink",
+    "name": "Древний сок чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_ember_ink",
+    "name": "Древний уголь чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_loess_ink",
+    "name": "Древний лёссовый чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_cloud_ink",
+    "name": "Древний облачный чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 4
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_storm_ink",
+    "name": "Древний буря чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 4,
+      "Swift": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_rime_ink",
+    "name": "Древний инеевый чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_pure_ink",
+    "name": "Древний чистый чернила",
+    "kind": "Ink",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 4
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_gold_dust_ink",
+    "name": "Небесный золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 5
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_sap_ink",
+    "name": "Небесный сок чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_tide_ink",
+    "name": "Небесный приливный чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_ember_ink",
+    "name": "Небесный уголь чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_loess_ink",
+    "name": "Небесный лёссовый чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_cloud_ink",
+    "name": "Небесный облачный чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_storm_ink",
+    "name": "Небесный буря чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_rime_ink",
+    "name": "Небесный инеевый чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_pure_ink",
+    "name": "Небесный чистый чернила",
+    "kind": "Ink",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 5
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_gold_dust_ink",
+    "name": "Звёздный золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 5
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_sap_ink",
+    "name": "Звёздный сок чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_tide_ink",
+    "name": "Звёздный приливный чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 5,
+      "Swift": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_loess_ink",
+    "name": "Звёздный лёссовый чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_cloud_ink",
+    "name": "Звёздный облачный чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_storm_ink",
+    "name": "Звёздный буря чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Swift": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_rime_ink",
+    "name": "Звёздный инеевый чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_pure_ink",
+    "name": "Звёздный чистый чернила",
+    "kind": "Ink",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 5
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_gold_dust_ink",
+    "name": "Хаос золотой пыль чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_sap_ink",
+    "name": "Хаос сок чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Hard": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_tide_ink",
+    "name": "Хаос приливный чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 6,
+      "Swift": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_ember_ink",
+    "name": "Хаос уголь чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_loess_ink",
+    "name": "Хаос лёссовый чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_cloud_ink",
+    "name": "Хаос облачный чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_storm_ink",
+    "name": "Хаос буря чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 6,
+      "Swift": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_rime_ink",
+    "name": "Хаос инеевый чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_pure_ink",
+    "name": "Хаос чистый чернила",
+    "kind": "Ink",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "rough_gold_jade",
+    "name": "Грубый золотой нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 2,
+      "Qi": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "rough_green_jade",
+    "name": "Грубый зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "rough_water_jade",
+    "name": "Грубый вода нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Qi": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "rough_flame_jade",
+    "name": "Грубый пламя нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 2,
+      "Qi": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "rough_wind_jade",
+    "name": "Грубый ветер нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "rough_thunder_jade",
+    "name": "Грубый громовой нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "rough_frost_jade",
+    "name": "Грубый морозный нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "rough_pure_jade",
+    "name": "Грубый чистый нефритовый",
+    "kind": "Jade",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 2,
+      "Spirit": 1
+    },
+    "weight": 5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_gold_jade",
+    "name": "Духовный золотой нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 3,
+      "Qi": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_green_jade",
+    "name": "Духовный зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_water_jade",
+    "name": "Духовный вода нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_thunder_jade",
+    "name": "Духовный громовой нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "spirit_frost_jade",
+    "name": "Духовный морозный нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "spirit_pure_jade",
+    "name": "Духовный чистый нефритовый",
+    "kind": "Jade",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 1
+    },
+    "weight": 3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "deep_water_jade",
+    "name": "Глубинный вода нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "deep_flame_jade",
+    "name": "Глубинный пламя нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 3,
+      "Qi": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "deep_thunder_jade",
+    "name": "Глубинный громовой нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "deep_frost_jade",
+    "name": "Глубинный морозный нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "deep_pure_jade",
+    "name": "Глубинный чистый нефритовый",
+    "kind": "Jade",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 3,
+      "Spirit": 2
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins"
+    ]
+  },
+  {
+    "id": "ancient_gold_jade",
+    "name": "Древний золотой нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 4,
+      "Qi": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_green_jade",
+    "name": "Древний зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_flame_jade",
+    "name": "Древний пламя нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 4,
+      "Qi": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_yellow_jade",
+    "name": "Древний жёлтый нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4,
+      "Qi": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_wind_jade",
+    "name": "Древний ветер нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_thunder_jade",
+    "name": "Древний громовой нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_frost_jade",
+    "name": "Древний морозный нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ancient_pure_jade",
+    "name": "Древний чистый нефритовый",
+    "kind": "Jade",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 4,
+      "Spirit": 2
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_gold_jade",
+    "name": "Небесный золотой нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_green_jade",
+    "name": "Небесный зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_water_jade",
+    "name": "Небесный вода нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_flame_jade",
+    "name": "Небесный пламя нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_yellow_jade",
+    "name": "Небесный жёлтый нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_wind_jade",
+    "name": "Небесный ветер нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_thunder_jade",
+    "name": "Небесный громовой нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_frost_jade",
+    "name": "Небесный морозный нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_pure_jade",
+    "name": "Небесный чистый нефритовый",
+    "kind": "Jade",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_gold_jade",
+    "name": "Звёздный золотой нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Sharp": 5,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_green_jade",
+    "name": "Звёздный зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_water_jade",
+    "name": "Звёздный вода нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_flame_jade",
+    "name": "Звёздный пламя нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 5,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_wind_jade",
+    "name": "Звёздный ветер нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_thunder_jade",
+    "name": "Звёздный громовой нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_frost_jade",
+    "name": "Звёздный морозный нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "star_pure_jade",
+    "name": "Звёздный чистый нефритовый",
+    "kind": "Jade",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 5,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_green_jade",
+    "name": "Хаос зелёный нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_water_jade",
+    "name": "Хаос вода нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_flame_jade",
+    "name": "Хаос пламя нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Sharp": 6,
+      "Qi": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_yellow_jade",
+    "name": "Хаос жёлтый нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 6,
+      "Qi": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_wind_jade",
+    "name": "Хаос ветер нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_thunder_jade",
+    "name": "Хаос громовой нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Sharp": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_frost_jade",
+    "name": "Хаос морозный нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "chaos_pure_jade",
+    "name": "Хаос чистый нефритовый",
+    "kind": "Jade",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Qi": 6,
+      "Spirit": 4
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "SpiritVein",
+      "Ruins",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "ironheart_wood",
+    "name": "Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 1,
+      "Sharp": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "silverleaf_paper",
+    "name": "Силверлеаф бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 1,
+      "Hard": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "lesser_verdant_core",
+    "name": "Малый изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 1,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 1,
+      "Vitality": 1
+    },
+    "weight": 6.5,
+    "foundIn": []
+  },
+  {
+    "id": "tidewillow_wood",
+    "name": "Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 1,
+      "Swift": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "riverweed_paper",
+    "name": "Речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 1,
+      "Qi": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "emberpine_wood",
+    "name": "Емберпине древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 1,
+      "Sharp": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "cinder_paper",
+    "name": "Угольный бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 1,
+      "Sharp": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "stoneroot_wood",
+    "name": "Стонероот древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 1,
+      "Vitality": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "cloud_bamboo_wood",
+    "name": "Облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 1,
+      "Spirit": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "featherdown_paper",
+    "name": "Феатхердовн бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 1,
+      "Swift": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "lesser_gale_core",
+    "name": "Малый штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 1,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 1,
+      "Swift": 1
+    },
+    "weight": 6.5,
+    "foundIn": []
+  },
+  {
+    "id": "thunder_oak_wood",
+    "name": "Громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 1,
+      "Sharp": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "stormbark_paper",
+    "name": "Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 1,
+      "Sharp": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "frost_cypress_wood",
+    "name": "Морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 1,
+      "Spirit": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "rime_silk_paper",
+    "name": "Инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 2
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "plain_spirit_wood",
+    "name": "Равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 1,
+      "Qi": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "plain_hemp_paper",
+    "name": "Равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 1,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 1,
+      "Qi": 1
+    },
+    "weight": 6.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "hundred_year_ironheart_wood",
+    "name": "Сотенный-летний Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 2,
+      "Sharp": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "fine_silverleaf_paper",
+    "name": "Тонкий Силверлеаф бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 2,
+      "Hard": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_edge_core",
+    "name": "Духовный острие звериный ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 2,
+      "Sharp": 1
+    },
+    "weight": 4.0,
+    "foundIn": []
+  },
+  {
+    "id": "spirit_verdant_core",
+    "name": "Духовный изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 2,
+      "Vitality": 1
+    },
+    "weight": 4.0,
+    "foundIn": []
+  },
+  {
+    "id": "fine_riverweed_paper",
+    "name": "Тонкий речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 2,
+      "Qi": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "hundred_year_emberpine_wood",
+    "name": "Сотенный-летний Емберпине древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 2,
+      "Sharp": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "fine_cinder_paper",
+    "name": "Тонкий угольный бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 2,
+      "Sharp": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "hundred_year_stoneroot_wood",
+    "name": "Сотенный-летний Стонероот древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 2,
+      "Vitality": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "fine_loess_paper",
+    "name": "Тонкий лёссовый бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 2,
+      "Hard": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_mountain_core",
+    "name": "Духовный горный звериный ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 2,
+      "Hard": 1
+    },
+    "weight": 4.0,
+    "foundIn": []
+  },
+  {
+    "id": "hundred_year_cloud_bamboo_wood",
+    "name": "Сотенный-летний облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 2,
+      "Spirit": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "fine_featherdown_paper",
+    "name": "Тонкий Феатхердовн бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 2,
+      "Swift": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "hundred_year_thunder_oak_wood",
+    "name": "Сотенный-летний громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 2,
+      "Sharp": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_thunder_core",
+    "name": "Духовный громовой звериный ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 2,
+      "Swift": 1
+    },
+    "weight": 4.0,
+    "foundIn": []
+  },
+  {
+    "id": "hundred_year_frost_cypress_wood",
+    "name": "Сотенный-летний морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 2,
+      "Spirit": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "fine_rime_silk_paper",
+    "name": "Тонкий инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 3
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "spirit_frost_core",
+    "name": "Духовный морозный звериный ядро",
+    "kind": "Core",
+    "grade": 2,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 2,
+      "Hard": 1
+    },
+    "weight": 4.0,
+    "foundIn": []
+  },
+  {
+    "id": "hundred_year_plain_spirit_wood",
+    "name": "Сотенный-летний равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 2,
+      "Qi": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "fine_plain_hemp_paper",
+    "name": "Тонкий равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 2,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 2,
+      "Qi": 1
+    },
+    "weight": 4.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "deep_root_ironheart_wood",
+    "name": "Глубинный-корень Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_edge_core",
+    "name": "Сокровенный острие звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_verdant_camphor_wood",
+    "name": "Глубинный-корень изумрудный Кампхор древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 3,
+      "Hard": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_mulberry_paper",
+    "name": "Духовный-насыщенный Мулберрй бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 3,
+      "Vitality": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_verdant_core",
+    "name": "Сокровенный изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 3,
+      "Vitality": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_tidewillow_wood",
+    "name": "Глубинный-корень Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_riverweed_paper",
+    "name": "Духовный-насыщенный речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 3,
+      "Qi": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "deep_root_emberpine_wood",
+    "name": "Глубинный-корень Емберпине древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_cinder_paper",
+    "name": "Духовный-насыщенный угольный бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_flame_core",
+    "name": "Сокровенный пламя звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_stoneroot_wood",
+    "name": "Глубинный-корень Стонероот древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 3,
+      "Vitality": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_loess_paper",
+    "name": "Духовный-насыщенный лёссовый бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 3,
+      "Hard": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_mountain_core",
+    "name": "Сокровенный горный звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 3,
+      "Hard": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_cloud_bamboo_wood",
+    "name": "Глубинный-корень облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 3,
+      "Spirit": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_featherdown_paper",
+    "name": "Духовный-насыщенный Феатхердовн бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 3,
+      "Swift": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_gale_core",
+    "name": "Сокровенный штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 3,
+      "Swift": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "spirit_steeped_stormbark_paper",
+    "name": "Духовный-насыщенный Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 3,
+      "Sharp": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_thunder_core",
+    "name": "Сокровенный громовой звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 3,
+      "Swift": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_frost_cypress_wood",
+    "name": "Глубинный-корень морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 3,
+      "Spirit": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_rime_silk_paper",
+    "name": "Духовный-насыщенный инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 4
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_frost_core",
+    "name": "Сокровенный морозный звериный ядро",
+    "kind": "Core",
+    "grade": 3,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 3,
+      "Hard": 2
+    },
+    "weight": 2.0,
+    "foundIn": []
+  },
+  {
+    "id": "deep_root_plain_spirit_wood",
+    "name": "Глубинный-корень равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 3,
+      "Qi": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "spirit_steeped_plain_hemp_paper",
+    "name": "Духовный-насыщенный равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 3,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 3,
+      "Qi": 2
+    },
+    "weight": 2.0,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thousand_year_ironheart_wood",
+    "name": "Тысячный-летний Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 4,
+      "Sharp": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_silverleaf_paper",
+    "name": "Сокровенный Силверлеаф бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 4,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_edge_core",
+    "name": "Земля-ранг острие звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 4,
+      "Sharp": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "profound_mulberry_paper",
+    "name": "Сокровенный Мулберрй бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 4,
+      "Vitality": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_verdant_core",
+    "name": "Земля-ранг изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 4,
+      "Vitality": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "thousand_year_tidewillow_wood",
+    "name": "Тысячный-летний Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 4,
+      "Swift": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_riverweed_paper",
+    "name": "Сокровенный речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 4,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_tide_core",
+    "name": "Земля-ранг приливный звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Water",
+    "aspects": {
+      "Qi": 4,
+      "Essence": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "profound_cinder_paper",
+    "name": "Сокровенный угольный бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 4,
+      "Sharp": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "thousand_year_stoneroot_wood",
+    "name": "Тысячный-летний Стонероот древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 4,
+      "Vitality": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_loess_paper",
+    "name": "Сокровенный лёссовый бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 4,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_mountain_core",
+    "name": "Земля-ранг горный звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 4,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "thousand_year_cloud_bamboo_wood",
+    "name": "Тысячный-летний облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 4,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_gale_core",
+    "name": "Земля-ранг штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 4,
+      "Swift": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "thousand_year_thunder_oak_wood",
+    "name": "Тысячный-летний громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 4,
+      "Sharp": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_stormbark_paper",
+    "name": "Сокровенный Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 4,
+      "Sharp": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_thunder_core",
+    "name": "Земля-ранг громовой звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 4,
+      "Swift": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "thousand_year_frost_cypress_wood",
+    "name": "Тысячный-летний морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 4,
+      "Spirit": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_rime_silk_paper",
+    "name": "Сокровенный инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 5
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "earth_grade_frost_core",
+    "name": "Земля-ранг морозный звериный ядро",
+    "kind": "Core",
+    "grade": 4,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 4,
+      "Hard": 3
+    },
+    "weight": 0.8,
+    "foundIn": []
+  },
+  {
+    "id": "thousand_year_plain_spirit_wood",
+    "name": "Тысячный-летний равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 4,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "profound_plain_hemp_paper",
+    "name": "Сокровенный равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 4,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 4,
+      "Qi": 3
+    },
+    "weight": 0.8,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_rooted_ironheart_wood",
+    "name": "Небесный-Роотед Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_silverleaf_paper",
+    "name": "Небесный-сплетённый Силверлеаф бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_edge_core",
+    "name": "Небесный-ранг острие звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_verdant_camphor_wood",
+    "name": "Небесный-Роотед изумрудный Кампхор древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_mulberry_paper",
+    "name": "Небесный-сплетённый Мулберрй бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 5,
+      "Vitality": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_verdant_core",
+    "name": "Небесный-ранг изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 5,
+      "Vitality": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_tidewillow_wood",
+    "name": "Небесный-Роотед Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_tide_core",
+    "name": "Небесный-ранг приливный звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Water",
+    "aspects": {
+      "Qi": 5,
+      "Essence": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_emberpine_wood",
+    "name": "Небесный-Роотед Емберпине древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_cinder_paper",
+    "name": "Небесный-сплетённый угольный бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_flame_core",
+    "name": "Небесный-ранг пламя звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_stoneroot_wood",
+    "name": "Небесный-Роотед Стонероот древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 5,
+      "Vitality": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_loess_paper",
+    "name": "Небесный-сплетённый лёссовый бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_mountain_core",
+    "name": "Небесный-ранг горный звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_cloud_bamboo_wood",
+    "name": "Небесный-Роотед облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_featherdown_paper",
+    "name": "Небесный-сплетённый Феатхердовн бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_gale_core",
+    "name": "Небесный-ранг штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 5,
+      "Swift": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_thunder_oak_wood",
+    "name": "Небесный-Роотед громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_stormbark_paper",
+    "name": "Небесный-сплетённый Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 5,
+      "Sharp": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_rooted_frost_cypress_wood",
+    "name": "Небесный-Роотед морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 5,
+      "Spirit": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_rime_silk_paper",
+    "name": "Небесный-сплетённый инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 6
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_grade_frost_core",
+    "name": "Небесный-ранг морозный звериный ядро",
+    "kind": "Core",
+    "grade": 5,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 5,
+      "Hard": 4
+    },
+    "weight": 0.35,
+    "foundIn": []
+  },
+  {
+    "id": "heaven_rooted_plain_spirit_wood",
+    "name": "Небесный-Роотед равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "heaven_woven_plain_hemp_paper",
+    "name": "Небесный-сплетённый равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 5,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 5,
+      "Qi": 4
+    },
+    "weight": 0.35,
+    "foundIn": [
+      "Ruins",
+      "Wilderness",
+      "SecretRealm"
+    ]
+  },
+  {
+    "id": "immortal_ironheart_wood",
+    "name": "Бессмертный Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_silverleaf_paper",
+    "name": "Бессмертный Силверлеаф бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Spirit": 6,
+      "Hard": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_edge_core",
+    "name": "Бессмертный острие звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_verdant_camphor_wood",
+    "name": "Бессмертный изумрудный Кампхор древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Vitality": 6,
+      "Hard": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "immortal_mulberry_paper",
+    "name": "Бессмертный Мулберрй бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 6,
+      "Vitality": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_verdant_core",
+    "name": "Бессмертный изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 6,
+      "Vitality": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_tidewillow_wood",
+    "name": "Бессмертный Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 6,
+      "Swift": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_riverweed_paper",
+    "name": "Бессмертный речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 6,
+      "Qi": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_cinder_paper",
+    "name": "Бессмертный угольный бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_flame_core",
+    "name": "Бессмертный пламя звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_stoneroot_wood",
+    "name": "Бессмертный Стонероот древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 6,
+      "Vitality": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "immortal_loess_paper",
+    "name": "Бессмертный лёссовый бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 6,
+      "Hard": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_mountain_core",
+    "name": "Бессмертный горный звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 6,
+      "Hard": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_cloud_bamboo_wood",
+    "name": "Бессмертный облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 6,
+      "Spirit": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_gale_core",
+    "name": "Бессмертный штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 6,
+      "Swift": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_thunder_oak_wood",
+    "name": "Бессмертный громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_stormbark_paper",
+    "name": "Бессмертный Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 6,
+      "Sharp": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_thunder_core",
+    "name": "Бессмертный громовой звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 6,
+      "Swift": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_frost_cypress_wood",
+    "name": "Бессмертный морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 6,
+      "Spirit": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_rime_silk_paper",
+    "name": "Бессмертный инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 7
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "immortal_frost_core",
+    "name": "Бессмертный морозный звериный ядро",
+    "kind": "Core",
+    "grade": 6,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 6,
+      "Hard": 5
+    },
+    "weight": 1.5,
+    "foundIn": []
+  },
+  {
+    "id": "immortal_plain_spirit_wood",
+    "name": "Бессмертный равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 6,
+      "Qi": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "immortal_plain_hemp_paper",
+    "name": "Бессмертный равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 6,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 6,
+      "Qi": 5
+    },
+    "weight": 1.5,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_ironheart_wood",
+    "name": "Первозданный Иронхеарт древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Hard": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_edge_core",
+    "name": "Первозданный острие звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Metal",
+    "aspects": {
+      "Qi": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_mulberry_paper",
+    "name": "Первозданный Мулберрй бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Spirit": 7,
+      "Vitality": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_verdant_core",
+    "name": "Первозданный изумрудный звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Wood",
+    "aspects": {
+      "Qi": 7,
+      "Vitality": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_tidewillow_wood",
+    "name": "Первозданный Тидевиллов древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 7,
+      "Swift": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_riverweed_paper",
+    "name": "Первозданный речная водоросль бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Spirit": 7,
+      "Qi": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_tide_core",
+    "name": "Первозданный приливный звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Water",
+    "aspects": {
+      "Qi": 7,
+      "Essence": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_emberpine_wood",
+    "name": "Первозданный Емберпине древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Qi": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_cinder_paper",
+    "name": "Первозданный угольный бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Fire",
+    "aspects": {
+      "Spirit": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_stoneroot_wood",
+    "name": "Первозданный Стонероот древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Hard": 7,
+      "Vitality": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "primordial_loess_paper",
+    "name": "Первозданный лёссовый бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Spirit": 7,
+      "Hard": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_mountain_core",
+    "name": "Первозданный горный звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Earth",
+    "aspects": {
+      "Qi": 7,
+      "Hard": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_cloud_bamboo_wood",
+    "name": "Первозданный облачный бамбуковый древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Swift": 7,
+      "Spirit": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_featherdown_paper",
+    "name": "Первозданный Феатхердовн бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Spirit": 7,
+      "Swift": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_gale_core",
+    "name": "Первозданный штормовой звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Wind",
+    "aspects": {
+      "Qi": 7,
+      "Swift": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_thunder_oak_wood",
+    "name": "Первозданный громовой дуб древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Swift": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_stormbark_paper",
+    "name": "Первозданный Стормбарк бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Spirit": 7,
+      "Sharp": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_thunder_core",
+    "name": "Первозданный громовой звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Lightning",
+    "aspects": {
+      "Qi": 7,
+      "Swift": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_frost_cypress_wood",
+    "name": "Первозданный морозный кипарис древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Hard": 7,
+      "Spirit": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_rime_silk_paper",
+    "name": "Первозданный инеевый шёлк бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Spirit": 8
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  },
+  {
+    "id": "primordial_frost_core",
+    "name": "Первозданный морозный звериный ядро",
+    "kind": "Core",
+    "grade": 7,
+    "element": "Ice",
+    "aspects": {
+      "Qi": 7,
+      "Hard": 6
+    },
+    "weight": 0.3,
+    "foundIn": []
+  },
+  {
+    "id": "primordial_plain_spirit_wood",
+    "name": "Первозданный равнинный духовный древесина",
+    "kind": "Wood",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Hard": 7,
+      "Qi": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Wilderness",
+      "SpiritVein"
+    ]
+  },
+  {
+    "id": "primordial_plain_hemp_paper",
+    "name": "Первозданный равнинный пеньковый бумага",
+    "kind": "Paper",
+    "grade": 7,
+    "element": "Neutral",
+    "aspects": {
+      "Spirit": 7,
+      "Qi": 6
+    },
+    "weight": 0.3,
+    "foundIn": [
+      "Ruins",
+      "Wilderness"
+    ]
+  }
+]

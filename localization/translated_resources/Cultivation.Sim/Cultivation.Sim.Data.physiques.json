@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "ordinary",
+    "name": "Обычное тело",
+    "description": "Обычные плоть и кости. Небеса не ждут от тебя ничего особенного.",
+    "rarity": "Common",
+    "weight": 1000
+  },
+  {
+    "id": "robust_bones",
+    "name": "Крепкие кости",
+    "description": "Крепкие кости и тугие сухожилия. Тебя нелегко сломить, и ты медленно устаёшь.",
+    "rarity": "Uncommon",
+    "weight": 120,
+    "constitution": 10,
+    "strength": 5,
+    "lifespanYears": 5
+  },
+  {
+    "id": "keen_spirit",
+    "name": "Острое духовное чутьё",
+    "description": "У тебя необычайно острое духовное чутьё: ты замечаешь то, что скрыто от других.",
+    "rarity": "Uncommon",
+    "weight": 100,
+    "spirit": 10,
+    "comprehension": 5
+  },
+  {
+    "id": "spirit_sensitive",
+    "name": "Тело, чувствительное к духовной энергии",
+    "description": "Окружающая ци оседает на коже, словно утренняя роса.",
+    "rarity": "Uncommon",
+    "weight": 80,
+    "cultivationMultiplier": 1.15
+  },
+  {
+    "id": "sickly",
+    "name": "Болезненное тело",
+    "description": "Хрупкое тело. При твоём рождении лекари лишь покачали головами.",
+    "rarity": "Common",
+    "weight": 120,
+    "constitution": -15,
+    "strength": -5,
+    "lifespanYears": -15
+  },
+  {
+    "id": "withered_meridians",
+    "name": "Увядающие меридианы",
+    "description": "Ваши меридианы узкие и хрупкие. Каждая нить ци - это борьба, которая научила вас глубоко мыслить.",
+    "rarity": "Uncommon",
+    "weight": 60,
+    "cultivationMultiplier": 0.5,
+    "comprehension": 12
+  },
+  {
+    "id": "jade_bone",
+    "name": "Нефритовый кость тело",
+    "description": "Кости любят теплый нефрит, который сопротивляется упадку и уравновешивает фундамент.",
+    "rarity": "Rare",
+    "weight": 25,
+    "cultivationMultiplier": 1.2,
+    "lifespanYears": 30,
+    "breakthroughBonus": 0.05
+  },
+  {
+    "id": "golden_bell",
+    "name": "Золотой колокол тело",
+    "description": "Ваша кожа звонит, как бронза, когда ударила.",
+    "rarity": "Rare",
+    "weight": 12,
+    "constitution": 20,
+    "strength": 5,
+    "affinity": "Metal",
+    "tags": [
+      "body_refining"
+    ]
+  },
+  {
+    "id": "verdant_spring",
+    "name": "Изумрудный весна тело",
+    "description": "Жизненные колодцы внутри вас. Раны закрываются, а травы процветают на вашем прикосновение.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.2,
+    "lifespanYears": 40,
+    "affinity": "Wood",
+    "tags": [
+      "fast_healing",
+      "herb_affinity"
+    ]
+  },
+  {
+    "id": "earth_vein",
+    "name": "Земля жила тело",
+    "description": "Вы чувствуете драконьие вены земли, как будто они были вашей собственной кровью.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.3,
+    "constitution": 15,
+    "affinity": "Earth",
+    "tags": [
+      "formation_affinity"
+    ]
+  },
+  {
+    "id": "tidal_heart",
+    "name": "Приливный сердце тело",
+    "description": "Ваша ци приливы и всплески с Луной, бесконечно обновляясь.",
+    "rarity": "Rare",
+    "weight": 10,
+    "cultivationMultiplier": 1.3,
+    "spirit": 5,
+    "affinity": "Water"
+  },
+  {
+    "id": "hundred_poison",
+    "name": "Сотенный яд тело",
+    "description": "Веном безвредно купается в крови. Другие боятся вашего прикосновения.",
+    "rarity": "Rare",
+    "weight": 10,
+    "constitution": 20,
+    "charm": -10,
+    "affinity": "Wood",
+    "tags": [
+      "poison_immune",
+      "alchemy_affinity"
+    ]
+  },
+  {
+    "id": "ghost_touched",
+    "name": "Призрачный-тронутый тело",
+    "description": "Вы родились в тот момент, когда открылись ворота мертвых. Ты видишь, что ходит невидимым.",
+    "rarity": "Rare",
+    "weight": 15,
+    "spirit": 20,
+    "lifespanYears": -10,
+    "tags": [
+      "ghost_sight"
+    ]
+  },
+  {
+    "id": "innate_sword",
+    "name": "Врождённое тело меча",
+    "description": "Умысл Меча перемешивается в ваших костях. Любое лезвие в вашей руке становится продолжением вашей воли.",
+    "rarity": "Legendary",
+    "weight": 6,
+    "comprehension": 15,
+    "agility": 10,
+    "affinity": "Metal",
+    "tags": [
+      "sword_affinity"
+    ]
+  },
+  {
+    "id": "nine_yin",
+    "name": "Девять инь сокровенный тело",
+    "description": "Горькие иин холодные катушки в вашем костном мозге. Кожадный как котел демоническими культиваторами.",
+    "rarity": "Legendary",
+    "weight": 8,
+    "cultivationMultiplier": 1.5,
+    "spirit": 10,
+    "affinity": "Water",
+    "tags": [
+      "yin",
+      "coveted"
+    ]
+  },
+  {
+    "id": "nine_yang",
+    "name": "Пылающее тело девяти ян",
+    "description": "Твоя кровь горит, как печь. Янг огонь рыкает при каждом сердцебиение.",
+    "rarity": "Legendary",
+    "weight": 8,
+    "cultivationMultiplier": 1.5,
+    "strength": 10,
+    "affinity": "Fire",
+    "tags": [
+      "yang"
+    ]
+  },
+  {
+    "id": "myriad_thunder",
+    "name": "Мириады громовой тело",
+    "description": "Небесная молния признает вас родственниками. Скорения - это праздник, а не испытание.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "cultivationMultiplier": 1.2,
+    "constitution": 10,
+    "tribulationBonus": 0.25,
+    "affinity": "Lightning"
+  },
+  {
+    "id": "chaos_body",
+    "name": "Небесный-бросающий вызов хаос тело",
+    "description": "Тело, которого не должно быть. Вы взращиваете с ужасающей скоростью, и небо презирает вас за это.",
+    "rarity": "Mythic",
+    "weight": 1,
+    "cultivationMultiplier": 2.0,
+    "strength": 10,
+    "agility": 10,
+    "constitution": 10,
+    "spirit": 10,
+    "comprehension": 10,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": -0.15,
+    "tags": [
+      "heaven_jealous"
+    ]
+  },
+  {
+    "id": "stone_skin",
+    "name": "Камень кожа",
+    "description": "Кожа, как выветрива гранит: лезвия сбивался с него, хотя она делает вас медленными.",
+    "rarity": "Uncommon",
+    "weight": 70,
+    "constitution": 10,
+    "agility": -4
+  },
+  {
+    "id": "fox_grace",
+    "name": "Лисий духовный благодать",
+    "description": "След духа лисиц в вашем подшипнике. Люди с вами согласны.",
+    "rarity": "Uncommon",
+    "weight": 60,
+    "charm": 15,
+    "spirit": 3
+  },
+  {
+    "id": "fortunate_star",
+    "name": "Удачливый звёздный",
+    "description": "Родился под счастливой звездой. Вещи падают на ваш путь чаще, чем должны.",
+    "rarity": "Rare",
+    "weight": 18,
+    "luck": 15
+  },
+  {
+    "id": "swift_wind_body",
+    "name": "Быстрый ветер тело",
+    "description": "Свет, как лист на ветру; вы ушли, прежде чем удар попадет.",
+    "rarity": "Rare",
+    "weight": 15,
+    "agility": 12,
+    "affinity": "Wind"
+  },
+  {
+    "id": "thunder_body",
+    "name": "Громовой-закалённый тело",
+    "description": "Убит молнией в детстве и жил. Небесные болты знают вас.",
+    "rarity": "Rare",
+    "weight": 12,
+    "constitution": 6,
+    "tribulationBonus": 0.1,
+    "affinity": "Lightning"
+  },
+  {
+    "id": "ice_soul",
+    "name": "Лёд душа тело",
+    "description": "Душа, как ясный и холодный, как зимний лед. Холодная ци не может задержать вас.",
+    "rarity": "Rare",
+    "weight": 12,
+    "spirit": 8,
+    "affinity": "Ice",
+    "tags": [
+      "cold_immune"
+    ]
+  },
+  {
+    "id": "phoenix_marrow",
+    "name": "Феникс костный мозг",
+    "description": "Эмберс тлеет в кости. Раны закрываются, годы приходят медленно.",
+    "rarity": "Rare",
+    "weight": 10,
+    "lifespanYears": 40,
+    "affinity": "Fire",
+    "tags": [
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "beastblood_body",
+    "name": "Звериный-кровавый сосуд",
+    "description": "Ваша кровь пьет в другой крови. Звериные родословные укоренились в вас легко.",
+    "rarity": "Rare",
+    "weight": 14,
+    "strength": 4,
+    "constitution": 4,
+    "tags": [
+      "bloodline_affinity"
+    ]
+  },
+  {
+    "id": "artisan_hands",
+    "name": "Небесный-одарённый руки",
+    "description": "Памятники, которые помнят все ремесла. Печи, каши и кисти подчиняются вам.",
+    "rarity": "Rare",
+    "weight": 14,
+    "agility": 4,
+    "tags": [
+      "alchemy_affinity",
+      "forging_affinity",
+      "talisman_affinity"
+    ]
+  },
+  {
+    "id": "seer_eyes",
+    "name": "Провидец'с глаза",
+    "description": "Облачные глаза, которые видят, что еще не произошло.",
+    "rarity": "Rare",
+    "weight": 10,
+    "spirit": 10,
+    "tags": [
+      "seer"
+    ]
+  },
+  {
+    "id": "dragon_vein",
+    "name": "Дракон жила тело",
+    "description": "Нить истинного дракона проходит через ваши меридии. Власть и аппетит к крови.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "strength": 10,
+    "constitution": 10,
+    "cultivationMultiplier": 1.2,
+    "tags": [
+      "bloodline_affinity"
+    ]
+  },
+  {
+    "id": "heavenly_dao_body",
+    "name": "Небесный Дао тело",
+    "description": "Дао говорит с вами так же ясно, как и с другом. Небеса обижаются на него.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "comprehension": 20,
+    "breakthroughBonus": 0.08,
+    "tags": [
+      "heaven_jealous"
+    ]
+  },
+  {
+    "id": "iron_marrow",
+    "name": "Железный костный мозг тело",
+    "description": "Металлический ци оседает в вашем мозге, как руда в шове. Вы тяжелее, чем вы смотрите.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "cultivationMultiplier": 1.05,
+    "strength": 6,
+    "constitution": 6,
+    "affinity": "Metal"
+  },
+  {
+    "id": "spirit_bamboo",
+    "name": "Духовный бамбуковый тело",
+    "description": "Вы растете прямо и струны, и изгибается, не ломаясь. Годы проходят мимо вас мягко.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "cultivationMultiplier": 1.1,
+    "lifespanYears": 15,
+    "affinity": "Wood"
+  },
+  {
+    "id": "mirror_lake",
+    "name": "Зеркало озеро сердце",
+    "description": "Ваш разум все еще вода. То, что в него попадает, видно на дно.",
+    "rarity": "Rare",
+    "weight": 12,
+    "comprehension": 8,
+    "breakthroughBonus": 0.06,
+    "affinity": "Water"
+  },
+  {
+    "id": "ember_blood",
+    "name": "Уголь кровавый тело",
+    "description": "Твоя кровь жарится достаточно, чтобы огорчаться. Огонь с нетерпением прыгает из ваших рук.",
+    "rarity": "Rare",
+    "weight": 12,
+    "strength": 8,
+    "affinity": "Fire",
+    "tags": [
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "purple_lightning",
+    "name": "Фиолетовый молния меридианы",
+    "description": "Виаолетовые искры ползают по своим меридианам. Ваши удары наступают раньше, чем гром.",
+    "rarity": "Rare",
+    "weight": 8,
+    "agility": 6,
+    "affinity": "Lightning",
+    "tags": [
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "primordial_mountain",
+    "name": "Первозданный горный тело",
+    "description": "Кости первых гор были заложены, как ваши. Ничто не двигает вас, что вы не позволяете.",
+    "rarity": "Legendary",
+    "weight": 4,
+    "cultivationMultiplier": 1.2,
+    "strength": 15,
+    "constitution": 15,
+    "affinity": "Earth",
+    "tags": [
+      "body_refining"
+    ]
+  },
+  {
+    "id": "frost_sovereign",
+    "name": "Десять-тысячный-летний морозный тело",
+    "description": "Холод старше, чем мир спит в тебе. Ваше дыхание заморозивает воздух летом.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.5,
+    "spirit": 10,
+    "affinity": "Ice",
+    "tags": [
+      "cold_immune",
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "boundless_gale",
+    "name": "Бескрайний штормовой тело",
+    "description": "Ветер не несет вас, он следует за вами. Нет дороги для вас долго.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.4,
+    "agility": 15,
+    "affinity": "Wind",
+    "tags": [
+      "fleet",
+      "elemental_arts"
+    ]
+  },
+  {
+    "id": "taiji_body",
+    "name": "Тайцзи тело",
+    "description": "Вода и огонь поворачиваются в вас без ссоры, каждый из них - семя другого. Дао равновесия приходит естественно.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.5,
+    "comprehension": 10,
+    "breakthroughBonus": 0.06,
+    "requires": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "id": "five_phases",
+    "name": "Пять стихий гармония тело",
+    "description": "Там, где смешанные корни других мутят друг друга, ваш поворачивается как колесо: каждая фаза питает следующую.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 3.0,
+    "breakthroughBonus": 0.05,
+    "requires": [
+      "Metal",
+      "Wood",
+      "Water",
+      "Fire",
+      "Earth"
+    ]
+  },
+  {
+    "id": "bottomless_dantian",
+    "name": "Бездонный даньтянь",
+    "description": "Ваш динавский ласточкилирует лекарства, как море глотает дождь, и никогда не бывает насыщенным.",
+    "rarity": "Rare",
+    "weight": 12,
+    "cultivationMultiplier": 1.1,
+    "tags": [
+      "pill_vessel"
+    ]
+  },
+  {
+    "id": "vast_sea",
+    "name": "Обширный море из сознание",
+    "description": "Ваше внутреннее море не имеет далекого берега. Душевые атаки утонули в ней.",
+    "rarity": "Rare",
+    "weight": 12,
+    "spirit": 12,
+    "comprehension": 4,
+    "tags": [
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "undying_body",
+    "name": "Неумирающий тело",
+    "description": "Смерть продолжает забывать ваше имя. Твоя плоть вязает, как ты смотришь.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "constitution": 15,
+    "lifespanYears": 80,
+    "tribulationBonus": 0.05,
+    "tags": [
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "cloud_treading",
+    "name": "Облачный-ступающий ступни",
+    "description": "Вы идете так, как будто земля была предложением.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "agility": 6,
+    "tags": [
+      "fleet"
+    ]
+  },
+  {
+    "id": "star_crossed",
+    "name": "Звёздный-пересечённый тело",
+    "description": "Вам повезло собакам, и каждое несчастье чему-то вас научило.",
+    "rarity": "Uncommon",
+    "weight": 40,
+    "luck": -12,
+    "comprehension": 8,
+    "breakthroughBonus": 0.03
+  },
+  {
+    "id": "primordial_retribution",
+    "name": "Первозданный воздаяние тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Каждое древнее падшее пало на вас, и каждая нить их кармы проходит через вашу плоть. Сами небеса отойдети в сторону.",
+    "cultivationMultiplier": 4.0,
+    "strength": 25,
+    "agility": 25,
+    "constitution": 25,
+    "spirit": 25,
+    "comprehension": 25,
+    "luck": 25,
+    "lifespanYears": 1000,
+    "breakthroughBonus": 0.2,
+    "tribulationBonus": 0.3,
+    "tags": [
+      "secret",
+      "karma_body",
+      "fast_healing",
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "karmic_sovereign",
+    "name": "Кармический владыка тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Вы срубили древнюю древность во всех тридцати трех телах. Тяжелость этого дела стала вашим телом: причина и следствие изгибаются вокруг вас.",
+    "cultivationMultiplier": 2.5,
+    "spirit": 15,
+    "comprehension": 15,
+    "luck": 25,
+    "constitution": 10,
+    "lifespanYears": 300,
+    "breakthroughBonus": 0.12,
+    "tribulationBonus": 0.15,
+    "tags": [
+      "secret",
+      "karma_body"
+    ]
+  },
+  {
+    "id": "samsara_reversed",
+    "name": "Тело из сансара обращённый",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Ты вытащил душу обратно из колеса. Что-то из колеса пришло с ним и остался в тебе: смерть имеет проблемы с удержанием тебя.",
+    "cultivationMultiplier": 2.2,
+    "spirit": 20,
+    "comprehension": 20,
+    "constitution": 15,
+    "lifespanYears": 500,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": 0.1,
+    "tags": [
+      "secret",
+      "fast_healing",
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "thunder_defying",
+    "name": "Громовой-бросающий вызов душа тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Ты встретил молнию небес со своей душой и отошел в сторону, за болтом. Ваше море сознания обширно и неподвижно, и гром помнит.",
+    "cultivationMultiplier": 2.0,
+    "spirit": 25,
+    "constitution": 0,
+    "agility": 0,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret",
+      "vast_sea",
+      "ghost_sight"
+    ],
+    "comprehension": 10
+  },
+  {
+    "id": "myriad_beast_tyrant",
+    "name": "Мириады звериный тиран тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Тысяча зверей упала тебе, и кровь их впитылась в твою. Звери опускают голову, когда проходите.",
+    "cultivationMultiplier": 1.5,
+    "strength": 25,
+    "constitution": 25,
+    "agility": 15,
+    "lifespanYears": 100,
+    "tags": [
+      "secret",
+      "bloodline_affinity",
+      "body_refining"
+    ]
+  },
+  {
+    "id": "asura_body",
+    "name": "Асура тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Убление стало вашим дао и плоти вашей. Раны закрываются так быстро, как вы их принимаете; ваше лезвие никогда не утомляет.",
+    "cultivationMultiplier": 1.6,
+    "strength": 20,
+    "agility": 20,
+    "constitution": 10,
+    "lifespanYears": 80,
+    "tags": [
+      "secret",
+      "fast_healing",
+      "sword_affinity"
+    ]
+  },
+  {
+    "id": "war_god_body",
+    "name": "Война бог тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Вы стояли в одиночестве над каждым чемпионом мира. Ваше тело превратилось в оружие, достойное этого.",
+    "cultivationMultiplier": 1.5,
+    "strength": 15,
+    "agility": 15,
+    "constitution": 15,
+    "spirit": 10,
+    "lifespanYears": 80,
+    "breakthroughBonus": 0.08,
+    "tags": [
+      "secret"
+    ]
+  },
+  {
+    "id": "heaven_forging_hands",
+    "name": "Небесный-ковка руки",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Десять шедевров прошли через ваши руки, и ваши руки сами стали шедевром.",
+    "cultivationMultiplier": 1.3,
+    "comprehension": 20,
+    "spirit": 10,
+    "agility": 5,
+    "lifespanYears": 60,
+    "tags": [
+      "secret",
+      "alchemy_affinity",
+      "forging_affinity",
+      "talisman_affinity",
+      "formation_affinity",
+      "puppet_affinity"
+    ]
+  },
+  {
+    "id": "thunder_vajra",
+    "name": "Громовой-закалённый ваджра тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Ты пошел на молнию небес на голой плоти, болт за болтом, и она не могла сломать тебя. Каждая кость в вас сейчас молниеносная.",
+    "cultivationMultiplier": 2.0,
+    "strength": 20,
+    "constitution": 25,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret",
+      "body_refining",
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "thunder_sea",
+    "name": "Бескрайний громовой море тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Ты держал небо молнии обратно с морем ци, болтом после болта. Твой дантиан выпил шторм, и это все еще шторм.",
+    "cultivationMultiplier": 2.6,
+    "spirit": 20,
+    "comprehension": 10,
+    "lifespanYears": 150,
+    "breakthroughBonus": 0.08,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret"
+    ]
+  },
+  {
+    "id": "blood_demon_body",
+    "name": "Кровавый демон тело",
+    "description": "Твоя кровь горячая и голодная. То, что ты убиваешь, твоя плоть хочет проглотить.",
+    "rarity": "Rare",
+    "weight": 6,
+    "strength": 10,
+    "constitution": 10,
+    "charm": -10,
+    "tags": [
+      "demonic_devour",
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "nether_corpse_body",
+    "name": "Нижний мир труп тело",
+    "description": "Холод как могила, медленно гниет, медленнее умирать. Живые держат дистанцию.",
+    "rarity": "Rare",
+    "weight": 6,
+    "constitution": 15,
+    "charm": -15,
+    "lifespanYears": 60,
+    "tags": [
+      "demonic_devour",
+      "poison_immune"
+    ]
+  },
+  {
+    "id": "heavenly_devil_heart",
+    "name": "Небесный дьявол сердце",
+    "description": "У вашего сердца нет трещин, чтобы демон сцепился. Демонические писания читают вам, как лёгги.",
+    "rarity": "Legendary",
+    "weight": 3,
+    "cultivationMultiplier": 1.1,
+    "spirit": 15,
+    "comprehension": 5,
+    "tags": [
+      "demonic_steady",
+      "demonic_method"
+    ]
+  },
+  {
+    "id": "myriad_soul_vessel",
+    "name": "Мириады душа сосуд",
+    "description": "Море сознания достаточно широко, чтобы держать в них тысячу украденных душ, не тонущие в них.",
+    "rarity": "Legendary",
+    "weight": 2,
+    "cultivationMultiplier": 1.2,
+    "spirit": 20,
+    "tags": [
+      "demonic_devour",
+      "demonic_method"
+    ]
+  },
+  {
+    "id": "demon_quelling_body",
+    "name": "Демон-усмиряющий тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Пять демонических секций упали в вашу руку. Небеса сделали вас своим клинком против тьмы, пока ваше сердце остается чистым.",
+    "cultivationMultiplier": 1.8,
+    "strength": 10,
+    "spirit": 10,
+    "lifespanYears": 100,
+    "breakthroughBonus": 0.06,
+    "tribulationBonus": 0.1,
+    "tags": [
+      "secret",
+      "crusader",
+      "upkeep_righteous"
+    ]
+  },
+  {
+    "id": "heaven_upholding_body",
+    "name": "Небесный-поддерживающий тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Восемь демонических сект находятся в руинах позади вас. Небеса наклоняются к вашим плечам и просят, чтобы вы оставались достойными.",
+    "cultivationMultiplier": 2.3,
+    "spirit": 15,
+    "constitution": 10,
+    "luck": 10,
+    "lifespanYears": 200,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": 0.15,
+    "tags": [
+      "secret",
+      "crusader",
+      "upkeep_righteous"
+    ]
+  },
+  {
+    "id": "sect_devouring_body",
+    "name": "Секта-пожирающий демон тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Пять праведных сектов утонули в собственной крови. Их разорение накормит вас, до тех пор, пока мир боится вас.",
+    "cultivationMultiplier": 1.8,
+    "strength": 10,
+    "constitution": 10,
+    "lifespanYears": 100,
+    "breakthroughBonus": 0.06,
+    "tags": [
+      "secret",
+      "defiler",
+      "demonic_devour",
+      "upkeep_demonic"
+    ]
+  },
+  {
+    "id": "heaven_defying_devil_body",
+    "name": "Небесный-бросающий вызов дьявол тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Восемь праведных сект - пепел. Вы - это то, о чем предупреждают матери, и темная наградит вас за это, если вы остаетесь тем, кто вы есть.",
+    "cultivationMultiplier": 2.3,
+    "strength": 15,
+    "spirit": 10,
+    "lifespanYears": 200,
+    "breakthroughBonus": 0.1,
+    "tribulationBonus": 0.1,
+    "tags": [
+      "secret",
+      "defiler",
+      "demonic_devour",
+      "demonic_steady",
+      "upkeep_demonic"
+    ]
+  },
+  {
+    "id": "thousand_faces_body",
+    "name": "Тысячный-лики тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Охотился под сотней имен и поймал ни под кем. Ваше лицо выскользает из памяти; мир никогда не узнает, что вы сделали.",
+    "cultivationMultiplier": 1.3,
+    "agility": 10,
+    "charm": 10,
+    "lifespanYears": 50,
+    "tags": [
+      "secret",
+      "faceless"
+    ]
+  },
+  {
+    "id": "fallen_righteous_body",
+    "name": "Падший праведный тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Небесное тело сделало клинок свое, утуманно со своими грехами. Он тащится на вас до тех пор, пока ваша карма снова не станет чистой.",
+    "cultivationMultiplier": 0.5,
+    "breakthroughBonus": -0.15,
+    "tribulationBonus": -0.2,
+    "tags": [
+      "secret",
+      "lapsed"
+    ]
+  },
+  {
+    "id": "broken_devil_body",
+    "name": "Сломанный дьявол тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Тело дьявола стало мягким с милосердием. Он одыскивает вас до тех пор, пока вы не будете снова бояться и злиться.",
+    "cultivationMultiplier": 0.5,
+    "breakthroughBonus": -0.15,
+    "tribulationBonus": -0.2,
+    "tags": [
+      "secret",
+      "lapsed"
+    ]
+  },
+  {
+    "id": "myriad_venom_body",
+    "name": "Мириады яд тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Каждый яд под небом бежит в вашей крови так же безвредно, как вода, и худшее из них ездит на вашем прикосновении.",
+    "cultivationMultiplier": 1.6,
+    "constitution": 20,
+    "charm": -5,
+    "lifespanYears": 80,
+    "tags": [
+      "secret",
+      "poison_immune",
+      "alchemy_affinity"
+    ]
+  },
+  {
+    "id": "endless_rebirth_body",
+    "name": "Тело из бесконечный перерождение",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "В три раза поворачивалось колесо, и в три раза больше душа прошла через него целиком. Смерть научилась вашему лицу и позволяет пройти.",
+    "cultivationMultiplier": 2.0,
+    "spirit": 15,
+    "comprehension": 15,
+    "lifespanYears": 300,
+    "breakthroughBonus": 0.1,
+    "tags": [
+      "secret",
+      "ghost_sight",
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "myriad_dao_body",
+    "name": "Мириады Дао тело",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Каждый дао под небом поселился в вас до своего корня. Инзит приходит к вам так, как дыхание.",
+    "cultivationMultiplier": 3.0,
+    "spirit": 20,
+    "comprehension": 40,
+    "luck": 10,
+    "lifespanYears": 600,
+    "breakthroughBonus": 0.15,
+    "tribulationBonus": 0.2,
+    "tags": [
+      "secret",
+      "vast_sea",
+      "fast_healing"
+    ]
+  },
+  {
+    "id": "great_dao_body",
+    "name": "Тело из великий Дао",
+    "rarity": "Mythic",
+    "weight": 0,
+    "description": "Каждый дао понимал до конца и вплетался в один. Между вами и небьмом не осталось шва.",
+    "cultivationMultiplier": 5.0,
+    "strength": 30,
+    "agility": 30,
+    "constitution": 30,
+    "spirit": 30,
+    "comprehension": 30,
+    "luck": 30,
+    "charm": 30,
+    "lifespanYears": 2000,
+    "breakthroughBonus": 0.25,
+    "tribulationBonus": 0.4,
+    "tags": [
+      "secret",
+      "vast_sea",
+      "fast_healing",
+      "pill_vessel",
+      "poison_immune",
+      "cold_immune"
+    ]
+  },
+  {
+    "id": "withering_blood",
+    "name": "Увядание кровавый тело",
+    "rarity": "Common",
+    "weight": 60,
+    "description": "Тонкая, медленная кровь. Ваши чувства ведали, но разрез занимает сезон, чтобы закрыться.",
+    "spirit": 8,
+    "tags": [
+      "slow_healing"
+    ]
+  },
+  {
+    "id": "frail_soul",
+    "name": "Хрупкий душа тело",
+    "rarity": "Uncommon",
+    "weight": 45,
+    "description": "Быстрые руки и душа, которая свободно сидит в них: удар по разуму намного глубже, чем должен.",
+    "agility": 8,
+    "spirit": -12,
+    "tags": [
+      "frail_soul"
+    ]
+  },
+  {
+    "id": "stone_heart",
+    "name": "Камень сердце тело",
+    "rarity": "Common",
+    "weight": 50,
+    "description": "Тяжелый и холодный, как гора. Мало что движет, в том числе и души, и люди находят вам трудно согреться.",
+    "constitution": 12,
+    "spirit": -6,
+    "charm": -12,
+    "tags": [
+      "vast_sea"
+    ]
+  },
+  {
+    "id": "porous_meridians",
+    "name": "Пористый меридианы",
+    "rarity": "Uncommon",
+    "weight": 35,
+    "description": "Широко открытые меридианы пьют ци жадно, а все остальное с ним: яд и укус холодного ци в два раза глубже.",
+    "cultivationMultiplier": 1.25,
+    "tags": [
+      "porous"
+    ]
+  },
+  {
+    "id": "glass_meridians",
+    "name": "Стекло меридианы",
+    "rarity": "Rare",
+    "weight": 15,
+    "description": "Безукоризненный, ясный и хрупкий. Ци гоняется через них; прорыв или тяжество может разрушить их.",
+    "cultivationMultiplier": 1.5,
+    "breakthroughBonus": -0.1,
+    "tribulationBonus": -0.15,
+    "tags": [
+      "heaven_jealous"
+    ]
+  },
+  {
+    "id": "burning_life",
+    "name": "Пылающий жизнь тело",
+    "rarity": "Rare",
+    "weight": 12,
+    "description": "Ваша жизнь горит, как факел: свирепый, яркий и короткий.",
+    "cultivationMultiplier": 1.6,
+    "strength": 10,
+    "agility": 5,
+    "lifespanYears": -25
+  },
+  {
+    "id": "overlord_body",
+    "name": "Повелитель тело",
+    "rarity": "Legendary",
+    "weight": 3,
+    "description": "Ваши меридианы запечатаны на небо и на земле, и ваше море сознания закрыто, как гробница. Все, что бы влилось в ци, а душа льется вместо плоти: вы никогда не будете рисовать в плете духовной ци или откроете божественный глаз, и вам никогда не придется.",
+    "cultivationMultiplier": 1.8,
+    "strength": 15,
+    "constitution": 20,
+    "agility": 5,
+    "lifespanYears": 30,
+    "tribulationBonus": 0.1,
+    "closedPaths": [
+      "Qi",
+      "Soul"
+    ],
+    "tags": [
+      "body_refining",
+      "sealed_sea"
+    ]
+  },
+  {
+    "id": "cauldron_heart",
+    "name": "Котёл сердце тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Печь горит устойчиво в груди. Пламя наклоняется к руке, как будто нужно сказать, что делать.",
+    "tags": [
+      "talent_alchemy"
+    ]
+  },
+  {
+    "id": "anvil_bone",
+    "name": "Наковальня кость тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Ваши кости звонят под молотком, как хорошее железо. Металл запоминает ваше прикосновение.",
+    "tags": [
+      "talent_forging"
+    ]
+  },
+  {
+    "id": "ink_spirit",
+    "name": "Чернила духовный тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Духовые чернила вытекают из ваших пальцев, как если бы это была ваша собственная кровь. Руны приходят к вам наполовину написанные.",
+    "tags": [
+      "talent_talismans"
+    ]
+  },
+  {
+    "id": "array_vein",
+    "name": "Массив жила тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Вы чувствуете поток ци через камень и помечаете то, как другие чувствуют ветер.",
+    "tags": [
+      "talent_formations"
+    ]
+  },
+  {
+    "id": "thousand_thread",
+    "name": "Тысячный-нить тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Тысячи тонких нитей души бегут из ваших пальцев, и мертвые вещи отвечают на них.",
+    "tags": [
+      "talent_puppetry"
+    ]
+  },
+  {
+    "id": "spirit_soil",
+    "name": "Духовный почва тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Семена ускоряются в вашей ладони. Травы духа растут к вам, как к солнцу.",
+    "tags": [
+      "talent_herbalism"
+    ]
+  },
+  {
+    "id": "heaven_reading",
+    "name": "Небесный-чтение глаза",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Вы видите нитки судьбы как слабые линии в воздухе. Небеса еще не заметили, что вы смотрите.",
+    "tags": [
+      "talent_divination"
+    ]
+  },
+  {
+    "id": "gu_nest",
+    "name": "Гу гнездо тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Вирусы и насекомые оседают на вас, как если бы вы были дома. Гу боится и сразу же любит.",
+    "tags": [
+      "talent_gu"
+    ]
+  },
+  {
+    "id": "beast_kin",
+    "name": "Звериный-род тело",
+    "rarity": "Rare",
+    "weight": 8,
+    "description": "Дикие вещи пахнут своим собственным родом. Звери, которые кусают еще одну голову к тебе.",
+    "tags": [
+      "talent_taming"
+    ]
+  }
+]
